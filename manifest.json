@@ -1,0 +1,37 @@
+{
+  "repository": "patristica-texts",
+  "description": "Public domain texts for Patristica Early Church Reference Guide",
+  "owner": "GitSon88",
+  "last_updated": "2026-08-01",
+  "texts": [
+    {
+      "path": "creeds-and-councils/apostles-creed.txt",
+      "title": "The Apostles' Creed",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English (public domain)",
+      "source_url": "Standard traditional form",
+      "approximate_word_count": 110,
+      "public_domain": true
+    },
+    {
+      "path": "creeds-and-councils/nicene-creed-325.txt",
+      "title": "The Nicene Creed (325)",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English rendering of the Creed of Nicaea 325 (public domain)",
+      "source_url": "Standard historical form",
+      "approximate_word_count": 180,
+      "public_domain": true
+    },
+    {
+      "path": "church-fathers/didache.txt",
+      "title": "The Didache (The Teaching of the Twelve Apostles)",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885, Public Domain",
+      "source_url": "https://www.earlychristianwritings.com/text/didache-roberts.html",
+      "approximate_word_count": 2200,
+      "public_domain": true,
+      "notes": "Partial — chapters 1-7 complete; remaining chapters to be added"
+    }
+  ],
+  "status": "Initial structure and sample texts. Full population of the priority list is a large ongoing effort due to volume of long works (Irenaeus, Augustine, Origen, etc.). Short foundational texts prioritized first. Only confirmed public domain material included."
+}
