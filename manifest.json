@@ -498,7 +498,7 @@
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
       "approximate_word_count": 18295,
       "public_domain": true,
-      "notes": "Partial - Book I of XXII"
+      "notes": "Complete, Book I (see Books II-XXII for the remainder)"
     },
     {
       "path": "church-fathers/irenaeus-against-heresies-book-1.txt",
@@ -649,7 +649,57 @@
       "approximate_word_count": 157857,
       "public_domain": true,
       "notes": "Complete, all five books"
+    },
+    {
+      "path": "church-fathers/augustine-city-of-god-books-2-22.txt",
+      "title": "Augustine, City of God, Books II-XXII",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 422308,
+      "public_domain": true,
+      "notes": "Complete, Books II-XXII"
+    },
+    {
+      "path": "church-fathers/augustine-on-christian-doctrine.txt",
+      "title": "Augustine, On Christian Doctrine",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 67793,
+      "public_domain": true,
+      "notes": "Complete, all four books"
+    },
+    {
+      "path": "church-fathers/basil-de-spiritu-sancto.txt",
+      "title": "Basil the Great, De Spiritu Sancto (On the Holy Spirit)",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 35739,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/basil-hexaemeron.txt",
+      "title": "Basil the Great, The Hexaemeron",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 43637,
+      "public_domain": true,
+      "notes": "Complete, all nine homilies"
+    },
+    {
+      "path": "church-fathers/basil-letters.txt",
+      "title": "Basil the Great, The Letters",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 171703,
+      "public_domain": true,
+      "notes": "Complete"
     }
   ],
-  "status": "50 of 66 texts complete and unabridged (2,452,135 words). Complete works: Apostolic Fathers, the apologists, Irenaeus, Eusebius' Church History, Origen (Against Celsus, De Principiis), Clement of Alexandria's trilogy, Tertullian (Apology, Prescription, On the Flesh of Christ, Against Marcion), Hippolytus, Lactantius, Cyprian, Athanasius, Chrysostom. Partial works are labelled Partial with scope stated. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "56 of 71 texts complete and unabridged (3,193,315 words). Complete works: Apostolic Fathers, the apologists, Irenaeus, Eusebius' Church History, Origen, Clement of Alexandria, Tertullian, Hippolytus, Lactantius, Cyprian, Athanasius, Chrysostom, Basil the Great, and Augustine's City of God and On Christian Doctrine. Augustine's On the Trinity is partial (Books I-IV of XV). Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
