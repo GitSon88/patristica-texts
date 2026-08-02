@@ -699,7 +699,57 @@
       "approximate_word_count": 171703,
       "public_domain": true,
       "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/socrates-ecclesiastical-history.txt",
+      "title": "Socrates Scholasticus, Ecclesiastical History",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 136646,
+      "public_domain": true,
+      "notes": "Complete, all seven books"
+    },
+    {
+      "path": "church-fathers/sozomen-ecclesiastical-history.txt",
+      "title": "Sozomen, Ecclesiastical History",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 160195,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ambrose-duties-of-the-clergy.txt",
+      "title": "Ambrose, On the Duties of the Clergy",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 70152,
+      "public_domain": true,
+      "notes": "Complete, all three books"
+    },
+    {
+      "path": "church-fathers/ambrose-on-the-holy-spirit.txt",
+      "title": "Ambrose, On the Holy Spirit",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 56900,
+      "public_domain": true,
+      "notes": "Complete, all three books"
+    },
+    {
+      "path": "church-fathers/ambrose-on-the-mysteries.txt",
+      "title": "Ambrose, On the Mysteries",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 7427,
+      "public_domain": true,
+      "notes": "Complete"
     }
   ],
-  "status": "56 of 71 texts complete and unabridged (3,193,315 words). Complete works: Apostolic Fathers, the apologists, Irenaeus, Eusebius' Church History, Origen, Clement of Alexandria, Tertullian, Hippolytus, Lactantius, Cyprian, Athanasius, Chrysostom, Basil the Great, and Augustine's City of God and On Christian Doctrine. Augustine's On the Trinity is partial (Books I-IV of XV). Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "61 of 76 texts complete and unabridged (3,624,635 words). Complete: Apostolic Fathers, the apologists, Irenaeus, Origen, Clement of Alexandria, Tertullian, Hippolytus, Lactantius, Cyprian, Athanasius, Basil, Ambrose, Chrysostom, Augustine's City of God and On Christian Doctrine, and the church historians Eusebius, Socrates and Sozomen. Augustine's On the Trinity is partial (Books I-IV of XV). Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
