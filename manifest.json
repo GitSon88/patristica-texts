@@ -389,7 +389,17 @@
       "approximate_word_count": 21990,
       "public_domain": true,
       "notes": "Complete, all 40 chapters"
+    },
+    {
+      "path": "church-fathers/justin-first-apology.txt",
+      "title": "Justin Martyr, The First Apology",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 20357,
+      "public_domain": true,
+      "notes": "Complete, chapters I-LXVIII. Appended rescript of Hadrian absent from source scan."
     }
   ],
-  "status": "26 of 40 texts complete and unabridged (451,491 words). Apostolic Fathers complete. Second-century apologists complete: Tatian, Theophilus, Athenagoras (both works), Tertullian's Apology, Minucius Felix. Also complete: Perpetua and Felicitas, Melito's extant remains, Muratorian Canon, 1 Enoch, Book of Jasher. Remaining short entries in creeds-and-councils and pagan-sources are complete texts or deliberately scoped single passages."
+  "status": "27 of 41 texts complete and unabridged (471,848 words). Apostolic Fathers complete. Second-century apologists: Justin's First Apology, Tatian, Theophilus, Athenagoras (both works), Tertullian's Apology, Minucius Felix. Also complete: Perpetua and Felicitas, Melito's extant remains, Muratorian Canon, 1 Enoch, Book of Jasher. Justin's Second Apology and Dialogue with Trypho remain to be extracted."
 }
