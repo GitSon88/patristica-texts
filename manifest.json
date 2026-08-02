@@ -548,7 +548,7 @@
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
       "approximate_word_count": 59939,
       "public_domain": true,
-      "notes": "Partial - Books I-IV of XV"
+      "notes": "Complete, Books I-IV (see Books V-XV for the remainder)"
     },
     {
       "path": "church-fathers/cyprian-epistles.txt",
@@ -889,7 +889,57 @@
       "approximate_word_count": 99510,
       "public_domain": true,
       "notes": "Complete, all eight books"
+    },
+    {
+      "path": "church-fathers/augustine-on-the-trinity-books-5-15.txt",
+      "title": "Augustine, On the Trinity, Books V-XV",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 125734,
+      "public_domain": true,
+      "notes": "Complete, Books V-XV"
+    },
+    {
+      "path": "church-fathers/augustine-enchiridion.txt",
+      "title": "Augustine, The Enchiridion on Faith, Hope and Love",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 34693,
+      "public_domain": true,
+      "notes": "Complete, all 122 chapters"
+    },
+    {
+      "path": "church-fathers/theodoret-dialogues-eranistes.txt",
+      "title": "Theodoret, Dialogues (Eranistes)",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 66057,
+      "public_domain": true,
+      "notes": "Complete, all three dialogues"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-1-corinthians.txt",
+      "title": "John Chrysostom, Homilies on First Corinthians",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 245301,
+      "public_domain": true,
+      "notes": "Complete, all 44 homilies"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-2-corinthians.txt",
+      "title": "John Chrysostom, Homilies on Second Corinthians",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 133051,
+      "public_domain": true,
+      "notes": "Complete, all 30 homilies"
     }
   ],
-  "status": "75 of 90 texts complete and unabridged (5,742,710 words). Complete: Apostolic Fathers, the apologists, Irenaeus, Origen, Clement of Alexandria, Tertullian, Hippolytus, Lactantius, Cyprian, the Apostolic Constitutions, Athanasius, Cyril of Jerusalem, the Cappadocians, Ambrose, Jerome, Gregory the Great, Chrysostom (Matthew, John, Romans, Hebrews, On the Priesthood), Augustine's City of God and On Christian Doctrine, and the four Greek church historians. Augustine's On the Trinity is partial (Books I-IV of XV). Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "81 of 95 texts complete and unabridged (6,347,546 words). Every multi-part work in the repository is now complete, including Augustine's On the Trinity, City of God, Irenaeus, Origen's Against Celsus, Eusebius' Church History and Clement of Alexandria's trilogy. Remaining entries not marked Complete are the creeds and the pagan notices, which are whole texts or deliberately scoped single passages. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
