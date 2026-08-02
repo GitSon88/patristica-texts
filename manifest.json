@@ -538,7 +538,7 @@
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
       "approximate_word_count": 62695,
       "public_domain": true,
-      "notes": "Partial - Books I-II of VIII"
+      "notes": "Complete, Books I-II (see Books III-VIII for the remainder)"
     },
     {
       "path": "church-fathers/augustine-on-the-trinity-books-1-4.txt",
@@ -599,7 +599,27 @@
       "approximate_word_count": 74916,
       "public_domain": true,
       "notes": "Complete, all three books"
+    },
+    {
+      "path": "church-fathers/clement-alexandria-stromata.txt",
+      "title": "Clement of Alexandria, The Stromata (Miscellanies)",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 181454,
+      "public_domain": true,
+      "notes": "Complete, Books I-VII"
+    },
+    {
+      "path": "church-fathers/origen-against-celsus-books-3-8.txt",
+      "title": "Origen, Against Celsus, Books III-VIII",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 178457,
+      "public_domain": true,
+      "notes": "Complete, Books III-VIII"
     }
   ],
-  "status": "44 of 61 texts complete and unabridged (1,644,774 words). Apostolic Fathers, apologists, Irenaeus and Eusebius' Church History complete. Clement of Alexandria (Exhortation, Instructor), Tertullian, Origen, Cyprian, Athanasius and Chrysostom represented. Partial works are labelled Partial with scope stated. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "47 of 63 texts complete and unabridged (2,004,685 words). Complete works: Apostolic Fathers, the apologists, Irenaeus Against Heresies, Eusebius' Church History, Origen's Against Celsus and De Principiis, Clement of Alexandria's trilogy, Cyprian's epistles and treatise, Athanasius, Chrysostom. Partial works are labelled Partial with scope stated. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
