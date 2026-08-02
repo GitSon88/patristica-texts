@@ -1,11 +1,61 @@
-The Muratorian Canon (Fragment)
-Translation: Public domain (traditional English renderings of the Latin fragment)
-Source: Muratorian Fragment
+The Muratorian Canon (Canon Muratorianus)
+Translation: Roberts-Donaldson 1885 (Ante-Nicene Fathers, vol. 5), Public Domain
+Source: https://archive.org/details/EarlyChurchFathers38Volumes
+Note: The fragment is damaged at the start and opens mid-sentence; that is the state
+of the surviving manuscript, not a truncation of this file.
 
-...at which nevertheless he was present, and so he placed [them in his narrative]. The third book of the Gospel is that according to Luke. Luke, the well-known physician, after the ascension of Christ, when Paul had taken with him as one zealous for the law, composed it in his own name, according to [the general] belief. Yet he himself had not seen the Lord in the flesh; and therefore, as he was able to ascertain events, so indeed he begins to tell the story from the birth of John.
+III. -CANON MURATORIANUS.(I) 
 
-The fourth of the Gospels is that of John, [one] of the disciples. To his fellow disciples and bishops, who had been urging him [to write], he said, 'Fast with me from today for three days, and what will be revealed to each one let us tell it to one another.' On the same night it was revealed to Andrew, [one] of the apostles, that John should write down all things in his own name while all of them should review it.
+(In Muratori, V. C. Antiq. Ital. Med. av., vol. iii. col. 854.) 
 
-And so, though various elements may be taught in the individual books of the Gospels, nevertheless this makes no difference to the faith of believers, since by the one sovereign Spirit all things have been declared in all [the Gospels]: concerning the nativity, concerning the passion, concerning the resurrection, concerning life with his disciples, and concerning his twofold coming; the first in the humiliation by which he despised, which has taken place, the second in the glory of his power, which is yet to come.
+1 . ... those things at which he was present he placed thus. (2) The third book of the Gospel, that according to 
+Luke, the well-known physician Luke wrote in his own name(3) in order after the ascension of Christ, and 
+when Paul had associated him with himself(4) as one studious of right.(5) Nor did he himself see the Lord in 
+the flesh; and he, according as he was able to accomplish it, began(6) his narrative with the nativity of John. 
+The fourth Gospel is that of John, one of the disciples. When his fellow-disciples and bishops entreated him, 
+he said, "Fast ye now with me for the space of three days, and let us recount to each other whatever may be 
+revealed to each of us." On the same night it was revealed to Andrew, one of the apostles, that John should 
+narrate all things in his own name as they called them to mind. (7) And hence, although different points s are 
+taught us in the several books of the Gospels, there is no difference as regards the faith of believers, 
+inasmuch as in all of them all things are related under one imperial Spirit,(9) which concern the Lord's 
 
-[Full surviving fragment provided in clean public domain form.]
+nativity, His passion, His resurrection. His conversation witii His disciples, and His twofold advent,-the first 
+in the humiliation of rejection, which is now past, and the second in the glory of royal power, which is yet in 
+the future. What marvel is it, then, that John brings forward these several things(10) so constantly in his 
+epistles also, saying in his own person, "What we have seen with our eyes, and heard with our ears, and our 
+hands have handled, that have we written. "(11) For thus he professes himself to be not only the eye-witness, 
+but also the hearer; and besides that, the historian of all the wondrous facts concerning the Lord in their 
+order. 
+
+2. Moreover, the Acts of all the Apostles are comprised by Luke in one book, and addressed to the most 
+excellent Theophilus, because these different events took place when he was present himself; and he 
+shows this clearly-i.e., that the principle on which he wrote was, to give only what fell under his own 
+notice-by the omission (12) of the passion of Peter, and also of the journey of Paul, when he went from the 
+city-Rome-to Spain. 
+
+3. As to the epistles(13) of Paul, again, to those who will understand the matter, they indicate of themselves 
+what they are, and from what place or with what object they were directed. He wrote first of all, and at 
+considerable length, to the Corinthians, to check the schism of heresy; and then to the Galatians, to forbid 
+circumcision; and then to the Romans on the rule of the Old Testament Scriptures, and also to show them 
+that Christ is the first object(14) in these;-which it is needful for us to discuss severally, (15) as the blessed 
+Apostle Paul, following the rule of his predecessor John, writes to no more than seven churches by name, in 
+this order: the first to the Corinthians, the second to the Ephesians, the third to the Philippians, the fourth to the 
+Colossians, the fifth to the Galatians, the sixth to the Thessalonians, the seventh to the Romans. Moreover, 
+though he writes twice to the Corinthians and Thessalonians for their correction, it is yet shown-i.e., by this 
+sevenfold writing-that there is one Church spread abroad through the whole world. And John too, indeed, in 
+the Apocalypse, although he writes only to seven churches, yet addresses all. He wrote, besides these, 
+one to Philemon, and one to Titus, and two to Timothy, in simple personal affection and love indeed; but yet 
+these are hallowed in the esteem of the Catholic Church, and in the regulation of ecclesiastical discipline. 
+There are also in circulation one to the Laodiceans, and another to the Alexandrians, forged under the 
+name of Paul, and addressed against the heresy of Marcion; and there are also several others which 
+cannot be received into the Catholic Church, for it is not suitable for gall to be mingled with honey. 
+
+4. The Epistle of Jude, indeed, (16) and two belonging to the above-named John-or bearing the name of 
+John-are reckoned among the Catholic epistles. (17) And the book of Wisdom, written by the friends of 
+Solomon in his honour. We receive also the Apocalypse of John and that of Peter, though some amongst 
+us will not have this latter read in the Church. The Pastor, moreover, did Hermas write very recently in our 
+times in the city of Rome, while his brother bishop Plus sat in the chair of the Church of Rome. And therefore 
+it also ought to be read; but it cannot be made public(l) in the Church to the people, nor placed among the 
+prophets, as their number is complete, nor among the apostles to the end of time. Of the writings of Arsinous, 
+called also Valentinus, or of Miltiades, we receive nothing at all. Those are rejected too who wrote the new 
+Book of Psalms for Marcion, together with Basilides and the founder of the Asian Cataphrygians.(2)

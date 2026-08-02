@@ -233,10 +233,11 @@
       "path": "church-fathers/muratorian-canon.txt",
       "title": "Muratorian Canon",
       "category": "church-fathers",
-      "translation": "Public domain",
-      "source_url": "Muratorian Fragment",
-      "approximate_word_count": 350,
-      "public_domain": true
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 874,
+      "public_domain": true,
+      "notes": "Complete surviving fragment. Opens mid-sentence; the manuscript is damaged at the start."
     },
     {
       "path": "pagan-sources/josephus-testimonium-flavianum.txt",
