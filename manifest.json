@@ -339,7 +339,57 @@
       "approximate_word_count": 153704,
       "public_domain": true,
       "notes": "Complete, all 91 chapters. Medieval Hebrew Sefer haYashar; not the lost book cited in Joshua 10:13 / 2 Samuel 1:18, and not the 1751 Ilive forgery. Source EPUB has no title page, so the specific printing is unconfirmed."
+    },
+    {
+      "path": "church-fathers/tatian-address-to-the-greeks.txt",
+      "title": "Tatian, Address to the Greeks",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 14445,
+      "public_domain": true,
+      "notes": "Complete, all 42 chapters"
+    },
+    {
+      "path": "church-fathers/theophilus-to-autolycus.txt",
+      "title": "Theophilus of Antioch, To Autolycus",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 27934,
+      "public_domain": true,
+      "notes": "Complete, all three books"
+    },
+    {
+      "path": "church-fathers/athenagoras-on-the-resurrection.txt",
+      "title": "Athenagoras, On the Resurrection of the Dead",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 12963,
+      "public_domain": true,
+      "notes": "Complete, all 25 chapters"
+    },
+    {
+      "path": "church-fathers/tertullian-apology.txt",
+      "title": "Tertullian, Apology",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 34849,
+      "public_domain": true,
+      "notes": "Complete, all 50 chapters"
+    },
+    {
+      "path": "church-fathers/minucius-felix-octavius.txt",
+      "title": "Minucius Felix, Octavius",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 21990,
+      "public_domain": true,
+      "notes": "Complete, all 40 chapters"
     }
   ],
-  "status": "20 of 35 texts complete and unabridged (338,786 words total). Apostolic Fathers complete: 1 & 2 Clement, all seven Ignatian epistles, Polycarp (Philippians and Martyrdom), Barnabas, Diognetus, Didache, Shepherd of Hermas. Also complete: Perpetua and Felicitas, Athenagoras' Plea, Melito's extant remains, 1 Enoch (108 chapters), Book of Jasher (91 chapters). Remaining short entries in church-fathers and pagan-sources are still excerpts."
+  "status": "26 of 40 texts complete and unabridged (451,491 words). Apostolic Fathers complete. Second-century apologists complete: Tatian, Theophilus, Athenagoras (both works), Tertullian's Apology, Minucius Felix. Also complete: Perpetua and Felicitas, Melito's extant remains, Muratorian Canon, 1 Enoch, Book of Jasher. Remaining short entries in creeds-and-councils and pagan-sources are complete texts or deliberately scoped single passages."
 }
