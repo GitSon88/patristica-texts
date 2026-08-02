@@ -2,42 +2,332 @@
   "repository": "patristica-texts",
   "description": "Public domain texts for Patristica Early Church Reference Guide",
   "owner": "GitSon88",
-  "last_updated": "2026-08-01",
+  "last_updated": "2026-08-02",
   "texts": [
-    {"path": "creeds-and-councils/apostles-creed.txt", "title": "The Apostles' Creed", "category": "creeds-and-councils", "translation": "Traditional English (public domain)", "source_url": "Standard traditional form", "approximate_word_count": 110, "public_domain": true},
-    {"path": "creeds-and-councils/nicene-creed-325.txt", "title": "The Nicene Creed (325)", "category": "creeds-and-councils", "translation": "Traditional English", "source_url": "Standard historical form", "approximate_word_count": 180, "public_domain": true},
-    {"path": "creeds-and-councils/nicene-creed-381.txt", "title": "The Nicene-Constantinopolitan Creed (381)", "category": "creeds-and-councils", "translation": "Traditional English", "source_url": "Standard historical form", "approximate_word_count": 220, "public_domain": true},
-    {"path": "creeds-and-councils/athanasian-creed.txt", "title": "The Athanasian Creed", "category": "creeds-and-councils", "translation": "Traditional English", "source_url": "Standard traditional form", "approximate_word_count": 650, "public_domain": true},
-    {"path": "creeds-and-councils/chalcedonian-definition.txt", "title": "The Chalcedonian Definition (451)", "category": "creeds-and-councils", "translation": "Traditional English", "source_url": "Standard historical form", "approximate_word_count": 280, "public_domain": true},
-    {"path": "church-fathers/didache.txt", "title": "The Didache", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 2200, "public_domain": true, "notes": "Partial"},
-    {"path": "church-fathers/ignatius-ephesians.txt", "title": "Ignatius to the Ephesians", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 1200, "public_domain": true, "notes": "Core"},
-    {"path": "church-fathers/ignatius-magnesians.txt", "title": "Ignatius to the Magnesians", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 800, "public_domain": true, "notes": "Core"},
-    {"path": "church-fathers/ignatius-trallians.txt", "title": "Ignatius to the Trallians", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 700, "public_domain": true, "notes": "Core"},
-    {"path": "church-fathers/ignatius-romans.txt", "title": "Ignatius to the Romans", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 900, "public_domain": true, "notes": "Core"},
-    {"path": "church-fathers/ignatius-philadelphians.txt", "title": "Ignatius to the Philadelphians", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 700, "public_domain": true, "notes": "Core"},
-    {"path": "church-fathers/ignatius-smyrnaeans.txt", "title": "Ignatius to the Smyrnaeans", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 900, "public_domain": true, "notes": "Core"},
-    {"path": "church-fathers/ignatius-polycarp.txt", "title": "Ignatius to Polycarp", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 600, "public_domain": true, "notes": "Core"},
-    {"path": "church-fathers/polycarp-philippians.txt", "title": "Polycarp to the Philippians", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 800, "public_domain": true, "notes": "Core"},
-    {"path": "church-fathers/martyrdom-of-polycarp.txt", "title": "Martyrdom of Polycarp", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 600, "public_domain": true, "notes": "Core"},
-    {"path": "church-fathers/first-clement.txt", "title": "1 Clement", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 2500, "public_domain": true, "notes": "Expanded opening; full 65 chapters in progress"},
-    {"path": "church-fathers/second-clement.txt", "title": "2 Clement", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 400, "public_domain": true, "notes": "Opening"},
-    {"path": "church-fathers/epistle-of-barnabas.txt", "title": "Epistle of Barnabas", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 500, "public_domain": true, "notes": "Opening"},
-    {"path": "church-fathers/epistle-to-diognetus.txt", "title": "Epistle to Diognetus", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 500, "public_domain": true, "notes": "Opening"},
-    {"path": "church-fathers/shepherd-of-hermas.txt", "title": "The Shepherd of Hermas", "category": "church-fathers", "translation": "Roberts-Donaldson / Lightfoot", "source_url": "Apostolic Fathers collections", "approximate_word_count": 1200, "public_domain": true, "notes": "Vision 1 core; full Visions + Mandates + Similitudes in progress"},
-    {"path": "church-fathers/melito-on-the-passover.txt", "title": "Melito On the Passover", "category": "church-fathers", "translation": "Public domain", "source_url": "Melito On Pascha", "approximate_word_count": 350, "public_domain": true},
-    {"path": "church-fathers/acts-of-perpetua-and-felicitas.txt", "title": "Acts of Perpetua and Felicitas", "category": "church-fathers", "translation": "Public domain", "source_url": "Passion of Perpetua", "approximate_word_count": 300, "public_domain": true, "notes": "Opening"},
-    {"path": "church-fathers/athenagoras-plea.txt", "title": "Athenagoras - A Plea for the Christians", "category": "church-fathers", "translation": "Roberts-Donaldson 1885", "source_url": "earlychristianwritings.com", "approximate_word_count": 400, "public_domain": true, "notes": "Opening"},
-    {"path": "church-fathers/muratorian-canon.txt", "title": "Muratorian Canon", "category": "church-fathers", "translation": "Public domain", "source_url": "Muratorian Fragment", "approximate_word_count": 350, "public_domain": true},
-    {"path": "pagan-sources/josephus-testimonium-flavianum.txt", "title": "Josephus Testimonium Flavianum", "category": "pagan-sources", "translation": "Whiston", "source_url": "Antiquities 18.3.3", "approximate_word_count": 150, "public_domain": true},
-    {"path": "pagan-sources/josephus-james.txt", "title": "Josephus on James", "category": "pagan-sources", "translation": "Whiston", "source_url": "Antiquities 20.9.1", "approximate_word_count": 70, "public_domain": true},
-    {"path": "pagan-sources/tacitus-annals-15-44.txt", "title": "Tacitus Annals 15.44", "category": "pagan-sources", "translation": "Church and Brodribb", "source_url": "Annals 15.44", "approximate_word_count": 280, "public_domain": true},
-    {"path": "pagan-sources/pliny-epistles-10-96.txt", "title": "Pliny Epistles 10.96", "category": "pagan-sources", "translation": "Melmoth", "source_url": "Letters 10.96", "approximate_word_count": 650, "public_domain": true},
-    {"path": "pagan-sources/suetonius-claudius-25-4.txt", "title": "Suetonius Claudius 25.4", "category": "pagan-sources", "translation": "Rolfe", "source_url": "Claudius 25.4", "approximate_word_count": 20, "public_domain": true},
-    {"path": "pagan-sources/lucian-death-of-peregrinus.txt", "title": "Lucian Death of Peregrinus", "category": "pagan-sources", "translation": "Harmon", "source_url": "Passing of Peregrinus", "approximate_word_count": 450, "public_domain": true},
-    {"path": "pagan-sources/mara-bar-serapion-letter.txt", "title": "Mara bar Serapion Letter", "category": "pagan-sources", "translation": "Public domain", "source_url": "Syriac letter", "approximate_word_count": 120, "public_domain": true},
-    {"path": "pagan-sources/celsus-fragments.txt", "title": "Celsus Fragments", "category": "pagan-sources", "translation": "Public domain", "source_url": "Origen Contra Celsum", "approximate_word_count": 280, "public_domain": true},
-    {"path": "pagan-sources/talmud-jesus-references.txt", "title": "Talmud Jesus References", "category": "pagan-sources", "translation": "Public domain", "source_url": "Babylonian Talmud", "approximate_word_count": 250, "public_domain": true},
-    {"path": "pseudepigrapha/1-enoch-complete.txt", "title": "1 Enoch (R.H. Charles)", "category": "pseudepigrapha", "translation": "R.H. Charles 1917", "source_url": "Charles 1917", "approximate_word_count": 2500, "public_domain": true, "notes": "Expanded Book of the Watchers (chs 1-5+); full 108 chapters across all five books in progress"}
+    {
+      "path": "creeds-and-councils/apostles-creed.txt",
+      "title": "The Apostles' Creed",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English (public domain)",
+      "source_url": "Standard traditional form",
+      "approximate_word_count": 110,
+      "public_domain": true
+    },
+    {
+      "path": "creeds-and-councils/nicene-creed-325.txt",
+      "title": "The Nicene Creed (325)",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English",
+      "source_url": "Standard historical form",
+      "approximate_word_count": 180,
+      "public_domain": true
+    },
+    {
+      "path": "creeds-and-councils/nicene-creed-381.txt",
+      "title": "The Nicene-Constantinopolitan Creed (381)",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English",
+      "source_url": "Standard historical form",
+      "approximate_word_count": 220,
+      "public_domain": true
+    },
+    {
+      "path": "creeds-and-councils/athanasian-creed.txt",
+      "title": "The Athanasian Creed",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English",
+      "source_url": "Standard traditional form",
+      "approximate_word_count": 650,
+      "public_domain": true
+    },
+    {
+      "path": "creeds-and-councils/chalcedonian-definition.txt",
+      "title": "The Chalcedonian Definition (451)",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English",
+      "source_url": "Standard historical form",
+      "approximate_word_count": 280,
+      "public_domain": true
+    },
+    {
+      "path": "church-fathers/didache.txt",
+      "title": "The Didache",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885",
+      "source_url": "earlychristianwritings.com",
+      "approximate_word_count": 2200,
+      "public_domain": true,
+      "notes": "Partial"
+    },
+    {
+      "path": "church-fathers/ignatius-ephesians.txt",
+      "title": "Ignatius to the Ephesians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 7086,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-magnesians.txt",
+      "title": "Ignatius to the Magnesians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 4509,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-trallians.txt",
+      "title": "Ignatius to the Trallians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 4620,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-romans.txt",
+      "title": "Ignatius to the Romans",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 3815,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-philadelphians.txt",
+      "title": "Ignatius to the Philadelphians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 4868,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-smyrnaeans.txt",
+      "title": "Ignatius to the Smyrnaeans",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 4493,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-polycarp.txt",
+      "title": "Ignatius to Polycarp",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 2732,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/polycarp-philippians.txt",
+      "title": "Polycarp to the Philippians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 2387,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/martyrdom-of-polycarp.txt",
+      "title": "Martyrdom of Polycarp",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 4407,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/first-clement.txt",
+      "title": "1 Clement",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 12986,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/second-clement.txt",
+      "title": "2 Clement",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885",
+      "source_url": "earlychristianwritings.com",
+      "approximate_word_count": 400,
+      "public_domain": true,
+      "notes": "Opening"
+    },
+    {
+      "path": "church-fathers/epistle-of-barnabas.txt",
+      "title": "Epistle of Barnabas",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885",
+      "source_url": "earlychristianwritings.com",
+      "approximate_word_count": 500,
+      "public_domain": true,
+      "notes": "Opening"
+    },
+    {
+      "path": "church-fathers/epistle-to-diognetus.txt",
+      "title": "Epistle to Diognetus",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885",
+      "source_url": "earlychristianwritings.com",
+      "approximate_word_count": 500,
+      "public_domain": true,
+      "notes": "Opening"
+    },
+    {
+      "path": "church-fathers/shepherd-of-hermas.txt",
+      "title": "The Shepherd of Hermas",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 39239,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/melito-on-the-passover.txt",
+      "title": "Melito On the Passover",
+      "category": "church-fathers",
+      "translation": "Public domain",
+      "source_url": "Melito On Pascha",
+      "approximate_word_count": 350,
+      "public_domain": true
+    },
+    {
+      "path": "church-fathers/acts-of-perpetua-and-felicitas.txt",
+      "title": "Acts of Perpetua and Felicitas",
+      "category": "church-fathers",
+      "translation": "Public domain",
+      "source_url": "Passion of Perpetua",
+      "approximate_word_count": 300,
+      "public_domain": true,
+      "notes": "Opening"
+    },
+    {
+      "path": "church-fathers/athenagoras-plea.txt",
+      "title": "Athenagoras - A Plea for the Christians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885",
+      "source_url": "earlychristianwritings.com",
+      "approximate_word_count": 400,
+      "public_domain": true,
+      "notes": "Opening"
+    },
+    {
+      "path": "church-fathers/muratorian-canon.txt",
+      "title": "Muratorian Canon",
+      "category": "church-fathers",
+      "translation": "Public domain",
+      "source_url": "Muratorian Fragment",
+      "approximate_word_count": 350,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/josephus-testimonium-flavianum.txt",
+      "title": "Josephus Testimonium Flavianum",
+      "category": "pagan-sources",
+      "translation": "Whiston",
+      "source_url": "Antiquities 18.3.3",
+      "approximate_word_count": 150,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/josephus-james.txt",
+      "title": "Josephus on James",
+      "category": "pagan-sources",
+      "translation": "Whiston",
+      "source_url": "Antiquities 20.9.1",
+      "approximate_word_count": 70,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/tacitus-annals-15-44.txt",
+      "title": "Tacitus Annals 15.44",
+      "category": "pagan-sources",
+      "translation": "Church and Brodribb",
+      "source_url": "Annals 15.44",
+      "approximate_word_count": 280,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/pliny-epistles-10-96.txt",
+      "title": "Pliny Epistles 10.96",
+      "category": "pagan-sources",
+      "translation": "Melmoth",
+      "source_url": "Letters 10.96",
+      "approximate_word_count": 650,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/suetonius-claudius-25-4.txt",
+      "title": "Suetonius Claudius 25.4",
+      "category": "pagan-sources",
+      "translation": "Rolfe",
+      "source_url": "Claudius 25.4",
+      "approximate_word_count": 20,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/lucian-death-of-peregrinus.txt",
+      "title": "Lucian Death of Peregrinus",
+      "category": "pagan-sources",
+      "translation": "Harmon",
+      "source_url": "Passing of Peregrinus",
+      "approximate_word_count": 450,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/mara-bar-serapion-letter.txt",
+      "title": "Mara bar Serapion Letter",
+      "category": "pagan-sources",
+      "translation": "Public domain",
+      "source_url": "Syriac letter",
+      "approximate_word_count": 120,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/celsus-fragments.txt",
+      "title": "Celsus Fragments",
+      "category": "pagan-sources",
+      "translation": "Public domain",
+      "source_url": "Origen Contra Celsum",
+      "approximate_word_count": 280,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/talmud-jesus-references.txt",
+      "title": "Talmud Jesus References",
+      "category": "pagan-sources",
+      "translation": "Public domain",
+      "source_url": "Babylonian Talmud",
+      "approximate_word_count": 250,
+      "public_domain": true
+    },
+    {
+      "path": "pseudepigrapha/1-enoch-complete.txt",
+      "title": "1 Enoch (R.H. Charles)",
+      "category": "pseudepigrapha",
+      "translation": "R.H. Charles 1917",
+      "source_url": "Charles 1917",
+      "approximate_word_count": 2500,
+      "public_domain": true,
+      "notes": "Expanded Book of the Watchers (chs 1-5+); full 108 chapters across all five books in progress"
+    }
   ],
   "status": "Priority incomplete files expanded (1 Enoch Watchers chapters, 1 Clement opening expanded, Shepherd of Hermas Vision 1 added). Batch 1 cores complete. Batch 3 complete. Batch 4 underway. Full long works continue systematically."
 }
