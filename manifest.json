@@ -849,7 +849,47 @@
       "approximate_word_count": 66379,
       "public_domain": true,
       "notes": "Complete, all four parts"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-matthew.txt",
+      "title": "John Chrysostom, Homilies on the Gospel of Matthew",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 432097,
+      "public_domain": true,
+      "notes": "Complete, all 90 homilies"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-john.txt",
+      "title": "John Chrysostom, Homilies on the Gospel of John",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 297822,
+      "public_domain": true,
+      "notes": "Complete, all 88 homilies"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-hebrews.txt",
+      "title": "John Chrysostom, Homilies on Hebrews",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 141066,
+      "public_domain": true,
+      "notes": "Complete, all 34 homilies"
+    },
+    {
+      "path": "church-fathers/apostolic-constitutions.txt",
+      "title": "Constitutions of the Holy Apostles",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 99510,
+      "public_domain": true,
+      "notes": "Complete, all eight books"
     }
   ],
-  "status": "71 of 86 texts complete and unabridged (4,772,215 words). Complete: Apostolic Fathers, the apologists, Irenaeus, Origen, Clement of Alexandria, Tertullian, Hippolytus, Lactantius, Cyprian, Athanasius, Cyril of Jerusalem, Basil, the two Gregories and Gregory the Great, Ambrose, Jerome, Chrysostom, Augustine's City of God and On Christian Doctrine, and the four Greek church historians. Augustine's On the Trinity is partial (Books I-IV of XV). Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "75 of 90 texts complete and unabridged (5,742,710 words). Complete: Apostolic Fathers, the apologists, Irenaeus, Origen, Clement of Alexandria, Tertullian, Hippolytus, Lactantius, Cyprian, the Apostolic Constitutions, Athanasius, Cyril of Jerusalem, the Cappadocians, Ambrose, Jerome, Gregory the Great, Chrysostom (Matthew, John, Romans, Hebrews, On the Priesthood), Augustine's City of God and On Christian Doctrine, and the four Greek church historians. Augustine's On the Trinity is partial (Books I-IV of XV). Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
