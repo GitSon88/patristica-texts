@@ -549,7 +549,27 @@
       "approximate_word_count": 59939,
       "public_domain": true,
       "notes": "Partial - Books I-IV of XV"
+    },
+    {
+      "path": "church-fathers/cyprian-epistles.txt",
+      "title": "Cyprian, The Epistles",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 114284,
+      "public_domain": true,
+      "notes": "Complete, Epistles I-LXXXII"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-romans.txt",
+      "title": "John Chrysostom, Homilies on Romans",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 201941,
+      "public_domain": true,
+      "notes": "Complete, all 32 homilies"
     }
   ],
-  "status": "38 of 56 texts complete and unabridged (1,140,172 words). Apostolic Fathers complete. Apologists complete. Irenaeus Against Heresies complete (all five books). Tertullian, Origen, Cyprian, Athanasius, Chrysostom represented. Partial works are labelled Partial with scope stated. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "40 of 58 texts complete and unabridged (1,456,397 words). Apostolic Fathers, apologists, and Irenaeus complete. Tertullian, Origen, Cyprian (treatise and all 82 epistles), Athanasius, Chrysostom (On the Priesthood and all 32 Homilies on Romans), Eusebius and Augustine represented. Partial works are labelled Partial with scope stated. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
