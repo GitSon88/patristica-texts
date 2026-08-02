@@ -328,6 +328,16 @@
       "approximate_word_count": 37515,
       "public_domain": true,
       "notes": "Complete, all 108 chapters"
+    },
+    {
+      "path": "pseudepigrapha/book-of-jasher.txt",
+      "title": "The Book of Jasher (Sefer haYashar)",
+      "category": "pseudepigrapha",
+      "translation": "Moses Samuel, 1840 (Noah & Gould, New York)",
+      "source_url": "https://archive.org/details/english-book-of-jasher",
+      "approximate_word_count": 153704,
+      "public_domain": true,
+      "notes": "Complete, all 91 chapters. Medieval Hebrew midrashic work; not the lost book cited in Joshua 10:13 / 2 Samuel 1:18."
     }
   ],
   "status": "Priority incomplete files expanded (1 Enoch Watchers chapters, 1 Clement opening expanded, Shepherd of Hermas Vision 1 added). Batch 1 cores complete. Batch 3 complete. Batch 4 underway. Full long works continue systematically."
