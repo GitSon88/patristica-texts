@@ -789,7 +789,67 @@
       "approximate_word_count": 18708,
       "public_domain": true,
       "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/cyril-jerusalem-catechetical-lectures.txt",
+      "title": "Cyril of Jerusalem, The Catechetical Lectures",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 108178,
+      "public_domain": true,
+      "notes": "Complete, all 23 lectures"
+    },
+    {
+      "path": "church-fathers/gregory-nazianzen-orations.txt",
+      "title": "Gregory Nazianzen, The Orations",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 235152,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/gregory-nyssa-on-virginity.txt",
+      "title": "Gregory of Nyssa, On Virginity",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 36145,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/gregory-nyssa-on-the-making-of-man.txt",
+      "title": "Gregory of Nyssa, On the Making of Man",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 69701,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/gregory-nyssa-great-catechism.txt",
+      "title": "Gregory of Nyssa, The Great Catechism",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 31428,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/gregory-great-pastoral-rule.txt",
+      "title": "Gregory the Great, The Book of Pastoral Rule",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 66379,
+      "public_domain": true,
+      "notes": "Complete, all four parts"
     }
   ],
-  "status": "65 of 80 texts complete and unabridged (4,225,232 words). Complete: Apostolic Fathers, the apologists, Irenaeus, Origen, Clement of Alexandria, Tertullian, Hippolytus, Lactantius, Cyprian, Athanasius, Basil, Ambrose, Jerome, Chrysostom, Augustine's City of God and On Christian Doctrine, and the church historians Eusebius, Socrates, Sozomen and Theodoret. Augustine's On the Trinity is partial (Books I-IV of XV). Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "71 of 86 texts complete and unabridged (4,772,215 words). Complete: Apostolic Fathers, the apologists, Irenaeus, Origen, Clement of Alexandria, Tertullian, Hippolytus, Lactantius, Cyprian, Athanasius, Cyril of Jerusalem, Basil, the two Gregories and Gregory the Great, Ambrose, Jerome, Chrysostom, Augustine's City of God and On Christian Doctrine, and the four Greek church historians. Augustine's On the Trinity is partial (Books I-IV of XV). Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
