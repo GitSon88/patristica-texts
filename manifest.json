@@ -333,12 +333,12 @@
       "path": "pseudepigrapha/book-of-jasher.txt",
       "title": "The Book of Jasher (Sefer haYashar)",
       "category": "pseudepigrapha",
-      "translation": "Moses Samuel, 1840 (Noah & Gould, New York)",
+      "translation": "Moses Samuel, 1840",
       "source_url": "https://archive.org/details/english-book-of-jasher",
       "approximate_word_count": 153704,
       "public_domain": true,
-      "notes": "Complete, all 91 chapters. Medieval Hebrew midrashic work; not the lost book cited in Joshua 10:13 / 2 Samuel 1:18."
+      "notes": "Complete, all 91 chapters. Medieval Hebrew Sefer haYashar; not the lost book cited in Joshua 10:13 / 2 Samuel 1:18, and not the 1751 Ilive forgery. Source EPUB has no title page, so the specific printing is unconfirmed."
     }
   ],
-  "status": "Priority incomplete files expanded (1 Enoch Watchers chapters, 1 Clement opening expanded, Shepherd of Hermas Vision 1 added). Batch 1 cores complete. Batch 3 complete. Batch 4 underway. Full long works continue systematically."
+  "status": "20 of 35 texts complete and unabridged (338,786 words total). Apostolic Fathers complete: 1 & 2 Clement, all seven Ignatian epistles, Polycarp (Philippians and Martyrdom), Barnabas, Diognetus, Didache, Shepherd of Hermas. Also complete: Perpetua and Felicitas, Athenagoras' Plea, Melito's extant remains, 1 Enoch (108 chapters), Book of Jasher (91 chapters). Remaining short entries in church-fathers and pagan-sources are still excerpts."
 }
