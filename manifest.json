@@ -749,7 +749,47 @@
       "approximate_word_count": 7427,
       "public_domain": true,
       "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/theodoret-ecclesiastical-history.txt",
+      "title": "Theodoret, Ecclesiastical History",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 89995,
+      "public_domain": true,
+      "notes": "Complete, all five books"
+    },
+    {
+      "path": "church-fathers/theodoret-letters.txt",
+      "title": "Theodoret, The Letters",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 229203,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/jerome-letters.txt",
+      "title": "Jerome, The Letters",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 262691,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/jerome-lives-of-the-hermits.txt",
+      "title": "Jerome, The Lives of the Hermits",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 18708,
+      "public_domain": true,
+      "notes": "Complete"
     }
   ],
-  "status": "61 of 76 texts complete and unabridged (3,624,635 words). Complete: Apostolic Fathers, the apologists, Irenaeus, Origen, Clement of Alexandria, Tertullian, Hippolytus, Lactantius, Cyprian, Athanasius, Basil, Ambrose, Chrysostom, Augustine's City of God and On Christian Doctrine, and the church historians Eusebius, Socrates and Sozomen. Augustine's On the Trinity is partial (Books I-IV of XV). Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "65 of 80 texts complete and unabridged (4,225,232 words). Complete: Apostolic Fathers, the apologists, Irenaeus, Origen, Clement of Alexandria, Tertullian, Hippolytus, Lactantius, Cyprian, Athanasius, Basil, Ambrose, Jerome, Chrysostom, Augustine's City of God and On Christian Doctrine, and the church historians Eusebius, Socrates, Sozomen and Theodoret. Augustine's On the Trinity is partial (Books I-IV of XV). Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
