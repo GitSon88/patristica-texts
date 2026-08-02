@@ -399,7 +399,57 @@
       "approximate_word_count": 20357,
       "public_domain": true,
       "notes": "Complete, chapters I-LXVIII. Appended rescript of Hadrian absent from source scan."
+    },
+    {
+      "path": "church-fathers/irenaeus-against-heresies-book-3.txt",
+      "title": "Irenaeus, Against Heresies, Book III",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 40890,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/tertullian-prescription-against-heretics.txt",
+      "title": "Tertullian, The Prescription Against Heretics",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 16294,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/tertullian-on-the-flesh-of-christ.txt",
+      "title": "Tertullian, On the Flesh of Christ",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 17889,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/origen-de-principiis.txt",
+      "title": "Origen, De Principiis (On First Principles)",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 125243,
+      "public_domain": true,
+      "notes": "Complete, Preface through Book IV"
+    },
+    {
+      "path": "church-fathers/cyprian-on-the-unity-of-the-church.txt",
+      "title": "Cyprian, On the Unity of the Church",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 7913,
+      "public_domain": true,
+      "notes": "Complete"
     }
   ],
-  "status": "27 of 41 texts complete and unabridged (471,848 words). Apostolic Fathers complete. Second-century apologists: Justin's First Apology, Tatian, Theophilus, Athenagoras (both works), Tertullian's Apology, Minucius Felix. Also complete: Perpetua and Felicitas, Melito's extant remains, Muratorian Canon, 1 Enoch, Book of Jasher. Justin's Second Apology and Dialogue with Trypho remain to be extracted."
+  "status": "32 of 46 texts complete and unabridged (680,077 words). Apostolic Fathers complete. Apologists: Justin's First Apology, Tatian, Theophilus, Athenagoras (both works), Tertullian's Apology, Minucius Felix. Anti-heretical and theological: Irenaeus Against Heresies Book III, Tertullian's Prescription and On the Flesh of Christ, Origen's De Principiis, Cyprian on the Unity of the Church. Justin's Second Apology and Dialogue with Trypho blocked on source quality - see notes."
 }
