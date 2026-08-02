@@ -53,11 +53,11 @@
       "path": "church-fathers/didache.txt",
       "title": "The Didache",
       "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885",
-      "source_url": "earlychristianwritings.com",
-      "approximate_word_count": 2200,
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 3160,
       "public_domain": true,
-      "notes": "Partial"
+      "notes": "Complete"
     },
     {
       "path": "church-fathers/ignatius-ephesians.txt",
@@ -173,21 +173,21 @@
       "path": "church-fathers/epistle-of-barnabas.txt",
       "title": "Epistle of Barnabas",
       "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885",
-      "source_url": "earlychristianwritings.com",
-      "approximate_word_count": 500,
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 9796,
       "public_domain": true,
-      "notes": "Opening"
+      "notes": "Complete"
     },
     {
       "path": "church-fathers/epistle-to-diognetus.txt",
       "title": "Epistle to Diognetus",
       "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885",
-      "source_url": "earlychristianwritings.com",
-      "approximate_word_count": 500,
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 4260,
       "public_domain": true,
-      "notes": "Opening"
+      "notes": "Complete"
     },
     {
       "path": "church-fathers/shepherd-of-hermas.txt",
@@ -212,21 +212,21 @@
       "path": "church-fathers/acts-of-perpetua-and-felicitas.txt",
       "title": "Acts of Perpetua and Felicitas",
       "category": "church-fathers",
-      "translation": "Public domain",
-      "source_url": "Passion of Perpetua",
-      "approximate_word_count": 300,
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 5819,
       "public_domain": true,
-      "notes": "Opening"
+      "notes": "Complete"
     },
     {
       "path": "church-fathers/athenagoras-plea.txt",
       "title": "Athenagoras - A Plea for the Christians",
       "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885",
-      "source_url": "earlychristianwritings.com",
-      "approximate_word_count": 400,
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 16354,
       "public_domain": true,
-      "notes": "Opening"
+      "notes": "Complete"
     },
     {
       "path": "church-fathers/muratorian-canon.txt",
