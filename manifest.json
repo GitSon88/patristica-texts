@@ -619,7 +619,37 @@
       "approximate_word_count": 178457,
       "public_domain": true,
       "notes": "Complete, Books III-VIII"
+    },
+    {
+      "path": "church-fathers/hippolytus-refutation-of-all-heresies.txt",
+      "title": "Hippolytus, The Refutation of All Heresies",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 100117,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/lactantius-divine-institutes.txt",
+      "title": "Lactantius, The Divine Institutes",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 189476,
+      "public_domain": true,
+      "notes": "Complete, all seven books"
+    },
+    {
+      "path": "church-fathers/tertullian-against-marcion.txt",
+      "title": "Tertullian, Against Marcion",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 157857,
+      "public_domain": true,
+      "notes": "Complete, all five books"
     }
   ],
-  "status": "47 of 63 texts complete and unabridged (2,004,685 words). Complete works: Apostolic Fathers, the apologists, Irenaeus Against Heresies, Eusebius' Church History, Origen's Against Celsus and De Principiis, Clement of Alexandria's trilogy, Cyprian's epistles and treatise, Athanasius, Chrysostom. Partial works are labelled Partial with scope stated. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "50 of 66 texts complete and unabridged (2,452,135 words). Complete works: Apostolic Fathers, the apologists, Irenaeus, Eusebius' Church History, Origen (Against Celsus, De Principiis), Clement of Alexandria's trilogy, Tertullian (Apology, Prescription, On the Flesh of Christ, Against Marcion), Hippolytus, Lactantius, Cyprian, Athanasius, Chrysostom. Partial works are labelled Partial with scope stated. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
