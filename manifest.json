@@ -499,7 +499,57 @@
       "approximate_word_count": 18295,
       "public_domain": true,
       "notes": "Partial - Book I of XXII"
+    },
+    {
+      "path": "church-fathers/irenaeus-against-heresies-book-1.txt",
+      "title": "Irenaeus, Against Heresies, Book I",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 37453,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/irenaeus-against-heresies-book-2.txt",
+      "title": "Irenaeus, Against Heresies, Book II",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 48083,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/irenaeus-against-heresies-books-4-5.txt",
+      "title": "Irenaeus, Against Heresies, Books IV-V",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 94907,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/origen-against-celsus-books-1-2.txt",
+      "title": "Origen, Against Celsus, Books I-II",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 62695,
+      "public_domain": true,
+      "notes": "Partial - Books I-II of VIII"
+    },
+    {
+      "path": "church-fathers/augustine-on-the-trinity-books-1-4.txt",
+      "title": "Augustine, On the Trinity, Books I-IV",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 59939,
+      "public_domain": true,
+      "notes": "Partial - Books I-IV of XV"
     }
   ],
-  "status": "35 of 51 texts complete and unabridged (837,095 words). Apostolic Fathers complete. Apologists, anti-heretical and theological works complete. Nicene and Post-Nicene: Athanasius (On the Incarnation, Life of Antony), Chrysostom On the Priesthood, Eusebius Church History Books I-III, Augustine City of God Book I. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan - see session notes."
+  "status": "38 of 56 texts complete and unabridged (1,140,172 words). Apostolic Fathers complete. Apologists complete. Irenaeus Against Heresies complete (all five books). Tertullian, Origen, Cyprian, Athanasius, Chrysostom represented. Partial works are labelled Partial with scope stated. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
