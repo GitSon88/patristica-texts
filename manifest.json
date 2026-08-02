@@ -449,7 +449,57 @@
       "approximate_word_count": 7913,
       "public_domain": true,
       "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/eusebius-church-history-books-1-3.txt",
+      "title": "Eusebius, Church History, Books I-III",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 40768,
+      "public_domain": true,
+      "notes": "Partial - Books I-III of X"
+    },
+    {
+      "path": "church-fathers/chrysostom-on-the-priesthood.txt",
+      "title": "John Chrysostom, On the Priesthood",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 42706,
+      "public_domain": true,
+      "notes": "Complete, all six books"
+    },
+    {
+      "path": "church-fathers/athanasius-on-the-incarnation.txt",
+      "title": "Athanasius, On the Incarnation of the Word",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 31033,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/athanasius-life-of-antony.txt",
+      "title": "Athanasius, Life of Antony",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 24216,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/augustine-city-of-god-book-1.txt",
+      "title": "Augustine, City of God, Book I",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 18295,
+      "public_domain": true,
+      "notes": "Partial - Book I of XXII"
     }
   ],
-  "status": "32 of 46 texts complete and unabridged (680,077 words). Apostolic Fathers complete. Apologists: Justin's First Apology, Tatian, Theophilus, Athenagoras (both works), Tertullian's Apology, Minucius Felix. Anti-heretical and theological: Irenaeus Against Heresies Book III, Tertullian's Prescription and On the Flesh of Christ, Origen's De Principiis, Cyprian on the Unity of the Church. Justin's Second Apology and Dialogue with Trypho blocked on source quality - see notes."
+  "status": "35 of 51 texts complete and unabridged (837,095 words). Apostolic Fathers complete. Apologists, anti-heretical and theological works complete. Nicene and Post-Nicene: Athanasius (On the Incarnation, Life of Antony), Chrysostom On the Priesthood, Eusebius Church History Books I-III, Augustine City of God Book I. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan - see session notes."
 }
