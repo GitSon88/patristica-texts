@@ -939,7 +939,57 @@
       "approximate_word_count": 133051,
       "public_domain": true,
       "notes": "Complete, all 30 homilies"
+    },
+    {
+      "path": "reformation/luther-ninety-five-theses.txt",
+      "title": "Martin Luther, The Ninety-Five Theses",
+      "category": "reformation",
+      "translation": "Traditional English translation (Project Gutenberg #274)",
+      "source_url": "https://www.gutenberg.org/ebooks/274",
+      "approximate_word_count": 4743,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "reformation/luther-works-volume-1.txt",
+      "title": "Works of Martin Luther, Volume I",
+      "category": "reformation",
+      "translation": "Jacobs and Spaeth, Holman/Philadelphia edition 1915-1932",
+      "source_url": "https://www.gutenberg.org/ebooks/31604",
+      "approximate_word_count": 142052,
+      "public_domain": true,
+      "notes": "Complete, Volume I of the Holman edition: Disputation on Indulgences (1517), Treatise on Baptism (1519), The Fourteen of Consolation (1520), Treatise on Good Works (1520), Treatise on the New Testament (1520), The Papacy at Rome (1520)"
+    },
+    {
+      "path": "reformation/calvin-institutes-books-1-2.txt",
+      "title": "John Calvin, Institutes of the Christian Religion, Books I-II",
+      "category": "reformation",
+      "translation": "John Allen translation",
+      "source_url": "https://www.gutenberg.org/ebooks/45001",
+      "approximate_word_count": 326694,
+      "public_domain": true,
+      "notes": "Complete, Books I-II"
+    },
+    {
+      "path": "reformation/calvin-institutes-books-3-4.txt",
+      "title": "John Calvin, Institutes of the Christian Religion, Books III-IV",
+      "category": "reformation",
+      "translation": "John Allen translation",
+      "source_url": "https://www.gutenberg.org/ebooks/64392",
+      "approximate_word_count": 333468,
+      "public_domain": true,
+      "notes": "Complete, Books III-IV"
+    },
+    {
+      "path": "reformation/foxe-book-of-martyrs.txt",
+      "title": "John Foxe, Fox's Book of Martyrs",
+      "category": "reformation",
+      "translation": "19th-century English edition",
+      "source_url": "https://www.gutenberg.org/ebooks/22400",
+      "approximate_word_count": 226619,
+      "public_domain": true,
+      "notes": "Complete"
     }
   ],
-  "status": "81 of 95 texts complete and unabridged (6,347,546 words). Every multi-part work in the repository is now complete, including Augustine's On the Trinity, City of God, Irenaeus, Origen's Against Celsus, Eusebius' Church History and Clement of Alexandria's trilogy. Remaining entries not marked Complete are the creeds and the pagan notices, which are whole texts or deliberately scoped single passages. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "86 of 100 texts complete and unabridged (7,381,122 words). Patristic corpus complete through the eighth century. Reformation category opened with Luther (Ninety-Five Theses; Works Volume I, Holman edition), Calvin's Institutes (Allen translation, all four books) and Foxe's Book of Martyrs. All Project Gutenberg, all verified public domain. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current patristic source scan."
 }
