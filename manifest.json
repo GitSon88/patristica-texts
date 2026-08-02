@@ -200,13 +200,14 @@
       "notes": "Complete"
     },
     {
-      "path": "church-fathers/melito-on-the-passover.txt",
-      "title": "Melito On the Passover",
+      "path": "church-fathers/melito-fragments.txt",
+      "title": "Melito of Sardis: Extant Fragments and Discourses",
       "category": "church-fathers",
-      "translation": "Public domain",
-      "source_url": "Melito On Pascha",
-      "approximate_word_count": 350,
-      "public_domain": true
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 8854,
+      "public_domain": true,
+      "notes": "Complete extant remains in ANF. Full Peri Pascha homily not included: discovered 1940, no public-domain English translation exists."
     },
     {
       "path": "church-fathers/acts-of-perpetua-and-felicitas.txt",
