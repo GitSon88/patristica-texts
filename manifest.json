@@ -458,7 +458,7 @@
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
       "approximate_word_count": 40768,
       "public_domain": true,
-      "notes": "Partial - Books I-III of X"
+      "notes": "Complete, Books I-III (see Books IV-X for the remainder)"
     },
     {
       "path": "church-fathers/chrysostom-on-the-priesthood.txt",
@@ -569,7 +569,37 @@
       "approximate_word_count": 201941,
       "public_domain": true,
       "notes": "Complete, all 32 homilies"
+    },
+    {
+      "path": "church-fathers/eusebius-church-history-books-4-10.txt",
+      "title": "Eusebius, Church History, Books IV-X",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 86761,
+      "public_domain": true,
+      "notes": "Complete, Books IV-X"
+    },
+    {
+      "path": "church-fathers/clement-alexandria-exhortation.txt",
+      "title": "Clement of Alexandria, Exhortation to the Heathen",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 26700,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/clement-alexandria-the-instructor.txt",
+      "title": "Clement of Alexandria, The Instructor (Paedagogus)",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 74916,
+      "public_domain": true,
+      "notes": "Complete, all three books"
     }
   ],
-  "status": "40 of 58 texts complete and unabridged (1,456,397 words). Apostolic Fathers, apologists, and Irenaeus complete. Tertullian, Origen, Cyprian (treatise and all 82 epistles), Athanasius, Chrysostom (On the Priesthood and all 32 Homilies on Romans), Eusebius and Augustine represented. Partial works are labelled Partial with scope stated. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "44 of 61 texts complete and unabridged (1,644,774 words). Apostolic Fathers, apologists, Irenaeus and Eusebius' Church History complete. Clement of Alexandria (Exhortation, Instructor), Tertullian, Origen, Cyprian, Athanasius and Chrysostom represented. Partial works are labelled Partial with scope stated. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
