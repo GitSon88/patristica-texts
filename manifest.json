@@ -321,13 +321,13 @@
     },
     {
       "path": "pseudepigrapha/1-enoch-complete.txt",
-      "title": "1 Enoch (R.H. Charles)",
+      "title": "The Book of Enoch (1 Enoch)",
       "category": "pseudepigrapha",
-      "translation": "R.H. Charles 1917",
-      "source_url": "Charles 1917",
-      "approximate_word_count": 2500,
+      "translation": "R.H. Charles, 1917",
+      "source_url": "https://archive.org/details/english-book-of-enoch-by-r.-h.-charles",
+      "approximate_word_count": 37515,
       "public_domain": true,
-      "notes": "Expanded Book of the Watchers (chs 1-5+); full 108 chapters across all five books in progress"
+      "notes": "Complete, all 108 chapters"
     }
   ],
   "status": "Priority incomplete files expanded (1 Enoch Watchers chapters, 1 Clement opening expanded, Shepherd of Hermas Vision 1 added). Batch 1 cores complete. Batch 3 complete. Batch 4 underway. Full long works continue systematically."
