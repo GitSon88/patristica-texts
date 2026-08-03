@@ -145,7 +145,7 @@
       "category": "church-fathers",
       "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 4407,
+      "approximate_word_count": 3724,
       "public_domain": true,
       "notes": "Complete"
     },
@@ -606,7 +606,7 @@
       "category": "church-fathers",
       "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 181454,
+      "approximate_word_count": 172608,
       "public_domain": true,
       "notes": "Complete, Books I-VII"
     },
@@ -616,7 +616,7 @@
       "category": "church-fathers",
       "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 178457,
+      "approximate_word_count": 177930,
       "public_domain": true,
       "notes": "Complete, Books III-VIII"
     },
@@ -646,7 +646,7 @@
       "category": "church-fathers",
       "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 157857,
+      "approximate_word_count": 155713,
       "public_domain": true,
       "notes": "Complete, all five books"
     },
@@ -666,7 +666,7 @@
       "category": "church-fathers",
       "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 67793,
+      "approximate_word_count": 65021,
       "public_domain": true,
       "notes": "Complete, all four books"
     },
@@ -886,7 +886,7 @@
       "category": "church-fathers",
       "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 99510,
+      "approximate_word_count": 99200,
       "public_domain": true,
       "notes": "Complete, all eight books"
     },
@@ -991,5 +991,5 @@
       "notes": "Complete"
     }
   ],
-  "status": "86 of 100 texts complete and unabridged (7,381,122 words). Patristic corpus complete through the eighth century. Reformation category opened with Luther (Ninety-Five Theses; Works Volume I, Holman edition), Calvin's Institutes (Allen translation, all four books) and Foxe's Book of Martyrs. All Project Gutenberg, all verified public domain. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current patristic source scan."
+  "status": "86 of 100 texts complete and unabridged (7,362,172 words). Every file has been audited for editorial apparatus: the 1885 Ante-Nicene elucidations and editorial introductions have been removed, so each file contains the Father's text and nothing else. Patristic corpus complete through the eighth century; reformation category holds Luther, Calvin and Foxe. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
