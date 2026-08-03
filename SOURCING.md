@@ -124,7 +124,26 @@ Tertullian's *On Prayer* (same volume, same translator) went in alongside them,
 since it sits immediately after *On Baptism* in ANF and is the earliest Latin
 commentary on the Lord's Prayer.
 
-**The remaining four cannot be produced from anything on disk.** Sessions here
+**Three of the four remaining are now in**, from archive.org plain text:
+
+- `reformation/zwingli-selected-works.txt` — Jackson, University of Pennsylvania,
+  1901. German works translated by Lawrence A. McLouth, Latin by Henry Preble and
+  George W. Gilmore. The whole volume as printed, Jackson's introductions
+  included. It carries the *Refutation of Baptist Tricks*, which is Zwingli
+  arguing against the Anabaptists on baptism — the piece the sacraments section
+  actually needs.
+- `reformation/menno-simons-complete-works.txt` — Funk, Elkhart, Indiana, 1871.
+  **Do not trust the word "Complete" in the title.** The publishers' own closing
+  note, retained at the end of the file, states that they condensed and abridged
+  parts of Menno's writings on the Incarnation of Christ and left out material
+  they judged unimportant. The manifest entry says so. Anything the app quotes
+  from the Incarnation material should be checked against another edition.
+- `reformation/synod-of-jerusalem-1672-confession-of-dositheus.txt` — Robertson,
+  Thomas Baker, London, 1899, with the appended Confession published under the
+  name of Cyril Lucar which the Synod condemned. Robertson's own introduction is
+  omitted.
+
+**Trent is the one still missing.** Sessions here
 cannot fetch text from the web — the one attempt, on 1 Enoch, silently dropped
 verses and renumbered chapters, which is why the rule is download the file, then
 extract from bytes. Each of these needs a file put where a session can read it:

@@ -1361,6 +1361,16 @@
       "notes": "Complete, Volume I of the Holman edition: Disputation on Indulgences (1517), Treatise on Baptism (1519), The Fourteen of Consolation (1520), Treatise on Good Works (1520), Treatise on the New Testament (1520), The Papacy at Rome (1520)"
     },
     {
+      "path": "reformation/menno-simons-complete-works.txt",
+      "title": "Menno Simons, The Complete Works",
+      "category": "reformation",
+      "translation": "Translated from the original Dutch, John F. Funk and Brother, Elkhart, Indiana, 1871",
+      "source_url": "https://archive.org/details/completeworksofm00menn",
+      "approximate_word_count": 522999,
+      "public_domain": true,
+      "notes": "Both parts as printed. NOT complete despite the title: the publishers' own closing note states they condensed and abridged parts of the writings on the Incarnation of Christ and omitted material they judged unimportant. That note is retained at the end of the file"
+    },
+    {
       "path": "reformation/second-london-baptist-confession-1689.txt",
       "title": "The Baptist Confession of Faith (1677/1689), the Second London Confession",
       "category": "reformation",
@@ -1369,6 +1379,16 @@
       "approximate_word_count": 15183,
       "public_domain": true,
       "notes": "Complete - 32 chapters and the signatories. The Wikisource transcription is not backed by a scan on the wiki; corroborated against the 1911 McGlothlin printing at ten points, eight confirmed, the two misses attributable to OCR damage in that scan"
+    },
+    {
+      "path": "reformation/synod-of-jerusalem-1672-confession-of-dositheus.txt",
+      "title": "The Acts and Decrees of the Synod of Jerusalem (1672), with the Confession of Dositheus",
+      "category": "reformation",
+      "translation": "J. N. W. B. Robertson, tr., Thomas Baker, London, 1899",
+      "source_url": "https://archive.org/details/actsanddecreess00lucagoog",
+      "approximate_word_count": 40386,
+      "public_domain": true,
+      "notes": "Complete Acts and Decrees with the appended Confession published under the name of Cyril Lucar, which the Synod condemned. Robertson's 1899 introduction omitted"
     },
     {
       "path": "reformation/thirty-nine-articles.txt",
@@ -1389,6 +1409,16 @@
       "approximate_word_count": 8453,
       "public_domain": true,
       "notes": "Complete, all 33 chapters"
+    },
+    {
+      "path": "reformation/zwingli-selected-works.txt",
+      "title": "Huldreich Zwingli, Selected Works",
+      "category": "reformation",
+      "translation": "Samuel Macauley Jackson, ed., University of Pennsylvania, 1901; German works tr. Lawrence A. McLouth, Latin tr. Henry Preble and George W. Gilmore",
+      "source_url": "https://archive.org/details/selectedworksofh00zwin",
+      "approximate_word_count": 97827,
+      "public_domain": true,
+      "notes": "Complete volume as printed, including Jackson's 1901 introductions and notes. Contains the Refutation of Baptist Tricks, Zwingli against the Anabaptists on baptism"
     },
     {
       "path": "scripture/asv-new-testament.txt",
