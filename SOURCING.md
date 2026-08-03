@@ -35,6 +35,70 @@ the copyrighted Concordia one (checked via its Jacobs/Spaeth attribution), and a
 scan volume carrying a **modern article appended by the electronic edition's
 editor**, which had to be excluded — see the note in the commit history.
 
+## Scripture
+
+`scripture/` carries the King James Version, split Old and New Testament, from
+the Project Gutenberg edition (ebook 10). Complete, chapter and verse numbered,
+public domain in the United States. It is here so that scripture quoted anywhere
+in the app can be checked against a hosted text rather than against a session's
+memory — which the project's standing rule forbids.
+
+Splitting it further, one file per book, is straightforward if the app ever wants
+to bind a citation to a single book rather than fetch a testament.
+
+## Machine translation is never acceptable
+
+A PDF supplied to this project, *On the Procession of the Holy Spirit* by Cardinal
+Johannes Franzelin, states on its title page: "Gpt-5 Translation". It was
+rejected outright.
+
+This is worth stating as a rule rather than as one rejection. A machine
+translation of a Latin theological text is unverified text wearing the clothes of
+a translation. It has no named translator, no edition, and no one who checked it.
+Publishing it would breach the project's first rule — never fabricate or
+paraphrase a text — while looking exactly like compliance. **Any file whose
+provenance is an AI translation is rejected regardless of how good it reads, and
+regardless of whether the underlying original is public domain.**
+
+## Post-1928 works cleared by non-renewal
+
+`church-fathers/hippolytus-apostolic-tradition.txt` is Burton Scott Easton's
+translation, and the printed page it comes from says "Copyright 1934, Cambridge
+University Press". It is in this repository because United States copyright in it
+was not renewed, and Project Gutenberg — which does its own renewal-record
+research before releasing anything from this period — cleared and released it in
+2020, with a transcriber's note stating the work is public domain in the country
+of publication.
+
+That is a different kind of clearance from a pre-1929 imprint, and the manifest
+entry says so rather than resting on a bare "public_domain": true. Anyone
+uncomfortable with the distinction can drop one file and one manifest entry.
+
+## Rejected from the bulk supply of August 4
+
+- **The MacArthur Study Bible (ESV).** The ESV text is Crossway's and the study
+  notes are MacArthur's. Both in copyright. Not usable in any form.
+- **Two large archives of Bibles and interlinears.** They contain Biblia Hebraica
+  Stuttgartensia, Nestle-Aland 27 and 28, the UBS Greek New Testament and the ESV
+  Interlinear — all in copyright — and several files carry the filename markers of
+  known pirate sites. Nothing from these archives may be used. A handful of
+  genuinely public-domain items sit inside them (the 1901 American Standard
+  Version, the 1885 Revised Version, the 1917 JPS Tanakh, Brenton's 1851
+  Septuagint, Tischendorf), but all are page-image PDFs, and Gutenberg or
+  Wikisource gives the same texts in far better shape.
+- **Prayers of the Early Church**, ed. J. Manning Potts, The Upper Room, 1953. A
+  modern devotional compilation; the selection and renderings are the editor's.
+- **Lig uit lig**, A. van Selms, 1951, in Afrikaans. Modern and in copyright.
+- **Out of scope rather than unusable**, all public domain and all available if
+  wanted later: Aquinas' *Summa* II-II, Kurtz's *Church History* vol. 3, a 1904
+  hymnbook study, a 19th-century sermon, and a second translation of the Augsburg
+  Confession, which the repository already carries in the 1921 Concordia
+  Triglotta version.
+- **Still worth adding on request:** the complete Douay-Rheims Bible (Gutenberg
+  1581), which would give readers the deuterocanonical books the canon-list
+  entries discuss, and Peter Martyr Vermigli's treatise in Thomas Becon's
+  sixteenth-century English (Gutenberg 22151).
+
 ## Known gaps, and what would close them
 
 **Augustine, *Confessions*.** Absent from the 38-volume scan this repo was built

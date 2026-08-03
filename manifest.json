@@ -2,7 +2,7 @@
   "repository": "patristica-texts",
   "description": "Public domain texts for Patristica Early Church Reference Guide",
   "owner": "GitSon88",
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-04",
   "texts": [
     {
       "path": "church-fathers/acts-of-perpetua-and-felicitas.txt",
@@ -563,6 +563,16 @@
       "approximate_word_count": 36145,
       "public_domain": true,
       "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/hippolytus-apostolic-tradition.txt",
+      "title": "Hippolytus, The Apostolic Tradition",
+      "category": "church-fathers",
+      "translation": "Burton Scott Easton, Cambridge University Press, 1934",
+      "source_url": "https://www.gutenberg.org/ebooks/61614",
+      "approximate_word_count": 7211,
+      "public_domain": true,
+      "notes": "Complete translation only; Easton's introduction, notes and indexes omitted. Public domain in the United States by non-renewal, cleared and released by Project Gutenberg in 2020, not by pre-1929 imprint - see SOURCING.md"
     },
     {
       "path": "church-fathers/hippolytus-refutation-of-all-heresies.txt",
@@ -1349,6 +1359,26 @@
       "approximate_word_count": 8453,
       "public_domain": true,
       "notes": "Complete, all 33 chapters"
+    },
+    {
+      "path": "scripture/kjv-new-testament.txt",
+      "title": "The Holy Bible, King James Version: New Testament",
+      "category": "scripture",
+      "translation": "Authorized (King James) Version, 1611/1769",
+      "source_url": "https://www.gutenberg.org/ebooks/10",
+      "approximate_word_count": 188551,
+      "public_domain": true,
+      "notes": "Complete - 27 books, chapter and verse numbered"
+    },
+    {
+      "path": "scripture/kjv-old-testament.txt",
+      "title": "The Holy Bible, King James Version: Old Testament",
+      "category": "scripture",
+      "translation": "Authorized (King James) Version, 1611/1769",
+      "source_url": "https://www.gutenberg.org/ebooks/10",
+      "approximate_word_count": 632578,
+      "public_domain": true,
+      "notes": "Complete - 39 books, chapter and verse numbered"
     }
   ],
   "status": "110 of 124 texts complete and unabridged (8,794,935 words). Reformation category now holds Luther (Theses, Works vol. I, both catechisms), Calvin's Institutes, Foxe, and the Augsburg, Heidelberg, Westminster and Thirty-Nine Articles confessional documents. Patristic corpus complete through the eighth century, Justin included. All files audited for apparatus at file ends, elucidations mid-file, and modern appendices."
