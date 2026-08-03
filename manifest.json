@@ -10,7 +10,7 @@
       "category": "creeds-and-councils",
       "translation": "Traditional English (public domain)",
       "source_url": "Standard traditional form",
-      "approximate_word_count": 110,
+      "approximate_word_count": 109,
       "public_domain": true
     },
     {
@@ -19,7 +19,7 @@
       "category": "creeds-and-councils",
       "translation": "Traditional English",
       "source_url": "Standard historical form",
-      "approximate_word_count": 180,
+      "approximate_word_count": 128,
       "public_domain": true
     },
     {
@@ -28,7 +28,7 @@
       "category": "creeds-and-councils",
       "translation": "Traditional English",
       "source_url": "Standard historical form",
-      "approximate_word_count": 220,
+      "approximate_word_count": 213,
       "public_domain": true
     },
     {
@@ -37,7 +37,7 @@
       "category": "creeds-and-councils",
       "translation": "Traditional English",
       "source_url": "Standard traditional form",
-      "approximate_word_count": 650,
+      "approximate_word_count": 655,
       "public_domain": true
     },
     {
@@ -46,7 +46,7 @@
       "category": "creeds-and-councils",
       "translation": "Traditional English",
       "source_url": "Standard historical form",
-      "approximate_word_count": 280,
+      "approximate_word_count": 205,
       "public_domain": true
     },
     {
@@ -155,7 +155,7 @@
       "category": "church-fathers",
       "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 12986,
+      "approximate_word_count": 13012,
       "public_domain": true,
       "notes": "Complete"
     },
@@ -195,7 +195,7 @@
       "category": "church-fathers",
       "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 39239,
+      "approximate_word_count": 37678,
       "public_domain": true,
       "notes": "Complete"
     },
@@ -205,7 +205,7 @@
       "category": "church-fathers",
       "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 8854,
+      "approximate_word_count": 8903,
       "public_domain": true,
       "notes": "Complete extant remains in ANF. Full Peri Pascha homily not included: discovered 1940, no public-domain English translation exists."
     },
@@ -235,7 +235,7 @@
       "category": "church-fathers",
       "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 874,
+      "approximate_word_count": 899,
       "public_domain": true,
       "notes": "Complete surviving fragment. Opens mid-sentence; the manuscript is damaged at the start."
     },
@@ -245,7 +245,7 @@
       "category": "pagan-sources",
       "translation": "Whiston",
       "source_url": "Antiquities 18.3.3",
-      "approximate_word_count": 150,
+      "approximate_word_count": 126,
       "public_domain": true
     },
     {
@@ -254,7 +254,7 @@
       "category": "pagan-sources",
       "translation": "Whiston",
       "source_url": "Antiquities 20.9.1",
-      "approximate_word_count": 70,
+      "approximate_word_count": 62,
       "public_domain": true
     },
     {
@@ -263,7 +263,7 @@
       "category": "pagan-sources",
       "translation": "Church and Brodribb",
       "source_url": "Annals 15.44",
-      "approximate_word_count": 280,
+      "approximate_word_count": 284,
       "public_domain": true
     },
     {
@@ -272,7 +272,7 @@
       "category": "pagan-sources",
       "translation": "Melmoth",
       "source_url": "Letters 10.96",
-      "approximate_word_count": 650,
+      "approximate_word_count": 670,
       "public_domain": true
     },
     {
@@ -281,7 +281,7 @@
       "category": "pagan-sources",
       "translation": "Rolfe",
       "source_url": "Claudius 25.4",
-      "approximate_word_count": 20,
+      "approximate_word_count": 16,
       "public_domain": true
     },
     {
@@ -290,7 +290,7 @@
       "category": "pagan-sources",
       "translation": "Harmon",
       "source_url": "Passing of Peregrinus",
-      "approximate_word_count": 450,
+      "approximate_word_count": 442,
       "public_domain": true
     },
     {
@@ -299,7 +299,7 @@
       "category": "pagan-sources",
       "translation": "Public domain",
       "source_url": "Syriac letter",
-      "approximate_word_count": 120,
+      "approximate_word_count": 147,
       "public_domain": true
     },
     {
@@ -308,7 +308,7 @@
       "category": "pagan-sources",
       "translation": "Public domain",
       "source_url": "Origen Contra Celsum",
-      "approximate_word_count": 280,
+      "approximate_word_count": 265,
       "public_domain": true
     },
     {
@@ -317,7 +317,7 @@
       "category": "pagan-sources",
       "translation": "Public domain",
       "source_url": "Babylonian Talmud",
-      "approximate_word_count": 250,
+      "approximate_word_count": 232,
       "public_domain": true
     },
     {
@@ -336,7 +336,7 @@
       "category": "pseudepigrapha",
       "translation": "Moses Samuel, 1840",
       "source_url": "https://archive.org/details/english-book-of-jasher",
-      "approximate_word_count": 153704,
+      "approximate_word_count": 153738,
       "public_domain": true,
       "notes": "Complete, all 91 chapters. Medieval Hebrew Sefer haYashar; not the lost book cited in Joshua 10:13 / 2 Samuel 1:18, and not the 1751 Ilive forgery. Source EPUB has no title page, so the specific printing is unconfirmed."
     },
@@ -396,7 +396,7 @@
       "category": "church-fathers",
       "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 20357,
+      "approximate_word_count": 20400,
       "public_domain": true,
       "notes": "Complete, chapters I-LXVIII. Appended rescript of Hadrian absent from source scan."
     },
@@ -956,7 +956,7 @@
       "category": "reformation",
       "translation": "Jacobs and Spaeth, Holman/Philadelphia edition 1915-1932",
       "source_url": "https://www.gutenberg.org/ebooks/31604",
-      "approximate_word_count": 142052,
+      "approximate_word_count": 139924,
       "public_domain": true,
       "notes": "Complete, Volume I of the Holman edition: Disputation on Indulgences (1517), Treatise on Baptism (1519), The Fourteen of Consolation (1520), Treatise on Good Works (1520), Treatise on the New Testament (1520), The Papacy at Rome (1520)"
     },
