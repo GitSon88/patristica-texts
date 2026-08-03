@@ -76,11 +76,49 @@ gap in minutes; the rest of the volume's text layer is clean. Publishing the
 confession with its central article missing was considered and rejected — a
 confession with a hole where the pacifism article belongs is worse than no file.
 
-The same volume also carries the First London (1644) and Second London
-(1677/1689) Baptist confessions, the Standard Confession of 1660, the Orthodox
-Creed of 1678, and the Philadelphia and New Hampshire confessions, all in clean
-text and all unambiguously public domain. They are not in the brief's scope and
-have not been added; say the word if they should be.
+**The London Baptist confessions — approved for inclusion, blocked by the same
+scan.** The First London (1644) and Second London (1677/1689) confessions are in
+the same McGlothlin volume, pages 171–200 and 220–289. Both are unambiguously
+public domain. Four extraction routes were tried and all four failed:
+
+1. *The PDF's own text layer.* Both confessions are printed with a marginal
+   column of scripture references beside the text. The embedded OCR interleaves
+   those references into the prose word by word — "are re- j^/f''^'^ deemed,
+   quickened, and saved" — and no amount of cleanup recovers a sentence.
+2. *Column splitting on the layout output.* Works on the 1689, which has a wide
+   gutter, and raises page quality from 0.6 to 0.9. Fails on the 1644, where the
+   reference column is set flush against the text with no gutter, and where the
+   column switches sides partway down a page.
+3. *Fresh OCR of the page images.* The images are crisp — far better than the
+   embedded text layer, which returns nothing at all for several pages that are
+   perfectly readable by eye. But Tesseract also merges the reference column into
+   the text lines, so the same interleaving returns.
+4. *Filtering the references out by word height.* The references are set smaller,
+   but word height in OCR output tracks ascenders and descenders rather than
+   font size, so this deletes short main-text words ("us", "an", "own") along
+   with the references.
+
+A bespoke per-block OCR pipeline would do it. It is not worth building, because
+**both documents are on Wikisource in clean transcription**, and this project
+already has a working route for that: the Westminster, Augsburg and Heidelberg
+texts were produced from Wikisource EPUB exports. Export those two the same way
+and they drop straight in.
+
+McGlothlin is worth keeping only for Schleitheim, where no other public-domain
+English text is known to exist.
+
+The volume additionally carries the Standard Confession of 1660, the Orthodox
+Creed of 1678, and the Philadelphia and New Hampshire confessions, all subject
+to the same typography.
+
+**Damaged pages in this scan, for whoever checks a replacement copy.** Book
+pages 6, 7, 219, 226, 227, 252, 258 and 271 return nothing usable from the
+embedded text layer. Pages 6 and 7 are genuinely faint in the image and defeated
+three preprocessing approaches; the rest are perfectly legible images whose text
+layer simply failed, and fresh OCR recovers them. Any replacement scan should be
+checked at pages 6 and 7 first, since those carry Schleitheim's Articles V and VI
+and are the only pages whose damage is physical rather than a text-layer
+failure.
 
 **Luther, *On the Jews and Their Lies*.** Deliberately not hosted. See
 `reformation/NOTE-on-the-jews-and-their-lies.md`.
