@@ -5,211 +5,6 @@
   "last_updated": "2026-08-03",
   "texts": [
     {
-      "path": "creeds-and-councils/apostles-creed.txt",
-      "title": "The Apostles' Creed",
-      "category": "creeds-and-councils",
-      "translation": "Traditional English (public domain)",
-      "source_url": "Standard traditional form",
-      "approximate_word_count": 109,
-      "public_domain": true
-    },
-    {
-      "path": "creeds-and-councils/nicene-creed-325.txt",
-      "title": "The Nicene Creed (325)",
-      "category": "creeds-and-councils",
-      "translation": "Traditional English",
-      "source_url": "Standard historical form",
-      "approximate_word_count": 128,
-      "public_domain": true
-    },
-    {
-      "path": "creeds-and-councils/nicene-creed-381.txt",
-      "title": "The Nicene-Constantinopolitan Creed (381)",
-      "category": "creeds-and-councils",
-      "translation": "Traditional English",
-      "source_url": "Standard historical form",
-      "approximate_word_count": 213,
-      "public_domain": true
-    },
-    {
-      "path": "creeds-and-councils/athanasian-creed.txt",
-      "title": "The Athanasian Creed",
-      "category": "creeds-and-councils",
-      "translation": "Traditional English",
-      "source_url": "Standard traditional form",
-      "approximate_word_count": 655,
-      "public_domain": true
-    },
-    {
-      "path": "creeds-and-councils/chalcedonian-definition.txt",
-      "title": "The Chalcedonian Definition (451)",
-      "category": "creeds-and-councils",
-      "translation": "Traditional English",
-      "source_url": "Standard historical form",
-      "approximate_word_count": 205,
-      "public_domain": true
-    },
-    {
-      "path": "church-fathers/didache.txt",
-      "title": "The Didache",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 3160,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/ignatius-ephesians.txt",
-      "title": "Ignatius to the Ephesians",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 7086,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/ignatius-magnesians.txt",
-      "title": "Ignatius to the Magnesians",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 4509,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/ignatius-trallians.txt",
-      "title": "Ignatius to the Trallians",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 4620,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/ignatius-romans.txt",
-      "title": "Ignatius to the Romans",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 3815,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/ignatius-philadelphians.txt",
-      "title": "Ignatius to the Philadelphians",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 4868,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/ignatius-smyrnaeans.txt",
-      "title": "Ignatius to the Smyrnaeans",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 4493,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/ignatius-polycarp.txt",
-      "title": "Ignatius to Polycarp",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 2732,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/polycarp-philippians.txt",
-      "title": "Polycarp to the Philippians",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 2387,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/martyrdom-of-polycarp.txt",
-      "title": "Martyrdom of Polycarp",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 3724,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/first-clement.txt",
-      "title": "1 Clement",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 13012,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/second-clement.txt",
-      "title": "2 Clement",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885",
-      "source_url": "earlychristianwritings.com",
-      "approximate_word_count": 4122,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/epistle-of-barnabas.txt",
-      "title": "Epistle of Barnabas",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 9796,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/epistle-to-diognetus.txt",
-      "title": "Epistle to Diognetus",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 4260,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/shepherd-of-hermas.txt",
-      "title": "The Shepherd of Hermas",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 37678,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/melito-fragments.txt",
-      "title": "Melito of Sardis: Extant Fragments and Discourses",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 8903,
-      "public_domain": true,
-      "notes": "Complete extant remains in ANF. Full Peri Pascha homily not included: discovered 1940, no public-domain English translation exists."
-    },
-    {
       "path": "church-fathers/acts-of-perpetua-and-felicitas.txt",
       "title": "Acts of Perpetua and Felicitas",
       "category": "church-fathers",
@@ -220,503 +15,32 @@
       "notes": "Complete"
     },
     {
-      "path": "church-fathers/athenagoras-plea.txt",
-      "title": "Athenagoras - A Plea for the Christians",
+      "path": "church-fathers/ambrose-concerning-repentance.txt",
+      "title": "Ambrose, Concerning Repentance",
       "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 16354,
+      "approximate_word_count": 25735,
       "public_domain": true,
-      "notes": "Complete"
+      "notes": "Complete, both books"
     },
     {
-      "path": "church-fathers/muratorian-canon.txt",
-      "title": "Muratorian Canon",
+      "path": "church-fathers/ambrose-concerning-virgins.txt",
+      "title": "Ambrose, Concerning Virgins",
       "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 899,
-      "public_domain": true,
-      "notes": "Complete surviving fragment. Opens mid-sentence; the manuscript is damaged at the start."
-    },
-    {
-      "path": "pagan-sources/josephus-testimonium-flavianum.txt",
-      "title": "Josephus Testimonium Flavianum",
-      "category": "pagan-sources",
-      "translation": "Whiston",
-      "source_url": "Antiquities 18.3.3",
-      "approximate_word_count": 126,
-      "public_domain": true
-    },
-    {
-      "path": "pagan-sources/josephus-james.txt",
-      "title": "Josephus on James",
-      "category": "pagan-sources",
-      "translation": "Whiston",
-      "source_url": "Antiquities 20.9.1",
-      "approximate_word_count": 62,
-      "public_domain": true
-    },
-    {
-      "path": "pagan-sources/tacitus-annals-15-44.txt",
-      "title": "Tacitus Annals 15.44",
-      "category": "pagan-sources",
-      "translation": "Church and Brodribb",
-      "source_url": "Annals 15.44",
-      "approximate_word_count": 284,
-      "public_domain": true
-    },
-    {
-      "path": "pagan-sources/pliny-epistles-10-96.txt",
-      "title": "Pliny Epistles 10.96",
-      "category": "pagan-sources",
-      "translation": "Melmoth",
-      "source_url": "Letters 10.96",
-      "approximate_word_count": 670,
-      "public_domain": true
-    },
-    {
-      "path": "pagan-sources/suetonius-claudius-25-4.txt",
-      "title": "Suetonius Claudius 25.4",
-      "category": "pagan-sources",
-      "translation": "Rolfe",
-      "source_url": "Claudius 25.4",
-      "approximate_word_count": 16,
-      "public_domain": true
-    },
-    {
-      "path": "pagan-sources/lucian-death-of-peregrinus.txt",
-      "title": "Lucian Death of Peregrinus",
-      "category": "pagan-sources",
-      "translation": "Harmon",
-      "source_url": "Passing of Peregrinus",
-      "approximate_word_count": 442,
-      "public_domain": true
-    },
-    {
-      "path": "pagan-sources/mara-bar-serapion-letter.txt",
-      "title": "Mara bar Serapion Letter",
-      "category": "pagan-sources",
-      "translation": "Public domain",
-      "source_url": "Syriac letter",
-      "approximate_word_count": 147,
-      "public_domain": true
-    },
-    {
-      "path": "pagan-sources/celsus-fragments.txt",
-      "title": "Celsus Fragments",
-      "category": "pagan-sources",
-      "translation": "Public domain",
-      "source_url": "Origen Contra Celsum",
-      "approximate_word_count": 265,
-      "public_domain": true
-    },
-    {
-      "path": "pagan-sources/talmud-jesus-references.txt",
-      "title": "Talmud Jesus References",
-      "category": "pagan-sources",
-      "translation": "Public domain",
-      "source_url": "Babylonian Talmud",
-      "approximate_word_count": 232,
-      "public_domain": true
-    },
-    {
-      "path": "pseudepigrapha/1-enoch-complete.txt",
-      "title": "The Book of Enoch (1 Enoch)",
-      "category": "pseudepigrapha",
-      "translation": "R.H. Charles, 1917",
-      "source_url": "https://archive.org/details/english-book-of-enoch-by-r.-h.-charles",
-      "approximate_word_count": 37515,
-      "public_domain": true,
-      "notes": "Complete, all 108 chapters"
-    },
-    {
-      "path": "pseudepigrapha/book-of-jasher.txt",
-      "title": "The Book of Jasher (Sefer haYashar)",
-      "category": "pseudepigrapha",
-      "translation": "Moses Samuel, 1840",
-      "source_url": "https://archive.org/details/english-book-of-jasher",
-      "approximate_word_count": 153738,
-      "public_domain": true,
-      "notes": "Complete, all 91 chapters. Medieval Hebrew Sefer haYashar; not the lost book cited in Joshua 10:13 / 2 Samuel 1:18, and not the 1751 Ilive forgery. Source EPUB has no title page, so the specific printing is unconfirmed."
-    },
-    {
-      "path": "church-fathers/tatian-address-to-the-greeks.txt",
-      "title": "Tatian, Address to the Greeks",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 14445,
-      "public_domain": true,
-      "notes": "Complete, all 42 chapters"
-    },
-    {
-      "path": "church-fathers/theophilus-to-autolycus.txt",
-      "title": "Theophilus of Antioch, To Autolycus",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 27934,
+      "approximate_word_count": 20695,
       "public_domain": true,
       "notes": "Complete, all three books"
     },
     {
-      "path": "church-fathers/athenagoras-on-the-resurrection.txt",
-      "title": "Athenagoras, On the Resurrection of the Dead",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 12963,
-      "public_domain": true,
-      "notes": "Complete, all 25 chapters"
-    },
-    {
-      "path": "church-fathers/tertullian-apology.txt",
-      "title": "Tertullian, Apology",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 34849,
-      "public_domain": true,
-      "notes": "Complete, all 50 chapters"
-    },
-    {
-      "path": "church-fathers/minucius-felix-octavius.txt",
-      "title": "Minucius Felix, Octavius",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 21990,
-      "public_domain": true,
-      "notes": "Complete, all 40 chapters"
-    },
-    {
-      "path": "church-fathers/justin-first-apology.txt",
-      "title": "Justin Martyr, The First Apology",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 20400,
-      "public_domain": true,
-      "notes": "Complete, chapters I-LXVIII. Appended rescript of Hadrian absent from source scan."
-    },
-    {
-      "path": "church-fathers/irenaeus-against-heresies-book-3.txt",
-      "title": "Irenaeus, Against Heresies, Book III",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 40890,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/tertullian-prescription-against-heretics.txt",
-      "title": "Tertullian, The Prescription Against Heretics",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 16294,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/tertullian-on-the-flesh-of-christ.txt",
-      "title": "Tertullian, On the Flesh of Christ",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 17889,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/origen-de-principiis.txt",
-      "title": "Origen, De Principiis (On First Principles)",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 125243,
-      "public_domain": true,
-      "notes": "Complete, Preface through Book IV"
-    },
-    {
-      "path": "church-fathers/cyprian-on-the-unity-of-the-church.txt",
-      "title": "Cyprian, On the Unity of the Church",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 7913,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/eusebius-church-history-books-1-3.txt",
-      "title": "Eusebius, Church History, Books I-III",
+      "path": "church-fathers/ambrose-concerning-widows.txt",
+      "title": "Ambrose, Concerning Widows",
       "category": "church-fathers",
       "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 40768,
-      "public_domain": true,
-      "notes": "Complete, Books I-III (see Books IV-X for the remainder)"
-    },
-    {
-      "path": "church-fathers/chrysostom-on-the-priesthood.txt",
-      "title": "John Chrysostom, On the Priesthood",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 42706,
-      "public_domain": true,
-      "notes": "Complete, all six books"
-    },
-    {
-      "path": "church-fathers/athanasius-on-the-incarnation.txt",
-      "title": "Athanasius, On the Incarnation of the Word",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 31033,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/athanasius-life-of-antony.txt",
-      "title": "Athanasius, Life of Antony",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 24216,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/augustine-city-of-god-book-1.txt",
-      "title": "Augustine, City of God, Book I",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 18295,
-      "public_domain": true,
-      "notes": "Complete, Book I (see Books II-XXII for the remainder)"
-    },
-    {
-      "path": "church-fathers/irenaeus-against-heresies-book-1.txt",
-      "title": "Irenaeus, Against Heresies, Book I",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 37453,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/irenaeus-against-heresies-book-2.txt",
-      "title": "Irenaeus, Against Heresies, Book II",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 48083,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/irenaeus-against-heresies-books-4-5.txt",
-      "title": "Irenaeus, Against Heresies, Books IV-V",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 94907,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/origen-against-celsus-books-1-2.txt",
-      "title": "Origen, Against Celsus, Books I-II",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 62695,
-      "public_domain": true,
-      "notes": "Complete, Books I-II (see Books III-VIII for the remainder)"
-    },
-    {
-      "path": "church-fathers/augustine-on-the-trinity-books-1-4.txt",
-      "title": "Augustine, On the Trinity, Books I-IV",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 59939,
-      "public_domain": true,
-      "notes": "Complete, Books I-IV (see Books V-XV for the remainder)"
-    },
-    {
-      "path": "church-fathers/cyprian-epistles.txt",
-      "title": "Cyprian, The Epistles",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 114284,
-      "public_domain": true,
-      "notes": "Complete, Epistles I-LXXXII"
-    },
-    {
-      "path": "church-fathers/chrysostom-homilies-on-romans.txt",
-      "title": "John Chrysostom, Homilies on Romans",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 201941,
-      "public_domain": true,
-      "notes": "Complete, all 32 homilies"
-    },
-    {
-      "path": "church-fathers/eusebius-church-history-books-4-10.txt",
-      "title": "Eusebius, Church History, Books IV-X",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 86761,
-      "public_domain": true,
-      "notes": "Complete, Books IV-X"
-    },
-    {
-      "path": "church-fathers/clement-alexandria-exhortation.txt",
-      "title": "Clement of Alexandria, Exhortation to the Heathen",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 26700,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/clement-alexandria-the-instructor.txt",
-      "title": "Clement of Alexandria, The Instructor (Paedagogus)",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 74916,
-      "public_domain": true,
-      "notes": "Complete, all three books"
-    },
-    {
-      "path": "church-fathers/clement-alexandria-stromata.txt",
-      "title": "Clement of Alexandria, The Stromata (Miscellanies)",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 172608,
-      "public_domain": true,
-      "notes": "Complete, Books I-VII"
-    },
-    {
-      "path": "church-fathers/origen-against-celsus-books-3-8.txt",
-      "title": "Origen, Against Celsus, Books III-VIII",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 177930,
-      "public_domain": true,
-      "notes": "Complete, Books III-VIII"
-    },
-    {
-      "path": "church-fathers/hippolytus-refutation-of-all-heresies.txt",
-      "title": "Hippolytus, The Refutation of All Heresies",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 100117,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/lactantius-divine-institutes.txt",
-      "title": "Lactantius, The Divine Institutes",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 189476,
-      "public_domain": true,
-      "notes": "Complete, all seven books"
-    },
-    {
-      "path": "church-fathers/tertullian-against-marcion.txt",
-      "title": "Tertullian, Against Marcion",
-      "category": "church-fathers",
-      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 155713,
-      "public_domain": true,
-      "notes": "Complete, all five books"
-    },
-    {
-      "path": "church-fathers/augustine-city-of-god-books-2-22.txt",
-      "title": "Augustine, City of God, Books II-XXII",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 422308,
-      "public_domain": true,
-      "notes": "Complete, Books II-XXII"
-    },
-    {
-      "path": "church-fathers/augustine-on-christian-doctrine.txt",
-      "title": "Augustine, On Christian Doctrine",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 65021,
-      "public_domain": true,
-      "notes": "Complete, all four books"
-    },
-    {
-      "path": "church-fathers/basil-de-spiritu-sancto.txt",
-      "title": "Basil the Great, De Spiritu Sancto (On the Holy Spirit)",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 35739,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/basil-hexaemeron.txt",
-      "title": "Basil the Great, The Hexaemeron",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 43637,
-      "public_domain": true,
-      "notes": "Complete, all nine homilies"
-    },
-    {
-      "path": "church-fathers/basil-letters.txt",
-      "title": "Basil the Great, The Letters",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 171703,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/socrates-ecclesiastical-history.txt",
-      "title": "Socrates Scholasticus, Ecclesiastical History",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 136646,
-      "public_domain": true,
-      "notes": "Complete, all seven books"
-    },
-    {
-      "path": "church-fathers/sozomen-ecclesiastical-history.txt",
-      "title": "Sozomen, Ecclesiastical History",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 160195,
+      "approximate_word_count": 14066,
       "public_domain": true,
       "notes": "Complete"
     },
@@ -751,136 +75,6 @@
       "notes": "Complete"
     },
     {
-      "path": "church-fathers/theodoret-ecclesiastical-history.txt",
-      "title": "Theodoret, Ecclesiastical History",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 89995,
-      "public_domain": true,
-      "notes": "Complete, all five books"
-    },
-    {
-      "path": "church-fathers/theodoret-letters.txt",
-      "title": "Theodoret, The Letters",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 229203,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/jerome-letters.txt",
-      "title": "Jerome, The Letters",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 262691,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/jerome-lives-of-the-hermits.txt",
-      "title": "Jerome, The Lives of the Hermits",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 18708,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/cyril-jerusalem-catechetical-lectures.txt",
-      "title": "Cyril of Jerusalem, The Catechetical Lectures",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 108178,
-      "public_domain": true,
-      "notes": "Complete, all 23 lectures"
-    },
-    {
-      "path": "church-fathers/gregory-nazianzen-orations.txt",
-      "title": "Gregory Nazianzen, The Orations",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 235152,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/gregory-nyssa-on-virginity.txt",
-      "title": "Gregory of Nyssa, On Virginity",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 36145,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/gregory-nyssa-on-the-making-of-man.txt",
-      "title": "Gregory of Nyssa, On the Making of Man",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 69701,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/gregory-nyssa-great-catechism.txt",
-      "title": "Gregory of Nyssa, The Great Catechism",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 31428,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/gregory-great-pastoral-rule.txt",
-      "title": "Gregory the Great, The Book of Pastoral Rule",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 66379,
-      "public_domain": true,
-      "notes": "Complete, all four parts"
-    },
-    {
-      "path": "church-fathers/chrysostom-homilies-on-matthew.txt",
-      "title": "John Chrysostom, Homilies on the Gospel of Matthew",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 432097,
-      "public_domain": true,
-      "notes": "Complete, all 90 homilies"
-    },
-    {
-      "path": "church-fathers/chrysostom-homilies-on-john.txt",
-      "title": "John Chrysostom, Homilies on the Gospel of John",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 297822,
-      "public_domain": true,
-      "notes": "Complete, all 88 homilies"
-    },
-    {
-      "path": "church-fathers/chrysostom-homilies-on-hebrews.txt",
-      "title": "John Chrysostom, Homilies on Hebrews",
-      "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
-      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 141066,
-      "public_domain": true,
-      "notes": "Complete, all 34 homilies"
-    },
-    {
       "path": "church-fathers/apostolic-constitutions.txt",
       "title": "Constitutions of the Holy Apostles",
       "category": "church-fathers",
@@ -891,14 +85,74 @@
       "notes": "Complete, all eight books"
     },
     {
-      "path": "church-fathers/augustine-on-the-trinity-books-5-15.txt",
-      "title": "Augustine, On the Trinity, Books V-XV",
+      "path": "church-fathers/athanasius-life-of-antony.txt",
+      "title": "Athanasius, Life of Antony",
       "category": "church-fathers",
       "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 125734,
+      "approximate_word_count": 24216,
       "public_domain": true,
-      "notes": "Complete, Books V-XV"
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/athanasius-on-the-incarnation.txt",
+      "title": "Athanasius, On the Incarnation of the Word",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 31033,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/athenagoras-on-the-resurrection.txt",
+      "title": "Athenagoras, On the Resurrection of the Dead",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 12963,
+      "public_domain": true,
+      "notes": "Complete, all 25 chapters"
+    },
+    {
+      "path": "church-fathers/athenagoras-plea.txt",
+      "title": "Athenagoras - A Plea for the Christians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 16354,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/augustine-city-of-god-book-1.txt",
+      "title": "Augustine, City of God, Book I",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 18295,
+      "public_domain": true,
+      "notes": "Complete, Book I (see Books II-XXII for the remainder)"
+    },
+    {
+      "path": "church-fathers/augustine-city-of-god-books-2-22.txt",
+      "title": "Augustine, City of God, Books II-XXII",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 422308,
+      "public_domain": true,
+      "notes": "Complete, Books II-XXII"
+    },
+    {
+      "path": "church-fathers/augustine-confessions.txt",
+      "title": "Augustine, The Confessions",
+      "category": "church-fathers",
+      "translation": "E. B. Pusey, 1838 (Oxford Library of the Fathers)",
+      "source_url": "https://www.gutenberg.org/ebooks/3296",
+      "approximate_word_count": 111848,
+      "public_domain": true,
+      "notes": "Complete, all thirteen books"
     },
     {
       "path": "church-fathers/augustine-enchiridion.txt",
@@ -911,14 +165,64 @@
       "notes": "Complete, all 122 chapters"
     },
     {
-      "path": "church-fathers/theodoret-dialogues-eranistes.txt",
-      "title": "Theodoret, Dialogues (Eranistes)",
+      "path": "church-fathers/augustine-on-christian-doctrine.txt",
+      "title": "Augustine, On Christian Doctrine",
       "category": "church-fathers",
       "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 66057,
+      "approximate_word_count": 65021,
       "public_domain": true,
-      "notes": "Complete, all three dialogues"
+      "notes": "Complete, all four books"
+    },
+    {
+      "path": "church-fathers/augustine-on-the-trinity-books-1-4.txt",
+      "title": "Augustine, On the Trinity, Books I-IV",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 59939,
+      "public_domain": true,
+      "notes": "Complete, Books I-IV (see Books V-XV for the remainder)"
+    },
+    {
+      "path": "church-fathers/augustine-on-the-trinity-books-5-15.txt",
+      "title": "Augustine, On the Trinity, Books V-XV",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 125734,
+      "public_domain": true,
+      "notes": "Complete, Books V-XV"
+    },
+    {
+      "path": "church-fathers/basil-de-spiritu-sancto.txt",
+      "title": "Basil the Great, De Spiritu Sancto (On the Holy Spirit)",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 35739,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/basil-hexaemeron.txt",
+      "title": "Basil the Great, The Hexaemeron",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 43637,
+      "public_domain": true,
+      "notes": "Complete, all nine homilies"
+    },
+    {
+      "path": "church-fathers/basil-letters.txt",
+      "title": "Basil the Great, The Letters",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 171703,
+      "public_domain": true,
+      "notes": "Complete"
     },
     {
       "path": "church-fathers/chrysostom-homilies-on-1-corinthians.txt",
@@ -941,64 +245,14 @@
       "notes": "Complete, all 30 homilies"
     },
     {
-      "path": "reformation/luther-ninety-five-theses.txt",
-      "title": "Martin Luther, The Ninety-Five Theses",
-      "category": "reformation",
-      "translation": "Traditional English translation (Project Gutenberg #274)",
-      "source_url": "https://www.gutenberg.org/ebooks/274",
-      "approximate_word_count": 4743,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "reformation/luther-works-volume-1.txt",
-      "title": "Works of Martin Luther, Volume I",
-      "category": "reformation",
-      "translation": "Jacobs and Spaeth, Holman/Philadelphia edition 1915-1932",
-      "source_url": "https://www.gutenberg.org/ebooks/31604",
-      "approximate_word_count": 139924,
-      "public_domain": true,
-      "notes": "Complete, Volume I of the Holman edition: Disputation on Indulgences (1517), Treatise on Baptism (1519), The Fourteen of Consolation (1520), Treatise on Good Works (1520), Treatise on the New Testament (1520), The Papacy at Rome (1520)"
-    },
-    {
-      "path": "reformation/calvin-institutes-books-1-2.txt",
-      "title": "John Calvin, Institutes of the Christian Religion, Books I-II",
-      "category": "reformation",
-      "translation": "John Allen translation",
-      "source_url": "https://www.gutenberg.org/ebooks/45001",
-      "approximate_word_count": 326694,
-      "public_domain": true,
-      "notes": "Complete, Books I-II"
-    },
-    {
-      "path": "reformation/calvin-institutes-books-3-4.txt",
-      "title": "John Calvin, Institutes of the Christian Religion, Books III-IV",
-      "category": "reformation",
-      "translation": "John Allen translation",
-      "source_url": "https://www.gutenberg.org/ebooks/64392",
-      "approximate_word_count": 333468,
-      "public_domain": true,
-      "notes": "Complete, Books III-IV"
-    },
-    {
-      "path": "reformation/foxe-book-of-martyrs.txt",
-      "title": "John Foxe, Fox's Book of Martyrs",
-      "category": "reformation",
-      "translation": "19th-century English edition",
-      "source_url": "https://www.gutenberg.org/ebooks/22400",
-      "approximate_word_count": 226619,
-      "public_domain": true,
-      "notes": "Complete"
-    },
-    {
-      "path": "church-fathers/chrysostom-homilies-on-galatians.txt",
-      "title": "John Chrysostom, Homilies on Galatians",
+      "path": "church-fathers/chrysostom-homilies-on-colossians.txt",
+      "title": "John Chrysostom, Homilies on Colossians",
       "category": "church-fathers",
       "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 39737,
+      "approximate_word_count": 57835,
       "public_domain": true,
-      "notes": "Complete"
+      "notes": "Complete, all 12 homilies"
     },
     {
       "path": "church-fathers/chrysostom-homilies-on-ephesians.txt",
@@ -1011,6 +265,56 @@
       "notes": "Complete, all 24 homilies"
     },
     {
+      "path": "church-fathers/chrysostom-homilies-on-galatians.txt",
+      "title": "John Chrysostom, Homilies on Galatians",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 39737,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-hebrews.txt",
+      "title": "John Chrysostom, Homilies on Hebrews",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 141066,
+      "public_domain": true,
+      "notes": "Complete, all 34 homilies"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-john.txt",
+      "title": "John Chrysostom, Homilies on the Gospel of John",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 297822,
+      "public_domain": true,
+      "notes": "Complete, all 88 homilies"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-matthew.txt",
+      "title": "John Chrysostom, Homilies on the Gospel of Matthew",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 432097,
+      "public_domain": true,
+      "notes": "Complete, all 90 homilies"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-philemon.txt",
+      "title": "John Chrysostom, Homilies on Philemon",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 11180,
+      "public_domain": true,
+      "notes": "Complete, all three homilies"
+    },
+    {
       "path": "church-fathers/chrysostom-homilies-on-philippians.txt",
       "title": "John Chrysostom, Homilies on Philippians",
       "category": "church-fathers",
@@ -1021,14 +325,14 @@
       "notes": "Complete, all 15 homilies"
     },
     {
-      "path": "church-fathers/chrysostom-homilies-on-colossians.txt",
-      "title": "John Chrysostom, Homilies on Colossians",
+      "path": "church-fathers/chrysostom-homilies-on-romans.txt",
+      "title": "John Chrysostom, Homilies on Romans",
       "category": "church-fathers",
       "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 57835,
+      "approximate_word_count": 201941,
       "public_domain": true,
-      "notes": "Complete, all 12 homilies"
+      "notes": "Complete, all 32 homilies"
     },
     {
       "path": "church-fathers/chrysostom-homilies-on-thessalonians.txt",
@@ -1061,42 +365,132 @@
       "notes": "Complete, all six homilies"
     },
     {
-      "path": "church-fathers/chrysostom-homilies-on-philemon.txt",
-      "title": "John Chrysostom, Homilies on Philemon",
+      "path": "church-fathers/chrysostom-on-the-priesthood.txt",
+      "title": "John Chrysostom, On the Priesthood",
       "category": "church-fathers",
       "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 11180,
+      "approximate_word_count": 42706,
       "public_domain": true,
-      "notes": "Complete, all three homilies"
+      "notes": "Complete, all six books"
     },
     {
-      "path": "church-fathers/ambrose-concerning-repentance.txt",
-      "title": "Ambrose, Concerning Repentance",
+      "path": "church-fathers/clement-alexandria-exhortation.txt",
+      "title": "Clement of Alexandria, Exhortation to the Heathen",
       "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 25735,
+      "approximate_word_count": 26700,
       "public_domain": true,
-      "notes": "Complete, both books"
+      "notes": "Complete"
     },
     {
-      "path": "church-fathers/ambrose-concerning-virgins.txt",
-      "title": "Ambrose, Concerning Virgins",
+      "path": "church-fathers/clement-alexandria-stromata.txt",
+      "title": "Clement of Alexandria, The Stromata (Miscellanies)",
       "category": "church-fathers",
-      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 20695,
+      "approximate_word_count": 172608,
+      "public_domain": true,
+      "notes": "Complete, Books I-VII"
+    },
+    {
+      "path": "church-fathers/clement-alexandria-the-instructor.txt",
+      "title": "Clement of Alexandria, The Instructor (Paedagogus)",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 74916,
       "public_domain": true,
       "notes": "Complete, all three books"
     },
     {
-      "path": "church-fathers/ambrose-concerning-widows.txt",
-      "title": "Ambrose, Concerning Widows",
+      "path": "church-fathers/cyprian-epistles.txt",
+      "title": "Cyprian, The Epistles",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 114284,
+      "public_domain": true,
+      "notes": "Complete, Epistles I-LXXXII"
+    },
+    {
+      "path": "church-fathers/cyprian-on-the-unity-of-the-church.txt",
+      "title": "Cyprian, On the Unity of the Church",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 7913,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/cyril-jerusalem-catechetical-lectures.txt",
+      "title": "Cyril of Jerusalem, The Catechetical Lectures",
       "category": "church-fathers",
       "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 14066,
+      "approximate_word_count": 108178,
+      "public_domain": true,
+      "notes": "Complete, all 23 lectures"
+    },
+    {
+      "path": "church-fathers/didache.txt",
+      "title": "The Didache",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 3160,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/epistle-of-barnabas.txt",
+      "title": "Epistle of Barnabas",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 9796,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/epistle-to-diognetus.txt",
+      "title": "Epistle to Diognetus",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 4260,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/eusebius-church-history-books-1-3.txt",
+      "title": "Eusebius, Church History, Books I-III",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 40768,
+      "public_domain": true,
+      "notes": "Complete, Books I-III (see Books IV-X for the remainder)"
+    },
+    {
+      "path": "church-fathers/eusebius-church-history-books-4-10.txt",
+      "title": "Eusebius, Church History, Books IV-X",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 86761,
+      "public_domain": true,
+      "notes": "Complete, Books IV-X"
+    },
+    {
+      "path": "church-fathers/first-clement.txt",
+      "title": "1 Clement",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 13012,
       "public_domain": true,
       "notes": "Complete"
     },
@@ -1121,24 +515,194 @@
       "notes": "Complete, Books IX-XIV"
     },
     {
-      "path": "church-fathers/leo-the-great-letters-and-sermons.txt",
-      "title": "Leo the Great, Letters and Sermons",
+      "path": "church-fathers/gregory-great-pastoral-rule.txt",
+      "title": "Gregory the Great, The Book of Pastoral Rule",
       "category": "church-fathers",
       "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
       "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
-      "approximate_word_count": 161954,
+      "approximate_word_count": 66379,
+      "public_domain": true,
+      "notes": "Complete, all four parts"
+    },
+    {
+      "path": "church-fathers/gregory-nazianzen-orations.txt",
+      "title": "Gregory Nazianzen, The Orations",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 235152,
       "public_domain": true,
       "notes": "Complete"
     },
     {
-      "path": "church-fathers/augustine-confessions.txt",
-      "title": "Augustine, The Confessions",
+      "path": "church-fathers/gregory-nyssa-great-catechism.txt",
+      "title": "Gregory of Nyssa, The Great Catechism",
       "category": "church-fathers",
-      "translation": "E. B. Pusey, 1838 (Oxford Library of the Fathers)",
-      "source_url": "https://www.gutenberg.org/ebooks/3296",
-      "approximate_word_count": 111848,
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 31428,
       "public_domain": true,
-      "notes": "Complete, all thirteen books"
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/gregory-nyssa-on-the-making-of-man.txt",
+      "title": "Gregory of Nyssa, On the Making of Man",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 69701,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/gregory-nyssa-on-virginity.txt",
+      "title": "Gregory of Nyssa, On Virginity",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 36145,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/hippolytus-refutation-of-all-heresies.txt",
+      "title": "Hippolytus, The Refutation of All Heresies",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 100117,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-ephesians.txt",
+      "title": "Ignatius to the Ephesians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 7086,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-magnesians.txt",
+      "title": "Ignatius to the Magnesians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 4509,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-philadelphians.txt",
+      "title": "Ignatius to the Philadelphians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 4868,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-polycarp.txt",
+      "title": "Ignatius to Polycarp",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 2732,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-romans.txt",
+      "title": "Ignatius to the Romans",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 3815,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-smyrnaeans.txt",
+      "title": "Ignatius to the Smyrnaeans",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 4493,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/ignatius-trallians.txt",
+      "title": "Ignatius to the Trallians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 4620,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/irenaeus-against-heresies-book-1.txt",
+      "title": "Irenaeus, Against Heresies, Book I",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 37453,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/irenaeus-against-heresies-book-2.txt",
+      "title": "Irenaeus, Against Heresies, Book II",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 48083,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/irenaeus-against-heresies-book-3.txt",
+      "title": "Irenaeus, Against Heresies, Book III",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 40890,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/irenaeus-against-heresies-books-4-5.txt",
+      "title": "Irenaeus, Against Heresies, Books IV-V",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 94907,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/jerome-letters.txt",
+      "title": "Jerome, The Letters",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 262691,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/jerome-lives-of-the-hermits.txt",
+      "title": "Jerome, The Lives of the Hermits",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 18708,
+      "public_domain": true,
+      "notes": "Complete"
     },
     {
       "path": "church-fathers/justin-dialogue-with-trypho.txt",
@@ -1151,6 +715,16 @@
       "notes": "Complete, all 142 chapters"
     },
     {
+      "path": "church-fathers/justin-first-apology.txt",
+      "title": "Justin Martyr, The First Apology",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 20400,
+      "public_domain": true,
+      "notes": "Complete, chapters I-LXVIII. Appended rescript of Hadrian absent from source scan."
+    },
+    {
       "path": "church-fathers/justin-second-apology.txt",
       "title": "Justin Martyr, The Second Apology",
       "category": "church-fathers",
@@ -1159,6 +733,542 @@
       "approximate_word_count": 4681,
       "public_domain": true,
       "notes": "Complete, all 15 chapters"
+    },
+    {
+      "path": "church-fathers/lactantius-divine-institutes.txt",
+      "title": "Lactantius, The Divine Institutes",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 189476,
+      "public_domain": true,
+      "notes": "Complete, all seven books"
+    },
+    {
+      "path": "church-fathers/leo-the-great-letters-and-sermons.txt",
+      "title": "Leo the Great, Letters and Sermons",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 161954,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/martyrdom-of-polycarp.txt",
+      "title": "Martyrdom of Polycarp",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 3724,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/melito-fragments.txt",
+      "title": "Melito of Sardis: Extant Fragments and Discourses",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 8903,
+      "public_domain": true,
+      "notes": "Complete extant remains in ANF. Full Peri Pascha homily not included: discovered 1940, no public-domain English translation exists."
+    },
+    {
+      "path": "church-fathers/minucius-felix-octavius.txt",
+      "title": "Minucius Felix, Octavius",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 21990,
+      "public_domain": true,
+      "notes": "Complete, all 40 chapters"
+    },
+    {
+      "path": "church-fathers/muratorian-canon.txt",
+      "title": "Muratorian Canon",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 899,
+      "public_domain": true,
+      "notes": "Complete surviving fragment. Opens mid-sentence; the manuscript is damaged at the start."
+    },
+    {
+      "path": "church-fathers/origen-against-celsus-books-1-2.txt",
+      "title": "Origen, Against Celsus, Books I-II",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 62695,
+      "public_domain": true,
+      "notes": "Complete, Books I-II (see Books III-VIII for the remainder)"
+    },
+    {
+      "path": "church-fathers/origen-against-celsus-books-3-8.txt",
+      "title": "Origen, Against Celsus, Books III-VIII",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 177930,
+      "public_domain": true,
+      "notes": "Complete, Books III-VIII"
+    },
+    {
+      "path": "church-fathers/origen-de-principiis.txt",
+      "title": "Origen, De Principiis (On First Principles)",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 125243,
+      "public_domain": true,
+      "notes": "Complete, Preface through Book IV"
+    },
+    {
+      "path": "church-fathers/polycarp-philippians.txt",
+      "title": "Polycarp to the Philippians",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 2387,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/second-clement.txt",
+      "title": "2 Clement",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885",
+      "source_url": "earlychristianwritings.com",
+      "approximate_word_count": 4122,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/shepherd-of-hermas.txt",
+      "title": "The Shepherd of Hermas",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 37678,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/socrates-ecclesiastical-history.txt",
+      "title": "Socrates Scholasticus, Ecclesiastical History",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 136646,
+      "public_domain": true,
+      "notes": "Complete, all seven books"
+    },
+    {
+      "path": "church-fathers/sozomen-ecclesiastical-history.txt",
+      "title": "Sozomen, Ecclesiastical History",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 160195,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/tatian-address-to-the-greeks.txt",
+      "title": "Tatian, Address to the Greeks",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 14445,
+      "public_domain": true,
+      "notes": "Complete, all 42 chapters"
+    },
+    {
+      "path": "church-fathers/tertullian-against-marcion.txt",
+      "title": "Tertullian, Against Marcion",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 155713,
+      "public_domain": true,
+      "notes": "Complete, all five books"
+    },
+    {
+      "path": "church-fathers/tertullian-apology.txt",
+      "title": "Tertullian, Apology",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 34849,
+      "public_domain": true,
+      "notes": "Complete, all 50 chapters"
+    },
+    {
+      "path": "church-fathers/tertullian-on-the-flesh-of-christ.txt",
+      "title": "Tertullian, On the Flesh of Christ",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 17889,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/tertullian-prescription-against-heretics.txt",
+      "title": "Tertullian, The Prescription Against Heretics",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 16294,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/theodoret-dialogues-eranistes.txt",
+      "title": "Theodoret, Dialogues (Eranistes)",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 66057,
+      "public_domain": true,
+      "notes": "Complete, all three dialogues"
+    },
+    {
+      "path": "church-fathers/theodoret-ecclesiastical-history.txt",
+      "title": "Theodoret, Ecclesiastical History",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 89995,
+      "public_domain": true,
+      "notes": "Complete, all five books"
+    },
+    {
+      "path": "church-fathers/theodoret-letters.txt",
+      "title": "Theodoret, The Letters",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 229203,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/theophilus-to-autolycus.txt",
+      "title": "Theophilus of Antioch, To Autolycus",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 27934,
+      "public_domain": true,
+      "notes": "Complete, all three books"
+    },
+    {
+      "path": "creeds-and-councils/apostles-creed.txt",
+      "title": "The Apostles' Creed",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English (public domain)",
+      "source_url": "Standard traditional form",
+      "approximate_word_count": 109,
+      "public_domain": true
+    },
+    {
+      "path": "creeds-and-councils/apostolic-canons-and-canonical-epistles.txt",
+      "title": "The Apostolic Canons and the Canonical Epistles of the Fathers",
+      "category": "creeds-and-councils",
+      "translation": "Nicene and Post-Nicene Fathers, Second Series, vol. 14, ed. Henry R. Percival (1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 15667,
+      "public_domain": true,
+      "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
+    },
+    {
+      "path": "creeds-and-councils/athanasian-creed.txt",
+      "title": "The Athanasian Creed",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English",
+      "source_url": "Standard traditional form",
+      "approximate_word_count": 655,
+      "public_domain": true
+    },
+    {
+      "path": "creeds-and-councils/canons-of-sardica-carthage-and-constantinople.txt",
+      "title": "Canons of the Synods of Sardica, Carthage and Constantinople Received by the Ecumenical Councils",
+      "category": "creeds-and-councils",
+      "translation": "Nicene and Post-Nicene Fathers, Second Series, vol. 14, ed. Henry R. Percival (1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 58532,
+      "public_domain": true,
+      "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
+    },
+    {
+      "path": "creeds-and-councils/chalcedonian-definition.txt",
+      "title": "The Chalcedonian Definition (451)",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English",
+      "source_url": "Standard historical form",
+      "approximate_word_count": 205,
+      "public_domain": true
+    },
+    {
+      "path": "creeds-and-councils/council-of-chalcedon-451.txt",
+      "title": "The Council of Chalcedon (451): Definition, Canons and Extracts from the Acts",
+      "category": "creeds-and-councils",
+      "translation": "Nicene and Post-Nicene Fathers, Second Series, vol. 14, ed. Henry R. Percival (1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 34492,
+      "public_domain": true,
+      "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
+    },
+    {
+      "path": "creeds-and-councils/council-of-constantinople-381.txt",
+      "title": "The First Council of Constantinople (381): Creed, Canons and Documents",
+      "category": "creeds-and-councils",
+      "translation": "Nicene and Post-Nicene Fathers, Second Series, vol. 14, ed. Henry R. Percival (1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 18491,
+      "public_domain": true,
+      "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
+    },
+    {
+      "path": "creeds-and-councils/council-of-constantinople-553.txt",
+      "title": "The Second Council of Constantinople (553): Anathematisms and Documents",
+      "category": "creeds-and-councils",
+      "translation": "Nicene and Post-Nicene Fathers, Second Series, vol. 14, ed. Henry R. Percival (1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 16155,
+      "public_domain": true,
+      "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
+    },
+    {
+      "path": "creeds-and-councils/council-of-constantinople-680.txt",
+      "title": "The Third Council of Constantinople (680-681): Definition and Documents",
+      "category": "creeds-and-councils",
+      "translation": "Nicene and Post-Nicene Fathers, Second Series, vol. 14, ed. Henry R. Percival (1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 17910,
+      "public_domain": true,
+      "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
+    },
+    {
+      "path": "creeds-and-councils/council-of-ephesus-431.txt",
+      "title": "The Council of Ephesus (431): Canons, Letters and Definition",
+      "category": "creeds-and-councils",
+      "translation": "Nicene and Post-Nicene Fathers, Second Series, vol. 14, ed. Henry R. Percival (1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 33063,
+      "public_domain": true,
+      "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
+    },
+    {
+      "path": "creeds-and-councils/council-of-nicaea-325.txt",
+      "title": "The First Council of Nicaea (325): Creed, Canons and Documents",
+      "category": "creeds-and-councils",
+      "translation": "Nicene and Post-Nicene Fathers, Second Series, vol. 14, ed. Henry R. Percival (1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 36166,
+      "public_domain": true,
+      "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
+    },
+    {
+      "path": "creeds-and-councils/council-of-nicaea-787.txt",
+      "title": "The Second Council of Nicaea (787): Definition, Canons and Documents",
+      "category": "creeds-and-councils",
+      "translation": "Nicene and Post-Nicene Fathers, Second Series, vol. 14, ed. Henry R. Percival (1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 40971,
+      "public_domain": true,
+      "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
+    },
+    {
+      "path": "creeds-and-councils/nicene-creed-325.txt",
+      "title": "The Nicene Creed (325)",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English",
+      "source_url": "Standard historical form",
+      "approximate_word_count": 128,
+      "public_domain": true
+    },
+    {
+      "path": "creeds-and-councils/nicene-creed-381.txt",
+      "title": "The Nicene-Constantinopolitan Creed (381)",
+      "category": "creeds-and-councils",
+      "translation": "Traditional English",
+      "source_url": "Standard historical form",
+      "approximate_word_count": 213,
+      "public_domain": true
+    },
+    {
+      "path": "creeds-and-councils/provincial-synods-ancyra-to-laodicea.txt",
+      "title": "Canons of the Provincial Synods of Ancyra, Neocaesarea, Gangra, Antioch and Laodicea",
+      "category": "creeds-and-councils",
+      "translation": "Nicene and Post-Nicene Fathers, Second Series, vol. 14, ed. Henry R. Percival (1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 49370,
+      "public_domain": true,
+      "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
+    },
+    {
+      "path": "creeds-and-councils/quinisext-council-in-trullo-692.txt",
+      "title": "The Council in Trullo (the Quinisext Council, 692): Canons",
+      "category": "creeds-and-councils",
+      "translation": "Nicene and Post-Nicene Fathers, Second Series, vol. 14, ed. Henry R. Percival (1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 32641,
+      "public_domain": true,
+      "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
+    },
+    {
+      "path": "pagan-sources/celsus-fragments.txt",
+      "title": "Celsus Fragments",
+      "category": "pagan-sources",
+      "translation": "Public domain",
+      "source_url": "Origen Contra Celsum",
+      "approximate_word_count": 265,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/josephus-james.txt",
+      "title": "Josephus on James",
+      "category": "pagan-sources",
+      "translation": "Whiston",
+      "source_url": "Antiquities 20.9.1",
+      "approximate_word_count": 62,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/josephus-testimonium-flavianum.txt",
+      "title": "Josephus Testimonium Flavianum",
+      "category": "pagan-sources",
+      "translation": "Whiston",
+      "source_url": "Antiquities 18.3.3",
+      "approximate_word_count": 126,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/lucian-death-of-peregrinus.txt",
+      "title": "Lucian Death of Peregrinus",
+      "category": "pagan-sources",
+      "translation": "Harmon",
+      "source_url": "Passing of Peregrinus",
+      "approximate_word_count": 442,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/mara-bar-serapion-letter.txt",
+      "title": "Mara bar Serapion Letter",
+      "category": "pagan-sources",
+      "translation": "Public domain",
+      "source_url": "Syriac letter",
+      "approximate_word_count": 147,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/pliny-epistles-10-96.txt",
+      "title": "Pliny Epistles 10.96",
+      "category": "pagan-sources",
+      "translation": "Melmoth",
+      "source_url": "Letters 10.96",
+      "approximate_word_count": 670,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/suetonius-claudius-25-4.txt",
+      "title": "Suetonius Claudius 25.4",
+      "category": "pagan-sources",
+      "translation": "Rolfe",
+      "source_url": "Claudius 25.4",
+      "approximate_word_count": 16,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/tacitus-annals-15-44.txt",
+      "title": "Tacitus Annals 15.44",
+      "category": "pagan-sources",
+      "translation": "Church and Brodribb",
+      "source_url": "Annals 15.44",
+      "approximate_word_count": 284,
+      "public_domain": true
+    },
+    {
+      "path": "pagan-sources/talmud-jesus-references.txt",
+      "title": "Talmud Jesus References",
+      "category": "pagan-sources",
+      "translation": "Public domain",
+      "source_url": "Babylonian Talmud",
+      "approximate_word_count": 232,
+      "public_domain": true
+    },
+    {
+      "path": "pseudepigrapha/1-enoch-complete.txt",
+      "title": "The Book of Enoch (1 Enoch)",
+      "category": "pseudepigrapha",
+      "translation": "R.H. Charles, 1917",
+      "source_url": "https://archive.org/details/english-book-of-enoch-by-r.-h.-charles",
+      "approximate_word_count": 37515,
+      "public_domain": true,
+      "notes": "Complete, all 108 chapters"
+    },
+    {
+      "path": "pseudepigrapha/book-of-jasher.txt",
+      "title": "The Book of Jasher (Sefer haYashar)",
+      "category": "pseudepigrapha",
+      "translation": "Moses Samuel, 1840",
+      "source_url": "https://archive.org/details/english-book-of-jasher",
+      "approximate_word_count": 153738,
+      "public_domain": true,
+      "notes": "Complete, all 91 chapters. Medieval Hebrew Sefer haYashar; not the lost book cited in Joshua 10:13 / 2 Samuel 1:18, and not the 1751 Ilive forgery. Source EPUB has no title page, so the specific printing is unconfirmed."
+    },
+    {
+      "path": "reformation/augsburg-confession.txt",
+      "title": "The Augsburg Confession (1530)",
+      "category": "reformation",
+      "translation": "F. Bente and W. H. T. Dau, Concordia Triglotta, 1921",
+      "source_url": "https://en.wikisource.org/wiki/Concordia_Triglotta/The_Confession_of_Faith",
+      "approximate_word_count": 14623,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "reformation/calvin-institutes-books-1-2.txt",
+      "title": "John Calvin, Institutes of the Christian Religion, Books I-II",
+      "category": "reformation",
+      "translation": "John Allen translation",
+      "source_url": "https://www.gutenberg.org/ebooks/45001",
+      "approximate_word_count": 326694,
+      "public_domain": true,
+      "notes": "Complete, Books I-II"
+    },
+    {
+      "path": "reformation/calvin-institutes-books-3-4.txt",
+      "title": "John Calvin, Institutes of the Christian Religion, Books III-IV",
+      "category": "reformation",
+      "translation": "John Allen translation",
+      "source_url": "https://www.gutenberg.org/ebooks/64392",
+      "approximate_word_count": 333468,
+      "public_domain": true,
+      "notes": "Complete, Books III-IV"
+    },
+    {
+      "path": "reformation/foxe-book-of-martyrs.txt",
+      "title": "John Foxe, Fox's Book of Martyrs",
+      "category": "reformation",
+      "translation": "19th-century English edition",
+      "source_url": "https://www.gutenberg.org/ebooks/22400",
+      "approximate_word_count": 226619,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "reformation/heidelberg-catechism.txt",
+      "title": "The Heidelberg Catechism (1563)",
+      "category": "reformation",
+      "translation": "19th-century English translation, E. R. Good & Bro. printing, 1879",
+      "source_url": "https://en.wikisource.org/wiki/The_Heidelberg_Catechism",
+      "approximate_word_count": 19539,
+      "public_domain": true,
+      "notes": "Complete, all 129 questions"
     },
     {
       "path": "reformation/luther-large-catechism.txt",
@@ -1171,12 +1281,12 @@
       "notes": "Complete"
     },
     {
-      "path": "reformation/luther-small-catechism.txt",
-      "title": "Martin Luther, The Small Catechism",
+      "path": "reformation/luther-ninety-five-theses.txt",
+      "title": "Martin Luther, The Ninety-Five Theses",
       "category": "reformation",
-      "translation": "Robert E. Smith (Project Wittenberg, released to the public domain)",
-      "source_url": "https://www.gutenberg.org/ebooks/1670",
-      "approximate_word_count": 4098,
+      "translation": "Traditional English translation (Project Gutenberg #274)",
+      "source_url": "https://www.gutenberg.org/ebooks/274",
+      "approximate_word_count": 4743,
       "public_domain": true,
       "notes": "Complete"
     },
@@ -1191,6 +1301,26 @@
       "notes": "Complete"
     },
     {
+      "path": "reformation/luther-small-catechism.txt",
+      "title": "Martin Luther, The Small Catechism",
+      "category": "reformation",
+      "translation": "Robert E. Smith (Project Wittenberg, released to the public domain)",
+      "source_url": "https://www.gutenberg.org/ebooks/1670",
+      "approximate_word_count": 4098,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "reformation/luther-works-volume-1.txt",
+      "title": "Works of Martin Luther, Volume I",
+      "category": "reformation",
+      "translation": "Jacobs and Spaeth, Holman/Philadelphia edition 1915-1932",
+      "source_url": "https://www.gutenberg.org/ebooks/31604",
+      "approximate_word_count": 139924,
+      "public_domain": true,
+      "notes": "Complete, Volume I of the Holman edition: Disputation on Indulgences (1517), Treatise on Baptism (1519), The Fourteen of Consolation (1520), Treatise on Good Works (1520), Treatise on the New Testament (1520), The Papacy at Rome (1520)"
+    },
+    {
       "path": "reformation/thirty-nine-articles.txt",
       "title": "The Thirty-Nine Articles of Religion (1571)",
       "category": "reformation",
@@ -1199,26 +1329,6 @@
       "approximate_word_count": 4092,
       "public_domain": true,
       "notes": "Complete, all 39 articles"
-    },
-    {
-      "path": "reformation/heidelberg-catechism.txt",
-      "title": "The Heidelberg Catechism (1563)",
-      "category": "reformation",
-      "translation": "19th-century English translation, E. R. Good & Bro. printing, 1879",
-      "source_url": "https://en.wikisource.org/wiki/The_Heidelberg_Catechism",
-      "approximate_word_count": 19539,
-      "public_domain": true,
-      "notes": "Complete, all 129 questions"
-    },
-    {
-      "path": "reformation/augsburg-confession.txt",
-      "title": "The Augsburg Confession (1530)",
-      "category": "reformation",
-      "translation": "F. Bente and W. H. T. Dau, Concordia Triglotta, 1921",
-      "source_url": "https://en.wikisource.org/wiki/Concordia_Triglotta/The_Confession_of_Faith",
-      "approximate_word_count": 14623,
-      "public_domain": true,
-      "notes": "Complete"
     },
     {
       "path": "reformation/westminster-confession.txt",
