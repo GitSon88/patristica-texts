@@ -1361,6 +1361,36 @@
       "notes": "Complete, all 33 chapters"
     },
     {
+      "path": "scripture/asv-new-testament.txt",
+      "title": "The Holy Bible, American Standard Version (1901): New Testament",
+      "category": "scripture",
+      "translation": "American Standard Version, 1901",
+      "source_url": "https://ebible.org/find/details.php?id=eng-asv",
+      "approximate_word_count": 188472,
+      "public_domain": true,
+      "notes": "Complete - 27 books, chapter and verse numbered"
+    },
+    {
+      "path": "scripture/asv-old-testament.txt",
+      "title": "The Holy Bible, American Standard Version (1901): Old Testament",
+      "category": "scripture",
+      "translation": "American Standard Version, 1901",
+      "source_url": "https://ebible.org/find/details.php?id=eng-asv",
+      "approximate_word_count": 628213,
+      "public_domain": true,
+      "notes": "Complete - 39 books, chapter and verse numbered"
+    },
+    {
+      "path": "scripture/greek-new-testament-tischendorf.txt",
+      "title": "The New Testament in Koine Greek (Tischendorf's 8th edition)",
+      "category": "scripture",
+      "translation": "Tischendorf 8th edition, ed. Ulrik Sandborg-Petersen from G. Clint Yale's Tischendorf and M. A. Robinson's Westcott-Hort",
+      "source_url": "https://ebible.org/find/details.php?id=grc-tisch",
+      "approximate_word_count": 145515,
+      "public_domain": true,
+      "notes": "Complete - 27 books. Source states: This text and its analysis are in the Public Domain"
+    },
+    {
       "path": "scripture/kjv-new-testament.txt",
       "title": "The Holy Bible, King James Version: New Testament",
       "category": "scripture",

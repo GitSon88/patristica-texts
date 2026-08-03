@@ -43,8 +43,19 @@ public domain in the United States. It is here so that scripture quoted anywhere
 in the app can be checked against a hosted text rather than against a session's
 memory — which the project's standing rule forbids.
 
-Splitting it further, one file per book, is straightforward if the app ever wants
-to bind a citation to a single book rather than fetch a testament.
+It also carries the American Standard Version (1901) and Tischendorf's 8th
+edition Greek New Testament, both from eBible.org, whose PDFs state their public
+domain status on the title page. Three witnesses rather than one: an English
+translation readers know, a second English translation that is closer to the
+Greek and Hebrew word order, and the Greek itself.
+
+The point of having free equivalents on hand is that there is then no reason to
+reach for a copyrighted edition. The ESV, Nestle-Aland, the UBS text and Biblia
+Hebraica Stuttgartensia are all in copyright and none of them offers this project
+anything these three do not. See `notes/quoting-modern-sources.md`.
+
+Splitting these further, one file per book, is straightforward if the app ever
+wants to bind a citation to a single book rather than fetch a testament.
 
 ## Machine translation is never acceptable
 
