@@ -862,7 +862,8 @@
       "source_url": "earlychristianwritings.com",
       "approximate_word_count": 4122,
       "public_domain": true,
-      "notes": "Complete"
+      "notes": "Complete",
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "church-fathers/shepherd-of-hermas.txt",
@@ -1011,7 +1012,8 @@
       "translation": "Traditional English (public domain)",
       "source_url": "Standard traditional form",
       "approximate_word_count": 109,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "creeds-and-councils/apostolic-canons-and-canonical-epistles.txt",
@@ -1030,7 +1032,8 @@
       "translation": "Traditional English",
       "source_url": "Standard traditional form",
       "approximate_word_count": 655,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "creeds-and-councils/canons-of-sardica-carthage-and-constantinople.txt",
@@ -1049,7 +1052,8 @@
       "translation": "Traditional English",
       "source_url": "Standard historical form",
       "approximate_word_count": 205,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "creeds-and-councils/council-of-chalcedon-451.txt",
@@ -1128,7 +1132,8 @@
       "translation": "Traditional English",
       "source_url": "Standard historical form",
       "approximate_word_count": 128,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "creeds-and-councils/nicene-creed-381.txt",
@@ -1137,7 +1142,8 @@
       "translation": "Traditional English",
       "source_url": "Standard historical form",
       "approximate_word_count": 213,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "creeds-and-councils/provincial-synods-ancyra-to-laodicea.txt",
@@ -1166,7 +1172,8 @@
       "translation": "Public domain",
       "source_url": "Origen Contra Celsum",
       "approximate_word_count": 265,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "pagan-sources/josephus-james.txt",
@@ -1175,7 +1182,8 @@
       "translation": "Whiston",
       "source_url": "Antiquities 20.9.1",
       "approximate_word_count": 62,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "pagan-sources/josephus-testimonium-flavianum.txt",
@@ -1184,7 +1192,8 @@
       "translation": "Whiston",
       "source_url": "Antiquities 18.3.3",
       "approximate_word_count": 126,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "pagan-sources/lucian-death-of-peregrinus.txt",
@@ -1193,7 +1202,8 @@
       "translation": "Harmon",
       "source_url": "Passing of Peregrinus",
       "approximate_word_count": 442,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "pagan-sources/mara-bar-serapion-letter.txt",
@@ -1202,7 +1212,8 @@
       "translation": "Public domain",
       "source_url": "Syriac letter",
       "approximate_word_count": 147,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "pagan-sources/pliny-epistles-10-96.txt",
@@ -1211,7 +1222,8 @@
       "translation": "Melmoth",
       "source_url": "Letters 10.96",
       "approximate_word_count": 670,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "pagan-sources/suetonius-claudius-25-4.txt",
@@ -1220,7 +1232,8 @@
       "translation": "Rolfe",
       "source_url": "Claudius 25.4",
       "approximate_word_count": 16,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "pagan-sources/tacitus-annals-15-44.txt",
@@ -1229,7 +1242,8 @@
       "translation": "Church and Brodribb",
       "source_url": "Annals 15.44",
       "approximate_word_count": 284,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "pagan-sources/talmud-jesus-references.txt",
@@ -1238,7 +1252,8 @@
       "translation": "Public domain",
       "source_url": "Babylonian Talmud",
       "approximate_word_count": 232,
-      "public_domain": true
+      "public_domain": true,
+      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
       "path": "pseudepigrapha/1-enoch-complete.txt",

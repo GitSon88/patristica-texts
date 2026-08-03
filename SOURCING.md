@@ -11,6 +11,73 @@ The working pattern is: get a plain-text or EPUB file onto disk → session read
 it directly → extract, verify the first and last line of every file, register in
 `manifest.json` → push.
 
+## The fetch tool does not return pages
+
+Settled by test, because a claim circulated that texts had been "pulled directly
+over HTTPS" and that a 512 KB sync index was the real limit. Neither is right,
+and no such index figure was ever claimed here.
+
+The fetch tool converts a page to markdown and then has **a small fast model
+answer a prompt about it**. That is its documented behaviour. It does not return
+page bytes. Asked live for two chapters of the Roberts-Donaldson *Didache*
+verbatim, it returned no text at all — it returned a refusal, on the mistaken
+ground that an 1885 translation is copyrighted. Sometimes that layer refuses,
+which is visible. Sometimes it produces fluent prose with verses quietly missing,
+which is not: that is what happened to 1 Enoch, and the curly-quote transform
+found later was the same layer leaving fingerprints.
+
+**Nothing in this repository was obtained by fetch.** Every file was extracted
+from bytes on disk. Where a `source_url` names a website — the two Justin files
+and the Thirty-Nine Articles — the bytes came from a page saved to disk, and the
+URL is a provenance citation, not a retrieval route. That distinction is what
+generated the confusion, so it is worth stating plainly in any manifest entry.
+
+Known-good closing lines, for anyone checking a fetched copy against this one:
+Eusebius IV–X ends "Christians. (10)"; *City of God* ends "join me in giving
+thanks to God. Amen."; *Contra Celsum* III–VIII ends "GLORY BE TO THEE, OUR GOD;
+GLORY BE TO THEE."
+
+## Fifteen entries are marked unverified
+
+An audit of every `source_url` found **15 entries whose provenance is a citation
+rather than a file** — five creeds and ten short pagan-source and related
+extracts, all predating the current working method. They are now carrying
+`"verification": "unverified - provenance is a citation, not a source file"` in
+`manifest.json`. They have not been rewritten.
+
+Two of them fail a check against this repository's own byte-sourced witnesses,
+and the failures are not cosmetic:
+
+- `creeds-and-councils/nicene-creed-325.txt` shares only a 25-word run with the
+  creed as printed in Percival 1900, and its two most doctrinally loaded
+  clauses — "of the essence of the Father" and "being of one substance with the
+  Father" — do not appear in the witness in that form. NPNF reads "of the
+  substance of the Father" and "of one substance (ὁμοούσιον, consubstantialem)".
+- `creeds-and-councils/chalcedonian-definition.txt` shares only a 17-word run
+  with the Definition as printed in the same volume.
+
+`creeds-and-councils/nicene-creed-381.txt` fares much better — a 76-word verbatim
+run — and can be treated as substantially verified.
+
+For the two that diverge, the remedy is not to edit them. Point entries at
+`council-of-nicaea-325.txt` and `council-of-chalcedon-451.txt`, which are byte
+extractions and carry the conciliar text as printed.
+
+One further problem surfaced in the same audit: `pagan-sources/lucian-death-of-
+peregrinus.txt` names its translation as **A. M. Harmon, Loeb Classical Library**
+and asserts public domain in its own header. Harmon's Lucian volume containing
+*The Passing of Peregrinus* is Loeb 1936 — after the 1928 line, and Loeb is on
+this project's forbidden list. It is flagged unverified along with the rest and
+should be re-sourced or dropped rather than trusted.
+
+## OCR damage is documented, not repaired
+
+See `notes/ocr-damage-inventory.md`: 852 distinct damaged forms, 8,827
+occurrences, from two recurring scan errors (**ii** and **li** both read for
+**h**). A mechanical repair was built and **deliberately not applied**. A silent
+edit across primary texts is a correct-and-quote move, and the damage staying
+visible is better than a repository that looks clean and is not.
+
 ## Provenance screen — read this before adding anything
 
 Safe: Ante-Nicene Fathers (Roberts–Donaldson, 1885), Nicene and Post-Nicene
