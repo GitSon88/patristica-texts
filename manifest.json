@@ -989,7 +989,87 @@
       "approximate_word_count": 226619,
       "public_domain": true,
       "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-galatians.txt",
+      "title": "John Chrysostom, Homilies on Galatians",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 39737,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-ephesians.txt",
+      "title": "John Chrysostom, Homilies on Ephesians",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 111098,
+      "public_domain": true,
+      "notes": "Complete, all 24 homilies"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-philippians.txt",
+      "title": "John Chrysostom, Homilies on Philippians",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 62087,
+      "public_domain": true,
+      "notes": "Complete, all 15 homilies"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-colossians.txt",
+      "title": "John Chrysostom, Homilies on Colossians",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 57835,
+      "public_domain": true,
+      "notes": "Complete, all 12 homilies"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-thessalonians.txt",
+      "title": "John Chrysostom, Homilies on First and Second Thessalonians",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 67212,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-timothy.txt",
+      "title": "John Chrysostom, Homilies on First and Second Timothy",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 98568,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-titus.txt",
+      "title": "John Chrysostom, Homilies on Titus",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 21628,
+      "public_domain": true,
+      "notes": "Complete, all six homilies"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-philemon.txt",
+      "title": "John Chrysostom, Homilies on Philemon",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 11180,
+      "public_domain": true,
+      "notes": "Complete, all three homilies"
     }
   ],
-  "status": "86 of 100 texts complete and unabridged (7,362,172 words). Every file has been audited for editorial apparatus: the 1885 Ante-Nicene elucidations and editorial introductions have been removed, so each file contains the Father's text and nothing else. Patristic corpus complete through the eighth century; reformation category holds Luther, Calvin and Foxe. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "94 of 108 texts complete and unabridged (7,831,517 words). Chrysostom's Pauline homilies are now complete across every epistle. Every file has been audited twice: for editorial apparatus at file ends, and for 1885 elucidations embedded mid-file. Both audits return clean. Patristic corpus complete through the eighth century; reformation category holds Luther, Calvin and Foxe. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
 }
