@@ -110,6 +110,47 @@ uncomfortable with the distinction can drop one file and one manifest entry.
   entries discuss, and Peter Martyr Vermigli's treatise in Thomas Becon's
   sixteenth-century English (Gutenberg 22151).
 
+## The sacraments list — status
+
+Two of the six came straight out of the 38-volume scan and are in:
+
+- `church-fathers/tertullian-on-baptism.txt` — ANF vol. 3, tr. S. Thelwall, 1885.
+  Coxe's Elucidation is excluded; the treatise ends where Tertullian ends, asking
+  the reader to remember "Tertullian the sinner".
+- `church-fathers/augustine-on-baptism-against-the-donatists.txt` — NPNF first
+  series vol. 4, tr. J. R. King, 1887. All seven books.
+
+Tertullian's *On Prayer* (same volume, same translator) went in alongside them,
+since it sits immediately after *On Baptism* in ANF and is the earliest Latin
+commentary on the Lord's Prayer.
+
+**The remaining four cannot be produced from anything on disk.** Sessions here
+cannot fetch text from the web — the one attempt, on 1 Enoch, silently dropped
+verses and renumbered chapters, which is why the rule is download the file, then
+extract from bytes. Each of these needs a file put where a session can read it:
+
+- **Council of Trent, Waterworth 1848.** Project Gutenberg has it. Take the plain
+  text or EPUB. Waterworth's long historical introduction is separate from the
+  canons and decrees and should not be mixed into the same file.
+- **Zwingli.** Samuel Macauley Jackson's *Selected Works of Huldreich Zwingli*
+  (University of Pennsylvania, 1901) is the edition to want, and *The Latin Works
+  and Correspondence*, vol. 1 (Putnam, 1912), is the other. Both public domain,
+  both on the Internet Archive. Avoid the Zwingli volume in the Library of
+  Christian Classics (Westminster, 1953) — in copyright, and easy to land on
+  first in a search.
+- **Menno Simons.** *The Complete Works of Menno Simon*, translated from the
+  Dutch, Elkhart, Indiana, 1871, is public domain and on the Internet Archive.
+  This would also give the sacraments section a real Anabaptist voice on baptism
+  while Schleitheim stays blocked.
+- **Confession of Dositheus, Synod of Jerusalem 1672.** J. N. W. B. Robertson's
+  *The Acts and Decrees of the Synod of Jerusalem* (Thomas Baker, London, 1899)
+  is the translation, public domain and on the Internet Archive.
+
+For any Internet Archive item, the plain text lives at
+`https://archive.org/download/<identifier>/<identifier>_djvu.txt`. Download that
+file rather than the item page, which is JavaScript-rendered and returns nothing
+useful.
+
 ## Known gaps, and what would close them
 
 **Augustine, *Confessions*.** Absent from the 38-volume scan this repo was built

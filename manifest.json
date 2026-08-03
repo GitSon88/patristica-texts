@@ -165,6 +165,16 @@
       "notes": "Complete, all 122 chapters"
     },
     {
+      "path": "church-fathers/augustine-on-baptism-against-the-donatists.txt",
+      "title": "Augustine, On Baptism, Against the Donatists",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, First Series, vol. 4, Schaff (1887), tr. J. R. King",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 85471,
+      "public_domain": true,
+      "notes": "Complete - all seven books"
+    },
+    {
       "path": "church-fathers/augustine-on-christian-doctrine.txt",
       "title": "Augustine, On Christian Doctrine",
       "category": "church-fathers",
@@ -913,6 +923,26 @@
       "approximate_word_count": 34849,
       "public_domain": true,
       "notes": "Complete, all 50 chapters"
+    },
+    {
+      "path": "church-fathers/tertullian-on-baptism.txt",
+      "title": "Tertullian, On Baptism",
+      "category": "church-fathers",
+      "translation": "Ante-Nicene Fathers, Roberts and Donaldson (1885), tr. S. Thelwall",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 7661,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/tertullian-on-prayer.txt",
+      "title": "Tertullian, On Prayer",
+      "category": "church-fathers",
+      "translation": "Ante-Nicene Fathers, Roberts and Donaldson (1885), tr. S. Thelwall",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 7541,
+      "public_domain": true,
+      "notes": "Complete"
     },
     {
       "path": "church-fathers/tertullian-on-the-flesh-of-christ.txt",
