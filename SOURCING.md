@@ -76,7 +76,25 @@ gap in minutes; the rest of the volume's text layer is clean. Publishing the
 confession with its central article missing was considered and rejected — a
 confession with a hole where the pacifism article belongs is worse than no file.
 
-**The London Baptist confessions — approved for inclusion, blocked by the same
+**The Second London Confession (1677/1689) is now in**, at
+`reformation/second-london-baptist-confession-1689.txt`, from a Wikisource
+export rather than from the scan below. That page carries a Wikisource banner
+saying the source document is not known — meaning no scan backs the
+transcription on the wiki — so the text was corroborated independently against
+the 1911 McGlothlin printing at ten points spread across the document. Eight
+matched exactly; the two misses fall on words the McGlothlin OCR mangles, not on
+differences of wording. Thirty-two chapters and the signatories, complete.
+
+**The 1644 First London Confession is still out.** The facsimile of the original
+1644 printing (`1644_Anabaptist_Confession_of_Faith.djvu`) is a genuine and
+valuable object — original spelling, long s, the printer's imprint — but its OCR
+layer is not publishable: a clean-token ratio of 0.83, marginal scripture
+references interleaved into the prose exactly as in McGlothlin, and visible word
+loss (Article XXVII breaks off mid-sentence as "is _ X wit"). Roughly 4,900
+words recovered against an expected 6,000-plus. It should come from a Wikisource
+transcription the same way the 1689 did.
+
+**The earlier attempt on both, for the record — blocked by the McGlothlin
 scan.** The First London (1644) and Second London (1677/1689) confessions are in
 the same McGlothlin volume, pages 171–200 and 220–289. Both are unambiguously
 public domain. Four extraction routes were tried and all four failed:

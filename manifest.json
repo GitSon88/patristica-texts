@@ -1321,6 +1321,16 @@
       "notes": "Complete, Volume I of the Holman edition: Disputation on Indulgences (1517), Treatise on Baptism (1519), The Fourteen of Consolation (1520), Treatise on Good Works (1520), Treatise on the New Testament (1520), The Papacy at Rome (1520)"
     },
     {
+      "path": "reformation/second-london-baptist-confession-1689.txt",
+      "title": "The Baptist Confession of Faith (1677/1689), the Second London Confession",
+      "category": "reformation",
+      "translation": "Original English text, 1689",
+      "source_url": "https://en.wikisource.org/wiki/1689_Baptist_Confession_of_Faith",
+      "approximate_word_count": 15183,
+      "public_domain": true,
+      "notes": "Complete - 32 chapters and the signatories. The Wikisource transcription is not backed by a scan on the wiki; corroborated against the 1911 McGlothlin printing at ten points, eight confirmed, the two misses attributable to OCR damage in that scan"
+    },
+    {
       "path": "reformation/thirty-nine-articles.txt",
       "title": "The Thirty-Nine Articles of Religion (1571)",
       "category": "reformation",
