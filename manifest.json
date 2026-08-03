@@ -1139,7 +1139,67 @@
       "approximate_word_count": 111848,
       "public_domain": true,
       "notes": "Complete, all thirteen books"
+    },
+    {
+      "path": "church-fathers/justin-dialogue-with-trypho.txt",
+      "title": "Justin Martyr, Dialogue with Trypho",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://www.earlychristianwritings.com/",
+      "approximate_word_count": 69010,
+      "public_domain": true,
+      "notes": "Complete, all 142 chapters"
+    },
+    {
+      "path": "church-fathers/justin-second-apology.txt",
+      "title": "Justin Martyr, The Second Apology",
+      "category": "church-fathers",
+      "translation": "Roberts-Donaldson 1885 (Ante-Nicene Fathers)",
+      "source_url": "https://www.earlychristianwritings.com/",
+      "approximate_word_count": 4681,
+      "public_domain": true,
+      "notes": "Complete, all 15 chapters"
+    },
+    {
+      "path": "reformation/luther-large-catechism.txt",
+      "title": "Martin Luther, The Large Catechism",
+      "category": "reformation",
+      "translation": "F. Bente and W. H. T. Dau, 1921",
+      "source_url": "https://www.gutenberg.org/ebooks/1722",
+      "approximate_word_count": 48243,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "reformation/luther-small-catechism.txt",
+      "title": "Martin Luther, The Small Catechism",
+      "category": "reformation",
+      "translation": "Robert E. Smith (Project Wittenberg, released to the public domain)",
+      "source_url": "https://www.gutenberg.org/ebooks/1670",
+      "approximate_word_count": 4098,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "reformation/luther-small-catechism-explained.txt",
+      "title": "Joseph Stump, An Explanation of Luther's Small Catechism",
+      "category": "reformation",
+      "translation": "Joseph Stump",
+      "source_url": "https://www.gutenberg.org/ebooks/9912",
+      "approximate_word_count": 50211,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "reformation/thirty-nine-articles.txt",
+      "title": "The Thirty-Nine Articles of Religion (1571)",
+      "category": "reformation",
+      "translation": "Traditional English text of 1571",
+      "source_url": "https://www.thegospelcoalition.org/",
+      "approximate_word_count": 4092,
+      "public_domain": true,
+      "notes": "Complete, all 39 articles"
     }
   ],
-  "status": "101 of 115 texts complete and unabridged (8,571,985 words). Augustine's Confessions added in Pusey's 1838 translation, closing the largest remaining gap. Patristic corpus complete through the eighth century; reformation category holds Luther, Calvin and Foxe. Every file audited for apparatus at file ends, elucidations embedded mid-file, and modern appendices; all three clean. Justin's Second Apology and Dialogue with Trypho remain unextractable from the current scan - see SOURCING.md."
+  "status": "107 of 121 texts complete and unabridged (8,752,320 words). Justin Martyr is now complete - the Dialogue with Trypho and Second Apology were sourced from Roberts-Donaldson single-work pages after the 38-volume scan proved to have them interleaved beyond clean separation. Reformation category holds Luther (Theses, Works vol. I, both catechisms), Calvin, Foxe and the Thirty-Nine Articles. All files audited for apparatus at file ends, elucidations mid-file, and modern appendices."
 }
