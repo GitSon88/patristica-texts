@@ -1069,7 +1069,67 @@
       "approximate_word_count": 11180,
       "public_domain": true,
       "notes": "Complete, all three homilies"
+    },
+    {
+      "path": "church-fathers/ambrose-concerning-repentance.txt",
+      "title": "Ambrose, Concerning Repentance",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 25735,
+      "public_domain": true,
+      "notes": "Complete, both books"
+    },
+    {
+      "path": "church-fathers/ambrose-concerning-virgins.txt",
+      "title": "Ambrose, Concerning Virgins",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 20695,
+      "public_domain": true,
+      "notes": "Complete, all three books"
+    },
+    {
+      "path": "church-fathers/ambrose-concerning-widows.txt",
+      "title": "Ambrose, Concerning Widows",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 14066,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/gregory-great-epistles-part-1.txt",
+      "title": "Gregory the Great, Register of the Epistles, Books I-VIII",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 134408,
+      "public_domain": true,
+      "notes": "Complete, Books I-VIII"
+    },
+    {
+      "path": "church-fathers/gregory-great-epistles-part-2.txt",
+      "title": "Gregory the Great, Register of the Epistles, Books IX-XIV",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 271762,
+      "public_domain": true,
+      "notes": "Complete, Books IX-XIV"
+    },
+    {
+      "path": "church-fathers/leo-the-great-letters-and-sermons.txt",
+      "title": "Leo the Great, Letters and Sermons",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, Schaff et al. (1886-1900)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 161954,
+      "public_domain": true,
+      "notes": "Complete"
     }
   ],
-  "status": "94 of 108 texts complete and unabridged (7,831,517 words). Chrysostom's Pauline homilies are now complete across every epistle. Every file has been audited twice: for editorial apparatus at file ends, and for 1885 elucidations embedded mid-file. Both audits return clean. Patristic corpus complete through the eighth century; reformation category holds Luther, Calvin and Foxe. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the current source scan."
+  "status": "100 of 114 texts complete and unabridged (8,460,137 words). Patristic corpus complete through the eighth century, including Leo and Gregory the Great. Reformation category holds Luther, Calvin and Foxe. Every file audited for editorial apparatus at file ends and for elucidations embedded mid-file; both audits clean. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the source scan."
 }
