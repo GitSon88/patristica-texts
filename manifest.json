@@ -2,7 +2,7 @@
   "repository": "patristica-texts",
   "description": "Public domain texts for Patristica Early Church Reference Guide",
   "owner": "GitSon88",
-  "last_updated": "2026-08-02",
+  "last_updated": "2026-08-03",
   "texts": [
     {
       "path": "creeds-and-councils/apostles-creed.txt",
@@ -1129,7 +1129,17 @@
       "approximate_word_count": 161954,
       "public_domain": true,
       "notes": "Complete"
+    },
+    {
+      "path": "church-fathers/augustine-confessions.txt",
+      "title": "Augustine, The Confessions",
+      "category": "church-fathers",
+      "translation": "E. B. Pusey, 1838 (Oxford Library of the Fathers)",
+      "source_url": "https://www.gutenberg.org/ebooks/3296",
+      "approximate_word_count": 111848,
+      "public_domain": true,
+      "notes": "Complete, all thirteen books"
     }
   ],
-  "status": "100 of 114 texts complete and unabridged (8,460,137 words). Patristic corpus complete through the eighth century, including Leo and Gregory the Great. Reformation category holds Luther, Calvin and Foxe. Every file audited for editorial apparatus at file ends and for elucidations embedded mid-file; both audits clean. Justin's Second Apology and Dialogue with Trypho, and Augustine's Confessions, are not extractable from the source scan."
+  "status": "101 of 115 texts complete and unabridged (8,571,985 words). Augustine's Confessions added in Pusey's 1838 translation, closing the largest remaining gap. Patristic corpus complete through the eighth century; reformation category holds Luther, Calvin and Foxe. Every file audited for apparatus at file ends, elucidations embedded mid-file, and modern appendices; all three clean. Justin's Second Apology and Dialogue with Trypho remain unextractable from the current scan - see SOURCING.md."
 }
