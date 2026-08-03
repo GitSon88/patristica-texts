@@ -1199,7 +1199,37 @@
       "approximate_word_count": 4092,
       "public_domain": true,
       "notes": "Complete, all 39 articles"
+    },
+    {
+      "path": "reformation/heidelberg-catechism.txt",
+      "title": "The Heidelberg Catechism (1563)",
+      "category": "reformation",
+      "translation": "19th-century English translation, E. R. Good & Bro. printing, 1879",
+      "source_url": "https://en.wikisource.org/wiki/The_Heidelberg_Catechism",
+      "approximate_word_count": 19539,
+      "public_domain": true,
+      "notes": "Complete, all 129 questions"
+    },
+    {
+      "path": "reformation/augsburg-confession.txt",
+      "title": "The Augsburg Confession (1530)",
+      "category": "reformation",
+      "translation": "F. Bente and W. H. T. Dau, Concordia Triglotta, 1921",
+      "source_url": "https://en.wikisource.org/wiki/Concordia_Triglotta/The_Confession_of_Faith",
+      "approximate_word_count": 14623,
+      "public_domain": true,
+      "notes": "Complete"
+    },
+    {
+      "path": "reformation/westminster-confession.txt",
+      "title": "The Westminster Confession of Faith (1647)",
+      "category": "reformation",
+      "translation": "Original English text as presented to Parliament, 1647",
+      "source_url": "https://en.wikisource.org/wiki/The_Humble_Advice_of_the_Assembly_of_Divines",
+      "approximate_word_count": 8453,
+      "public_domain": true,
+      "notes": "Complete, all 33 chapters"
     }
   ],
-  "status": "107 of 121 texts complete and unabridged (8,752,320 words). Justin Martyr is now complete - the Dialogue with Trypho and Second Apology were sourced from Roberts-Donaldson single-work pages after the 38-volume scan proved to have them interleaved beyond clean separation. Reformation category holds Luther (Theses, Works vol. I, both catechisms), Calvin, Foxe and the Thirty-Nine Articles. All files audited for apparatus at file ends, elucidations mid-file, and modern appendices."
+  "status": "110 of 124 texts complete and unabridged (8,794,935 words). Reformation category now holds Luther (Theses, Works vol. I, both catechisms), Calvin's Institutes, Foxe, and the Augsburg, Heidelberg, Westminster and Thirty-Nine Articles confessional documents. Patristic corpus complete through the eighth century, Justin included. All files audited for apparatus at file ends, elucidations mid-file, and modern appendices."
 }
