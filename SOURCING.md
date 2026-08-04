@@ -129,13 +129,143 @@ introduction and no notes. The text is the 1647 original, and a faithful reprint
 of a public-domain document acquires no new copyright. That is firmer ground than
 the Easton clearance recorded above, which concerns a translation.
 
-### Sweep of the other Wikisource-derived files
+### The standing check
 
-Augsburg, Heidelberg, the 1689 Baptist Confession and the Thirty-Nine Articles
-were all checked for the same defect. All clean, with one exception worth
-recording: the Augsburg file carries the spaced-s rendering inside a **single
-German scripture quotation** (Ps. 119:46). The English text is unaffected. Noted
-in the manifest rather than repaired.
+Export chrome and completeness banners are a small fixed vocabulary, so this is a
+grep rather than a habit. Run across **every** file, not only the ones known to
+come from a wiki:
+
+    grep -rn "this work is incomplete\|see the help pages\|the style guide\|\
+    leave a comment on the talk page\|Exported from Wikisource\|\
+    START OF THE PROJECT GUTENBERG\|END OF THE PROJECT GUTENBERG\|\
+    Transcriber's Note\|wsexport\|not been proofread" --include=*.txt .
+
+Currently clean across all 147 files. Keep the strings exact. A looser version of
+this grep — bare `proofread`, bare `Project Gutenberg`, `needs to be` — returns
+15 files, every one a false positive from ordinary prose, and a check that cries
+wolf stops being run.
+
+### Completeness, not just cleanliness
+
+A file can be free of chrome and still be two thirds of a document, which is what
+happened here: 8,453 words read as plausible against a true ~12,000. Cleanliness
+and completeness are separate checks. Every confessional text has a known
+structural count, and that count is the check:
+
+| file | expected | found |
+|---|---|---|
+| `westminster-confession.txt` | 33 chapters | 33 |
+| `second-london-baptist-confession-1689.txt` | 32 chapters | 32 |
+| `augsburg-confession.txt` | 21 articles + 7 on abuses | 28 |
+| `heidelberg-catechism.txt` | 129 questions | 129, Q1 "only comfort in life and death" to Q129 "Amen" |
+| `thirty-nine-articles.txt` | 39 articles | 39 |
+
+Two things the sweep turned up, both noted rather than repaired:
+
+- The Augsburg file carries the spaced-s rendering inside a **single German
+  scripture quotation** (Ps. 119:46). The English text is unaffected.
+- In the Thirty-Nine Articles, **Article 1's heading and number were lost in
+  extraction**. Its text is present and complete — the file opens on "There is
+  but one living and true God, everlasting, without body, parts, or passions" —
+  but unlabelled. The heading has not been supplied. Inserting text that is not
+  in the file is the edit this project does not make; re-extracting from a
+  Wikisource transcription is the fix.
+
+### Why the 1946 imprint is safe — the argument, not the conclusion
+
+Recorded in full so the next person to question it can weigh it rather than take
+it on trust. Neither the person who wrote this nor the session that reasoned it
+out is a lawyer.
+
+1. **The text is not in copyright.** The Westminster Confession was completed in
+   1646 and presented to Parliament in 1647. Copyright in the text expired
+   centuries ago and cannot be revived by reprinting.
+2. **There is no new authorship in the 1946 volume.** It names no editor, carries
+   no introduction, no notes, no commentary, no modernisation credited to anyone.
+   It is the 1647 text set in type, priced at sixpence. Copyright subsists in
+   original expression; a faithful reprint adds none.
+3. **The one right that *does* arise from reprinting has expired anyway.** United
+   Kingdom law gives a publisher a right in the *typographical arrangement* of a
+   published edition — the layout of the printed page, distinct from the text. It
+   runs 25 years from publication. For a 1946 imprint that expired in 1971. And
+   it protects the arrangement, not the words: a plain-text transcription does
+   not reproduce a typographical arrangement in any event.
+4. **This is firmer ground than the Easton clearance** recorded above. Easton is
+   a *translation*, which is itself a copyrightable work, and rests on a
+   non-renewal finding. The Westminster reprint involves no translation and no
+   new authorship, so there is nothing for a copyright to attach to.
+
+If any step of that is wrong, the file should go. It is stated in steps so the
+wrong step can be identified.
+
+## Trent — pre-flight, before either file is extracted
+
+Neither file is on disk yet. Two witnesses are wanted, and the second is chosen
+deliberately: **Buckley (1851, Routledge)** from Wikisource, and the **Hanover
+College** hand-keyed transcription of Waterworth (1848). The raw OCR at
+`canonsdecreesofs00cath_djvu.txt` is the third choice, not the second — it is
+scan OCR and likelier to carry exactly the damage that made the Westminster file
+unquotable.
+
+Sessions needed: **VII** (sacraments in general), **XIII** (Eucharist), **XIV**
+(penance and extreme unction), **XXII** (the sacrifice of the Mass), **XXIII**
+(holy orders), **XXIV** (marriage).
+
+### The boundary that must be marked
+
+**About a third of Buckley's volume is not Trent.** His own preface says the
+appendix of additional statutes forms about one third of the book. From roughly
+page 365 the volume carries condemned propositions on contrition and penance,
+and pages 401 and 422 are *Auctorem fidei* material condemning the Synod of
+Pistoia — **1794**, two and a half centuries after the council.
+
+A session quoting from the back third of that file would attribute
+eighteenth-century condemnations to a sixteenth-century council, in an entry
+whose whole purpose is to let the Catholic position speak in its own words. That
+is the same class of error as the interleaved Ignatian recensions and the Zwingli
+`Catabaptists.` blocks: two documents flattened into one file with no seam
+visible to a reader.
+
+**The extraction must stop at the end of Session XXV.** Whatever follows goes in
+a separate file or nowhere.
+
+### Proofreading is uneven between namespaces
+
+Buckley's Wikisource *mainspace* pages read clean in modern orthography, no
+spaced-s. The underlying `Page:` scans are unproofread and carry OCR noise —
+"matters to be Seated of" for *treated of*, "interpretation cf the sacred
+scriptures", "imagess", "CONSIDERALE". If an export pulls from unproofread pages
+that noise comes with it. **Spot-check the six sessions specifically**, not a
+page chosen at random.
+
+### The diff will not be symmetric, and that is expected
+
+Buckley says of Waterworth that the scriptural references are inaccurate, the
+closing oration is omitted, and the appendix is missing. So structural
+differences between the two are Waterworth being incomplete by design, not a
+defect discovered. **Diff them for wording inside the decrees; treat structural
+divergence as expected rather than as a finding.**
+
+## The Lucian contradiction — resolved on evidence
+
+Two sessions disagreed: one reported `pagan-sources/lucian-death-of-
+peregrinus.txt` present in the manifest, this one reported it deleted. Settled by
+reading the published state directly out of git rather than by inference or by
+any fetch:
+
+    git fetch origin
+    git show origin/main:manifest.json      # 147 entries, zero lucian
+    git ls-tree --name-only origin/main pagan-sources/
+
+`origin/main` carries **147 manifest entries, no Lucian entry, and no Lucian file
+in the tree**. The deletion is commit `e8c761b`, pushed. There is no orphaned
+manifest entry and no manifest-versus-disk gap; the other session is reading a
+copy from before that commit. The `REPO_BIND` binding should be dropped, and
+Fowler 1905 is still worth sourcing.
+
+Reading `git show origin/main:<path>` is the reliable way to settle any
+"what is actually published" question. It returns bytes from the remote, with no
+summarising layer and no cache.
 
 ## Provenance screen — read this before adding anything
 
