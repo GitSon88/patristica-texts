@@ -63,12 +63,30 @@ For the two that diverge, the remedy is not to edit them. Point entries at
 `council-of-nicaea-325.txt` and `council-of-chalcedon-451.txt`, which are byte
 extractions and carry the conciliar text as printed.
 
-One further problem surfaced in the same audit: `pagan-sources/lucian-death-of-
-peregrinus.txt` names its translation as **A. M. Harmon, Loeb Classical Library**
-and asserts public domain in its own header. Harmon's Lucian volume containing
-*The Passing of Peregrinus* is Loeb 1936 — after the 1928 line, and Loeb is on
-this project's forbidden list. It is flagged unverified along with the rest and
-should be re-sourced or dropped rather than trusted.
+### Lucian, *The Death of Peregrinus* — removed
+
+`pagan-sources/lucian-death-of-peregrinus.txt` has been **deleted from the
+repository and from the manifest**. It named its translation as **A. M. Harmon,
+Loeb Classical Library**, and asserted public domain in its own header. Harmon's
+Lucian volume containing *The Passing of Peregrinus* is Loeb 1936 — after the
+1928 line, and Loeb is on this project's forbidden list.
+
+The reason for removing rather than flagging: a file that asserts public domain
+in its own header while being in copyright is worse than a gap. A gap is
+obvious. A false clearance passes an audit, and would keep passing every future
+audit, because the header says the work has already been checked.
+
+**The replacement, if wanted:** H. W. Fowler and F. G. Fowler, *The Works of
+Lucian of Samosata*, Clarendon Press, Oxford, 1905 — four volumes, public domain,
+on Project Gutenberg and the Internet Archive. *The Death of Peregrine* is in
+volume 4. Until a file is on disk, the Peregrinus entry should quote nothing and
+link out instead.
+
+**A related check, not a problem.** `pagan-sources/suetonius-claudius-25-4.txt`
+names J. C. Rolfe, which is also Loeb — but Rolfe's Suetonius is 1914, before the
+line, so it is public domain. It stays, flagged unverified with the rest for the
+separate reason that no file sits behind it. Loeb attribution alone is not
+disqualifying; the edition year is what decides.
 
 ## OCR damage is documented, not repaired
 

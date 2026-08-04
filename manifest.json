@@ -1196,16 +1196,6 @@
       "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
     },
     {
-      "path": "pagan-sources/lucian-death-of-peregrinus.txt",
-      "title": "Lucian Death of Peregrinus",
-      "category": "pagan-sources",
-      "translation": "Harmon",
-      "source_url": "Passing of Peregrinus",
-      "approximate_word_count": 442,
-      "public_domain": true,
-      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
-    },
-    {
       "path": "pagan-sources/mara-bar-serapion-letter.txt",
       "title": "Mara bar Serapion Letter",
       "category": "pagan-sources",
