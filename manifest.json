@@ -2,7 +2,7 @@
   "repository": "patristica-texts",
   "description": "Public domain texts for Patristica Early Church Reference Guide",
   "owner": "GitSon88",
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-05",
   "texts": [
     {
       "path": "church-fathers/acts-of-perpetua-and-felicitas.txt",
@@ -253,6 +253,16 @@
       "approximate_word_count": 133051,
       "public_domain": true,
       "notes": "Complete, all 30 homilies"
+    },
+    {
+      "path": "church-fathers/chrysostom-homilies-on-acts.txt",
+      "title": "John Chrysostom, Homilies on the Acts of the Apostles",
+      "category": "church-fathers",
+      "translation": "Nicene and Post-Nicene Fathers, First Series, vol. 11, Schaff (1889)",
+      "source_url": "https://archive.org/details/EarlyChurchFathers38Volumes",
+      "approximate_word_count": 249833,
+      "public_domain": true,
+      "notes": "Complete - all 55 homilies. Six incidental spaced-letter OCR artefacts read and left as found, per the spaced-letter rule in SOURCING.md"
     },
     {
       "path": "church-fathers/chrysostom-homilies-on-colossians.txt",

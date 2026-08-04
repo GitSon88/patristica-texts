@@ -221,6 +221,29 @@ out is a lawyer.
 If any step of that is wrong, the file should go. It is stated in steps so the
 wrong step can be identified.
 
+## Josephus — what Phase 14 will need, and what it does not have
+
+The app session's Phase 14 (Caiaphas, Pilate, Herod the Great, Herod Antipas)
+needs Josephus properly. **The 38-volume scan does not contain him** — it is
+ANF/NPNF, Christian authors only — and this repository holds nothing but two
+short extracts, `josephus-james.txt` and `josephus-testimonium-flavianum.txt`,
+both of which are among the fifteen entries flagged unverified for having a
+citation rather than a file behind them.
+
+That matters more than usual here. The Testimonium Flavianum is the single most
+disputed paragraph in Josephus, and the repository's copy of it has no bytes
+behind it. An entry arguing from it is arguing from an unverified text.
+
+**What to download:** William Whiston's translation, 1737, public domain and the
+standard English Josephus. Project Gutenberg carries *The Antiquities of the
+Jews* as ebook 2848, and the complete *Works of Flavius Josephus* is on the
+Internet Archive. Either gives Book XVIII, which carries Pilate, the Testimonium,
+Herod Antipas, John the Baptist and Caiaphas' deposition, and Book XX, which
+carries the James passage and Theudas under Cuspius Fadus.
+
+Getting Whiston in would close three things at once: Phase 14's sourcing, the two
+unverified extracts, and the Theudas chronology the Gamaliel entry now rests on.
+
 ## Trent — pre-flight, before either file is extracted
 
 Neither file is on disk yet. Two witnesses are wanted, and the second is chosen
