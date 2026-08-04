@@ -96,6 +96,47 @@ occurrences, from two recurring scan errors (**ii** and **li** both read for
 edit across primary texts is a correct-and-quote move, and the damage staying
 visible is better than a repository that looks clean and is not.
 
+## Read a page of the output. Audits do not catch everything.
+
+The Westminster Confession shipped unquotable and nothing in the checking regime
+caught it. The file was built from the Wikisource transcription of the **1647
+printing**, in which the long ſ came through as a **spaced lowercase s**: "Pre s
+ented", "mo s t", "Maje s tie", 672 times. The Wikisource maintenance banner
+"This work is incomplete" survived into the file as well, and the source page
+meant it.
+
+Every automated check passed. First and last line were sane. The apparatus regex
+found nothing. Word count looked plausible. What was never done was **reading a
+page of the extracted text**, and a human trying to quote from it found the
+defect in one sentence.
+
+**That step is now part of the method**: after extraction, read a full page of
+real body text before registering anything. Specifically look for the long ſ
+rendered as `s` with spaces around it or as `f`; for parallel columns or
+interleaved recensions flattened into consecutive paragraphs; and for a modern
+editorial layer running alongside the original.
+
+### The replacement
+
+`reformation/westminster-confession.txt` is now built from the Wikisource
+transcription of the **Tercentenary Edition** (Publishing Office of the
+Presbyterian Church of England, London, 1946) — 12,045 words, 33 chapters, the
+signatories from Charles Herle down to Adoniram Byfield, no spaced-s anywhere, no
+export chrome. A full page was read before it was registered.
+
+On the 1946 imprint: it is a plain sixpenny reprint with no editor, no
+introduction and no notes. The text is the 1647 original, and a faithful reprint
+of a public-domain document acquires no new copyright. That is firmer ground than
+the Easton clearance recorded above, which concerns a translation.
+
+### Sweep of the other Wikisource-derived files
+
+Augsburg, Heidelberg, the 1689 Baptist Confession and the Thirty-Nine Articles
+were all checked for the same defect. All clean, with one exception worth
+recording: the Augsburg file carries the spaced-s rendering inside a **single
+German scripture quotation** (Ps. 119:46). The English text is unaffected. Noted
+in the manifest rather than repaired.
+
 ## Provenance screen — read this before adding anything
 
 Safe: Ante-Nicene Fathers (Roberts–Donaldson, 1885), Nicene and Post-Nicene

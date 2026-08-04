@@ -1273,7 +1273,7 @@
       "source_url": "https://en.wikisource.org/wiki/Concordia_Triglotta/The_Confession_of_Faith",
       "approximate_word_count": 14623,
       "public_domain": true,
-      "notes": "Complete"
+      "notes": "Complete. One German scripture quotation (Ps. 119:46) carries the spaced-lowercase-s rendering of the long s; the English text is unaffected"
     },
     {
       "path": "reformation/calvin-institutes-books-1-2.txt",
@@ -1409,11 +1409,11 @@
       "path": "reformation/westminster-confession.txt",
       "title": "The Westminster Confession of Faith (1647)",
       "category": "reformation",
-      "translation": "Original English text as presented to Parliament, 1647",
-      "source_url": "https://en.wikisource.org/wiki/The_Humble_Advice_of_the_Assembly_of_Divines",
-      "approximate_word_count": 8453,
+      "translation": "Original English text of 1647, as printed in the Tercentenary Edition, Presbyterian Church of England, London, 1946",
+      "source_url": "https://en.wikisource.org/wiki/The_Confession_of_Faith_of_the_Assembly_of_Divines_at_Westminster",
+      "approximate_word_count": 12045,
       "public_domain": true,
-      "notes": "Complete, all 33 chapters"
+      "notes": "Complete - 33 chapters and the signatories. Replaces an earlier transcription of the 1647 printing that was unquotable: the long s was rendered as a spaced lowercase s in 672 places and the source page declared itself incomplete. The 1946 imprint is a plain sixpenny reprint with no editor, introduction or notes; the text is the 1647 original and a faithful reprint of a public-domain document acquires no new copyright"
     },
     {
       "path": "reformation/zwingli-selected-works.txt",
