@@ -145,6 +145,29 @@ this grep — bare `proofread`, bare `Project Gutenberg`, `needs to be` — retu
 15 files, every one a false positive from ordinary prose, and a check that cries
 wolf stops being run.
 
+### The spaced-letter pattern is a prompt to read, never a licence to fix
+
+The check that catches the Westminster defect is a search for single letters
+separated by spaces. It has a high false-positive rate, and **every false
+positive is a faithful transcription of real typography**. Run across the
+repository it returns four files:
+
+- `reformation/westminster-confession.txt` — the genuine defect, now replaced.
+- `church-fathers/apostolic-constitutions.txt` — "through Thy Son Jesus Christ
+  **o u r** Lord". Printer's letterspacing for emphasis, correctly transcribed.
+- `church-fathers/jerome-letters.txt` — "this however is only the **a b c** of
+  your soldiership". The idiom itself.
+- `reformation/menno-simons-complete-works.txt` — a single incidental match.
+
+The tempting response to the last three is to close them up. **Doing so would be
+the correct-and-quote failure, arrived at by a checker instead of by hand** —
+and worse than by hand, because a checker applies it uniformly and silently to
+things it never read.
+
+The rule: a spaced-letter hit means *go and read that line*. It never means
+repair it. If reading the line shows real damage, the finding is documented, not
+corrected — see the OCR inventory above.
+
 ### Completeness, not just cleanliness
 
 A file can be free of chrome and still be two thirds of a document, which is what
