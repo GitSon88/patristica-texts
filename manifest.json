@@ -1216,6 +1216,16 @@
       "verification": "superseded - the full text is now at jewish-sources/josephus-antiquities-of-the-jews.txt, a byte extraction of Whiston 1737. Quote from that file, not this extract, which has no source file behind it"
     },
     {
+      "path": "pagan-sources/lucian-death-of-peregrine.txt",
+      "title": "Lucian of Samosata, The Death of Peregrine",
+      "category": "pagan-sources",
+      "translation": "H. W. Fowler and F. G. Fowler, Clarendon Press, Oxford, 1905",
+      "source_url": "https://archive.org/details/worksoflucianofs04luciuoft",
+      "approximate_word_count": 6211,
+      "public_domain": true,
+      "notes": "Complete. Replaces the extract removed for naming a Loeb 1936 translation while asserting public domain. Confirmed present in volume 4 by locating it rather than assuming; Fowler's explanatory notes at pp. 191-243 are excluded"
+    },
+    {
       "path": "pagan-sources/mara-bar-serapion-letter.txt",
       "title": "Mara bar Serapion Letter",
       "category": "pagan-sources",
@@ -1326,6 +1336,16 @@
       "notes": "Complete - Bull of Indiction, all 25 sessions, the confirming bulls of Pius IV and the Index approbation. Two later layers in the volume are excluded at a marked boundary: the Ancient Constitutions (pre-Trent canon law) and the Appendix, which runs to a 1805 address by Pius VII and includes Auctorem fidei condemning the Synod of Pistoia, 1794. Scan OCR carries a sparse y-for-v substitution - 67 occurrences in 108,726 words, about one sentence in fifty visibly affected, headings worst. Read a page before quoting and pick a clean sentence; do not silently repair one"
     },
     {
+      "path": "reformation/erasmus-praise-of-folly.txt",
+      "title": "Erasmus, The Praise of Folly",
+      "category": "reformation",
+      "translation": "John Wilson, 1668",
+      "source_url": "https://www.gutenberg.org/ebooks/9371",
+      "approximate_word_count": 36820,
+      "public_domain": true,
+      "notes": "Complete. Gutenberg 9371 was chosen over 30201 because it omits the 1668 editor's Life of Erasmus; the file opens on Erasmus's own prefatory epistle to Thomas More, which is his, and runs to the end of the oration"
+    },
+    {
       "path": "reformation/foxe-book-of-martyrs.txt",
       "title": "John Foxe, Fox's Book of Martyrs",
       "category": "reformation",
@@ -1344,6 +1364,16 @@
       "approximate_word_count": 19539,
       "public_domain": true,
       "notes": "Complete, all 129 questions"
+    },
+    {
+      "path": "reformation/hus-de-ecclesia.txt",
+      "title": "John Hus, De Ecclesia: The Church",
+      "category": "reformation",
+      "translation": "David S. Schaff, Charles Scribner's Sons, 1915",
+      "source_url": "https://archive.org/details/deecclesiachurch00husjuoft",
+      "approximate_word_count": 113115,
+      "public_domain": true,
+      "notes": "Complete - all 23 chapters. Schaff's forty-six-page introduction is excluded; the file opens at Chapter I. Schaff's footnotes remain interleaved at the foot of each page as the scan runs them into the text - they are 1915 scholarship, not Hus, and read as modern English against his Latin translated into period-neutral prose"
     },
     {
       "path": "reformation/luther-large-catechism.txt",
@@ -1404,6 +1434,16 @@
       "approximate_word_count": 522999,
       "public_domain": true,
       "notes": "Both parts as printed. NOT complete despite the title: the publishers' own closing note states they condensed and abridged parts of the writings on the Incarnation of Christ and omitted material they judged unimportant. That note is retained at the end of the file"
+    },
+    {
+      "path": "reformation/savonarola-triumph-of-the-cross.txt",
+      "title": "Girolamo Savonarola, The Triumph of the Cross",
+      "category": "reformation",
+      "translation": "Translated from the Italian, ed. John Procter, O.P.",
+      "source_url": "https://www.gutenberg.org/ebooks/74508",
+      "approximate_word_count": 56652,
+      "public_domain": true,
+      "notes": "Complete - all four books. Procter's introduction is excluded: it argues against a rival translation that omitted three chapters on the sacraments, which is useful context for an entry but is the editor's polemic, not Savonarola"
     },
     {
       "path": "reformation/second-london-baptist-confession-1689.txt",

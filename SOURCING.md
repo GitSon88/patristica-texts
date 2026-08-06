@@ -326,6 +326,58 @@ break bindings rather than fix anything. Repoint the bindings, then remove.
 Antiquities only. *Wars of the Jews* is a separate work and a separate Gutenberg
 ebook; nothing in the current phases needs it.
 
+## Phase 16 — four of five in, Wycliffe rejected
+
+Each carried an editorial layer, each boundary was verified rather than taken on
+trust, and a page of each was read before registering.
+
+- **`reformation/hus-de-ecclesia.txt`** — 113,115 words, all 23 chapters, Schaff
+  1915. His forty-six-page introduction is excluded; the file opens at Chapter I.
+  One thing to know: **Schaff's footnotes remain interleaved**, because the scan
+  runs each page's footnotes into the text stream. They are visibly modern
+  scholarship against Hus's translated prose, and they are 1915, not 1413.
+- **`reformation/erasmus-praise-of-folly.txt`** — 36,820 words, Wilson 1668.
+  Gutenberg **9371** was used rather than 30201: both are Wilson, but 30201 opens
+  with the 1668 editor's *Life of Erasmus*, and 9371 does not. The file opens on
+  Erasmus's own prefatory epistle to Thomas More, which is his.
+- **`reformation/savonarola-triumph-of-the-cross.txt`** — 56,652 words, all four
+  books, Procter's edition. His introduction is excluded: it argues against a
+  rival translation that dropped three chapters on the sacraments — useful
+  context for an entry to *know*, but the editor's polemic, not Savonarola.
+- **`pagan-sources/lucian-death-of-peregrine.txt`** — 6,211 words, Fowler 1905.
+  This replaces the file removed for naming a Loeb 1936 translation while
+  asserting public domain in its own header. Its presence in volume 4 was
+  **confirmed by locating it**, not assumed, since that was the specific thing
+  asserted last time. Fowler's explanatory notes at pp. 191–243 are excluded.
+
+### Wycliffe — extracted, read, and rejected
+
+`selectenglishwor03wycl`, Arnold's edition, volume III. It was extracted and then
+**not registered**, for three reasons that compound:
+
+1. **The editorial layer is not separable.** Arnold's headnotes and page
+   footnotes are interleaved throughout, and the scan flattens them into the text
+   stream. Measured across 1,524 paragraphs: **458 carry Middle English markers
+   and 599 are modern English.** A session hunting a quotable line would land on
+   Arnold roughly as often as on Wyclif.
+2. **The Middle English does not survive the OCR.** Thorn and yogh come through
+   as ASCII noise — "snffride ]?e kyngis lege men die for hunger", "l>at",
+   "\ox\^", "^elde". Quoted verbatim that is gibberish on the page.
+3. **The only repair available is the forbidden one.** Cleaning it up means
+   modernising the spelling, and modernising before quoting is the
+   correct-and-quote failure in the form the pre-flight specifically warned
+   about, because the modernised version reads better.
+
+A file that can be neither quoted verbatim nor repaired is not a source; it is a
+reference the entry must summarise from, and it would sit in the manifest looking
+like something a reader could open. **The Wycliffe entry should summarise and
+link out until a better text exists.**
+
+What would fix it: a transcription rather than a scan — Wikisource has some
+Wyclif in edited Middle English with the thorns intact — or, for quotation
+purposes, a modern scholarly edition that is openly licensed. Arnold's own text
+is sound; it is this scan of it that cannot be used.
+
 ## Trent — in, with the boundary marked
 
 `reformation/council-of-trent-buckley.txt`, 111,290 words. Buckley's translation,
