@@ -1176,6 +1176,16 @@
       "notes": "Complete section as printed, including the 1900 editor's introductions, ancient epitomes and notes"
     },
     {
+      "path": "jewish-sources/josephus-antiquities-of-the-jews.txt",
+      "title": "Flavius Josephus, The Antiquities of the Jews",
+      "category": "jewish-sources",
+      "translation": "William Whiston, 1737",
+      "source_url": "https://www.gutenberg.org/ebooks/2848",
+      "approximate_word_count": 546148,
+      "public_domain": true,
+      "notes": "Complete - all twenty books, no editorial layer; Whiston's dissertations are not in this edition. Carries the three passages the app needs: the Testimonium Flavianum at 18.3.3, Theudas under Cuspius Fadus at 20.5.1, and the death of James at 20.9.1. Antiquities only - Wars of the Jews is a separate work and is not here"
+    },
+    {
       "path": "pagan-sources/celsus-fragments.txt",
       "title": "Celsus Fragments",
       "category": "pagan-sources",
@@ -1193,7 +1203,7 @@
       "source_url": "Antiquities 20.9.1",
       "approximate_word_count": 62,
       "public_domain": true,
-      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
+      "verification": "superseded - the full text is now at jewish-sources/josephus-antiquities-of-the-jews.txt, a byte extraction of Whiston 1737. Quote from that file, not this extract, which has no source file behind it"
     },
     {
       "path": "pagan-sources/josephus-testimonium-flavianum.txt",
@@ -1203,7 +1213,7 @@
       "source_url": "Antiquities 18.3.3",
       "approximate_word_count": 126,
       "public_domain": true,
-      "verification": "unverified - provenance is a citation, not a source file; no bytes on disk behind this text"
+      "verification": "superseded - the full text is now at jewish-sources/josephus-antiquities-of-the-jews.txt, a byte extraction of Whiston 1737. Quote from that file, not this extract, which has no source file behind it"
     },
     {
       "path": "pagan-sources/mara-bar-serapion-letter.txt",

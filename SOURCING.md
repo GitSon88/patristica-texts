@@ -303,6 +303,29 @@ Modernising the spelling and then presenting the result as a quotation is the
 correct-and-quote failure in its most tempting form, because the modernised
 version reads better.
 
+## Josephus — in, and it retires two unverified extracts
+
+`jewish-sources/josephus-antiquities-of-the-jews.txt`, 546,148 words. Whiston's
+1737 translation from Project Gutenberg 2848. All twenty books, no editorial
+layer — this edition carries none of Whiston's dissertations, so there is no
+boundary to mark, which makes it the only one of the eight without one.
+
+All three passages the app needs are present and were located rather than
+assumed: the **Testimonium Flavianum at 18.3.3**, **Theudas under Cuspius Fadus
+at 20.5.1**, and the **death of James at 20.9.1**.
+
+That last one matters for a reason beyond Phase 14. `pagan-sources/josephus-
+james.txt` and `pagan-sources/josephus-testimonium-flavianum.txt` were two of the
+fifteen entries flagged for having a citation rather than a file behind them —
+and the Testimonium is the single most disputed paragraph in Josephus. An entry
+arguing from it was arguing from a text with no bytes behind it. Both are now
+marked **superseded** in the manifest, pointing at the full work. They are not
+deleted: they are what `REPO_BIND` currently points at, and removing them would
+break bindings rather than fix anything. Repoint the bindings, then remove.
+
+Antiquities only. *Wars of the Jews* is a separate work and a separate Gutenberg
+ebook; nothing in the current phases needs it.
+
 ## Trent — in, with the boundary marked
 
 `reformation/council-of-trent-buckley.txt`, 111,290 words. Buckley's translation,
