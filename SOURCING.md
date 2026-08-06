@@ -244,6 +244,65 @@ carries the James passage and Theudas under Cuspius Fadus.
 Getting Whiston in would close three things at once: Phase 14's sourcing, the two
 unverified extracts, and the Theudas chronology the Gamaliel entry now rests on.
 
+## Line endings: what is right here is wrong in the app repo
+
+`.gitattributes` in this repository is `* text=auto eol=lf`. Every file here is
+plain UTF-8 prose; normalising to LF stops a Windows checkout showing all 148
+files as modified, which happened twice in one hour and had to be swept with
+`git checkout -- .` each time.
+
+**Do not carry that setting across to `patristica-app`.** The app session
+corrected this, and the correction matters:
+
+- Patristica.html is built by **byte-exact concatenation** of its source
+  fragments, and `build.py --check` compares a **sha256**.
+- Any line-ending translation makes the same source hash differently on a
+  Windows machine than on Netlify, so the check that exists to catch a stale
+  build starts failing on a clean one.
+- The app therefore carries `* -text` deliberately, which is the opposite
+  setting, and it is right there for the same reason this one is right here.
+
+The related symptom in the app — `.bat` files showing as wholly modified — is
+not an attributes problem at all. Their committed blobs are LF, the working
+copies are CRLF, and **CRLF is correct for `.bat` on Windows**, so committing
+them is the fix rather than normalising them away.
+
+The general rule: a repository of prose wants normalised line endings; a
+repository whose build hashes its own bytes wants none. Check which kind you are
+in before setting either.
+
+## Phase 16 — the four texts it needs, none of them on disk
+
+The app session surveyed Phase 16 (Wycliffe, Hus, Savonarola, Erasmus) before
+writing it and found **exactly one usable source in this repository: Foxe**.
+That is a real problem rather than a thin patch. Foxe's *Book of Martyrs* is a
+1563 Protestant martyrology written to make a case — good evidence for what
+Protestants believed about these men, not evidence for what the men themselves
+wrote. Four entries resting on it would quote the Catholic side only through a
+hostile witness, in every entry rather than in one lane.
+
+All four gaps are public domain:
+
+| author | text | where |
+|---|---|---|
+| Hus | *De Ecclesia: The Church*, tr. David S. Schaff, 1915 | Wikisource; archive.org `deecclesiachurch00husjuoft` |
+| Hus | *The Letters of John Hus*, Workman and Pope, 1904 | Wikisource, complete |
+| Erasmus | *In Praise of Folly*, tr. John Wilson, 1668 | Project Gutenberg 30201 |
+| Wycliffe | *Select English Works*, ed. Arnold, 1869–71 | archive.org `selectenglishwor03wycluoft` |
+| Savonarola | *The Triumph of the Cross* | Project Gutenberg 74508 |
+
+**Hus first.** *De Ecclesia* is the book he was burned over; without it the entry
+describes a trial whose evidence it cannot quote. **Erasmus second**, because his
+absence distorts most — he is the one of the four who stayed in the Catholic
+Church, and quoting him only through Protestants who claimed him would misread
+him in exactly the direction the Reformation already pulls.
+
+**A warning for whoever extracts Wycliffe:** Arnold's edition is **Middle
+English**. It must be quoted as it stands or summarised in the entry's own words.
+Modernising the spelling and then presenting the result as a quotation is the
+correct-and-quote failure in its most tempting form, because the modernised
+version reads better.
+
 ## Trent — pre-flight, before either file is extracted
 
 Neither file is on disk yet. Two witnesses are wanted, and the second is chosen

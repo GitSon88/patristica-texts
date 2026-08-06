@@ -1,0 +1,8 @@
+# Every file here is plain UTF-8 text. Normalise line endings to LF on commit
+# so a Windows checkout does not show all 148 files as modified.
+#
+# This is correct for THIS repository and NOT for patristica-app - see the note
+# in SOURCING.md. The app is built by byte-exact concatenation with a sha256
+# check and deliberately carries "* -text" instead.
+
+* text=auto eol=lf
