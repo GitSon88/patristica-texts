@@ -303,7 +303,60 @@ Modernising the spelling and then presenting the result as a quotation is the
 correct-and-quote failure in its most tempting form, because the modernised
 version reads better.
 
-## Trent — pre-flight, before either file is extracted
+## Trent — in, with the boundary marked
+
+`reformation/council-of-trent-buckley.txt`, 111,290 words. Buckley's translation,
+George Routledge and Co., London. **The title page of this scan reads 1861**,
+not the 1851 the pre-flight assumed — recorded as the page shows it rather than
+as expected, since both printings exist and only the scan is evidence.
+
+All six sessions the sacraments entries need are present and verified by their
+running heads: **VII** (sacraments in general), **XIII** (Eucharist), **XIV**
+(penance and extreme unction), **XXII** (the sacrifice of the Mass), **XXIII**
+(holy orders, whose heading the OCR mangles but whose running heads confirm it),
+**XXIV** (marriage).
+
+### Where the boundary falls, and why
+
+The volume has three layers. The file contains only the first:
+
+1. **Lines 1531–16111 — Trent.** Bull of Indiction, all twenty-five sessions, the
+   confirming bulls of Pius IV, the Index approbation. This is the file.
+2. **Lines 16113–17661 — "The Constitutions taken from the ancient law".**
+   Pre-Trent canon law from Lateran, Lyons and Sixtus IV, printed because Trent
+   referred to it. Related to the council; not the council. Excluded.
+3. **Lines 17662–end — the Appendix.** Condemnations of Wyclif, Hus and Luther,
+   the bull of Leo X against Luther (1520), the Baian errors, Jansenius,
+   Quesnell, the **Synod of Pistoia (1794)**, and an address by **Pius VII in
+   1805**. Excluded.
+
+Buckley's own preface says the appendix is about a third of the volume. A session
+quoting from the back third would attribute an eighteenth-century condemnation to
+a sixteenth-century council, in the entries whose whole purpose is to let the
+Catholic position speak in its own words. The cut was verified by searching the
+finished file for Pistoia, Auctorem, Quesnell, Jansenius, Wyclif and "Ancient
+Constitutions" — none present.
+
+### The OCR, measured rather than eyeballed
+
+Reading a page first suggested the file was too damaged to quote: "yenerable",
+"diyine", "hj" for "by", "Qod", "Euchanst". Measuring corrected that impression.
+The substitution is **y read for v**, and it runs to **67 occurrences in 108,726
+words**; malformed tokens of every kind are 0.77%. In a 147-sentence sample from
+Session XIII, **three sentences carry a visible substitution — one in fifty.**
+
+The page that alarmed me was heading-dense, and display type is where this scan
+is worst. The prose is sound. The rule that follows: **read the passage before
+quoting it and choose a clean sentence**; where a sentence is damaged, that is
+visible, so nobody quotes it unawares — and nobody should silently repair one.
+
+**Hanover College's hand-keyed Waterworth is still worth having** as a second
+witness for those six sessions specifically. Not because this file is unusable,
+but because a doctrinal quotation deserves two witnesses and Waterworth is keyed
+rather than scanned. Its known omissions — the closing oration and the appendix —
+are by design, so structural divergence between the two is expected.
+
+## Trent — the original pre-flight, kept for the reasoning
 
 Neither file is on disk yet. Two witnesses are wanted, and the second is chosen
 deliberately: **Buckley (1851, Routledge)** from Wikisource, and the **Hanover

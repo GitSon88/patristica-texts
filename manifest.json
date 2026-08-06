@@ -2,7 +2,7 @@
   "repository": "patristica-texts",
   "description": "Public domain texts for Patristica Early Church Reference Guide",
   "owner": "GitSon88",
-  "last_updated": "2026-08-05",
+  "last_updated": "2026-08-06",
   "texts": [
     {
       "path": "church-fathers/acts-of-perpetua-and-felicitas.txt",
@@ -1304,6 +1304,16 @@
       "approximate_word_count": 333468,
       "public_domain": true,
       "notes": "Complete, Books III-IV"
+    },
+    {
+      "path": "reformation/council-of-trent-buckley.txt",
+      "title": "The Canons and Decrees of the Council of Trent (1545-1563)",
+      "category": "reformation",
+      "translation": "Theodore Alois Buckley, George Routledge and Co., London (title page reads 1861)",
+      "source_url": "https://archive.org/details/canonsanddecree00buckgoog",
+      "approximate_word_count": 111290,
+      "public_domain": true,
+      "notes": "Complete - Bull of Indiction, all 25 sessions, the confirming bulls of Pius IV and the Index approbation. Two later layers in the volume are excluded at a marked boundary: the Ancient Constitutions (pre-Trent canon law) and the Appendix, which runs to a 1805 address by Pius VII and includes Auctorem fidei condemning the Synod of Pistoia, 1794. Scan OCR carries a sparse y-for-v substitution - 67 occurrences in 108,726 words, about one sentence in fifty visibly affected, headings worst. Read a page before quoting and pick a clean sentence; do not silently repair one"
     },
     {
       "path": "reformation/foxe-book-of-martyrs.txt",
