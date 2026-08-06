@@ -1336,6 +1336,16 @@
       "notes": "Complete - Bull of Indiction, all 25 sessions, the confirming bulls of Pius IV and the Index approbation. Two later layers in the volume are excluded at a marked boundary: the Ancient Constitutions (pre-Trent canon law) and the Appendix, which runs to a 1805 address by Pius VII and includes Auctorem fidei condemning the Synod of Pistoia, 1794. Scan OCR carries a sparse y-for-v substitution - 67 occurrences in 108,726 words, about one sentence in fifty visibly affected, headings worst. Read a page before quoting and pick a clean sentence; do not silently repair one"
     },
     {
+      "path": "reformation/council-of-trent-waterworth-six-sessions.txt",
+      "title": "The Council of Trent: Sessions VII, XIII, XIV, XXII, XXIII and XXIV",
+      "category": "reformation",
+      "translation": "James Waterworth, 1848; hand-keyed by Hanover College, 1995",
+      "source_url": "https://history.hanover.edu/texts/trent/",
+      "approximate_word_count": 39800,
+      "public_domain": true,
+      "notes": "The six sacramental sessions only, as a clean second witness to the Buckley scan. Hand-keyed rather than scanned, so it carries none of Buckley's y-for-v damage - quote doctrinal passages from this file and use Buckley for the sessions it does not cover. Waterworth omits the closing oration and the appendix by design, so structural divergence from Buckley is expected rather than a defect"
+    },
+    {
       "path": "reformation/erasmus-praise-of-folly.txt",
       "title": "Erasmus, The Praise of Folly",
       "category": "reformation",
@@ -1374,6 +1384,16 @@
       "approximate_word_count": 113115,
       "public_domain": true,
       "notes": "Complete - all 23 chapters. Schaff's forty-six-page introduction is excluded; the file opens at Chapter I. Schaff's footnotes remain interleaved at the foot of each page as the scan runs them into the text - they are 1915 scholarship, not Hus, and read as modern English against his Latin translated into period-neutral prose"
+    },
+    {
+      "path": "reformation/hus-letters.txt",
+      "title": "John Hus, The Letters of John Hus",
+      "category": "reformation",
+      "translation": "Herbert B. Workman and R. Martin Pope, Hodder and Stoughton, London, 1904",
+      "source_url": "https://archive.org/details/lettersofjohnhus00husj",
+      "approximate_word_count": 93674,
+      "public_domain": true,
+      "notes": "The letters themselves, opening at Letter I. Workman's long introduction is excluded, but his connecting narratives and explanatory headnotes remain between the letters as the edition prints them - they are 1904 scholarship and read as modern English against Hus's translated correspondence"
     },
     {
       "path": "reformation/luther-large-catechism.txt",

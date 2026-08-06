@@ -326,6 +326,49 @@ break bindings rather than fix anything. Repoint the bindings, then remove.
 Antiquities only. *Wars of the Jews* is a separate work and a separate Gutenberg
 ebook; nothing in the current phases needs it.
 
+## Trent has two witnesses now, and they disagree in the way that matters
+
+`reformation/council-of-trent-waterworth-six-sessions.txt` — 39,800 words,
+Waterworth's 1848 translation of the six sacramental sessions, **hand-keyed by
+Hanover College in 1995** rather than scanned. Web navigation chrome stripped;
+none left.
+
+Set the two side by side on Session XIII and the difference is the whole argument
+for having both. On the Real Presence:
+
+> **Waterworth, hand-keyed:** "…are contained truly, really, and substantially,
+> the body and blood together with the soul and divinity of our Lord Jesus
+> Christ, and consequently the whole Christ…"
+
+> **Buckley, scanned:** "…in the sacred sacrament of the holy **Euchanst**, after
+> the consecration of the bread and wine, our Lord Jesus Christ, true **Qod** and
+> man, is truly, really, and substantially contained…"
+
+Same doctrine, and the scan is perfectly legible — but one of those is quotable
+in a shipped entry and the other is not.
+
+**The rule that follows:** quote doctrinal passages from **Waterworth** for
+Sessions VII, XIII, XIV, XXII, XXIII and XXIV; use **Buckley** for the nineteen
+sessions Waterworth does not cover, and read the passage first. Waterworth omits
+the closing oration and the appendix by design, so structural divergence between
+the two is expected rather than a finding.
+
+## Hus's letters — in
+
+`reformation/hus-letters.txt`, 93,674 words. Workman and Pope, Hodder and
+Stoughton, 1904. Opens at Letter I; Workman's long introduction is excluded.
+
+**One thing an entry writer must know:** Workman's *connecting narratives and
+explanatory headnotes stay between the letters*, because that is how the edition
+is built — he says so himself, that he will "leave the Letters, as far as
+possible, to tell their own story, adding only such connecting narratives and
+notes as may be needful." They are 1904 scholarship and read as modern English
+against Hus's translated correspondence, so they are distinguishable, but they
+are on the page and they are not Hus.
+
+With *De Ecclesia* already in, Hus is now the best-sourced figure in Phase 16 —
+which is right, since he is the one whose trial the entry has to describe.
+
 ## Phase 16 — four of five in, Wycliffe rejected
 
 Each carried an editorial layer, each boundary was verified rather than taken on
